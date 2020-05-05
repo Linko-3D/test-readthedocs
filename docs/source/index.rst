@@ -6,10 +6,21 @@
 Simple Documentation Tutorial: MDE LAB
 ==================================
 
+Another simple header
+=====================
+
+Here is some text explaining some very complicated stuff.
+
+   print 'hellpo'
+   >> hello
+
+Guide
+^^^^^
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   license
 
 
 Indices and tables

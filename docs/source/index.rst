@@ -20,7 +20,6 @@ Guide
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   license
 
 
 Indices and tables

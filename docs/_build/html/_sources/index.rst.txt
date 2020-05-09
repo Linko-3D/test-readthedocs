@@ -13,17 +13,26 @@ Pour toute question, suggestion demande, vous pouvez nous écrire directement à
    :maxdepth: 2
    :caption: Lab:
 
-   /tutorials/3dupbox/index.rst
-   /tutorials/curio/index.rst
-   /tutorials/roland/index.rst
-   /tutorials/broder500/index.rst
-   /tutorials/arduino/index.rst
+   /tutorials/lab/3dupbox/index.rst
+   /tutorials/lab/curio/index.rst
+   /tutorials/lab/roland/index.rst
+   /tutorials/lab/broder500/index.rst
+   /tutorials/lab/arduino/index.rst
+   /tutorials/lab/microbit/index.rst
+   /tutorials/lab/doodler/index.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Numerique:
    
-   /tutorials/occulus/index.rst
+   /tutorials/numerique/ps4/index.rst
+   /tutorials/numerique/wii/index.rst
+   /tutorials/numerique/occulus/index.rst
+   /tutorials/numerique/conduite/index.rst
+   /tutorials/numerique/drones/index.rst
+
+
+
 
 Indices and tables
 ==================

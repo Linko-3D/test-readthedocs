@@ -1,5 +1,0 @@
-.. _doc_high_level_multiplayer:
-
-3D Up Box
-=========
-aaa

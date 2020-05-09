@@ -14,7 +14,10 @@ Pour toute question, suggestion demande, vous pouvez nous écrire directement à
    :caption: Lab:
 
    /tutorials/3dupbox/index.rst
-
+   /tutorials/curio/index.rst
+   /tutorials/roland/index.rst
+   /tutorials/broder500/index.rst
+   /tutorials/arduino/index.rst
 
 .. toctree::
    :maxdepth: 2

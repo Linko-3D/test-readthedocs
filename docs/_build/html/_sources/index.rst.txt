@@ -6,14 +6,15 @@
 Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne
 =================================================================================
 
-Vous trouverez ici la documentation sur le matériel qui vous a été prêté.
-Pour toute question, suggestion demande, vous pouvez nous écrire directement à cette adresse email:
+.. note:: Vous trouverez ici la documentation sur le matériel qui vous a été prêté.
+   Pour toute question, suggestion demande, vous pouvez nous écrire directement à cette adresse email:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lab:
+   :caption: Lab Docs:
 
    /tutorials/lab/3dupbox/index.rst
+   /tutorials/lab/dagoma/index.rst
    /tutorials/lab/curio/index.rst
    /tutorials/lab/roland/index.rst
    /tutorials/lab/broder500/index.rst
@@ -23,7 +24,7 @@ Pour toute question, suggestion demande, vous pouvez nous écrire directement à
 
 .. toctree::
    :maxdepth: 2
-   :caption: Numerique:
+   :caption: Numerique Docs:
    
    /tutorials/numerique/ps4/index.rst
    /tutorials/numerique/wii/index.rst

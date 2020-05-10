@@ -1,2 +1,2 @@
-Brodeuse numérique: Broder 500 serie 5
+Brodeuse: Broder 500 serie 5
 =======================================

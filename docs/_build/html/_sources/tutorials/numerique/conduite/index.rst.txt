@@ -1,6 +1,26 @@
 Simulateur: Conduite
 =====================
 
-.. image :: cockpit.png
+.. image :: sim.png
 
-.. image :: base.png
+Le matériel mis à disposition par la MDE est composé des éléments suivant:
+
+Cockpit
+-------
+
+.. image :: cockpit.jpg
+
+Volant et base
+--------------
+
+.. image :: base.jpg
+
+Pédales
+--------
+
+.. image :: pedals.jpg
+
+Levier de vitesses
+------------------
+
+.. image :: shifter.jpg

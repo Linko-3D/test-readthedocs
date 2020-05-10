@@ -27,6 +27,7 @@ Pour toute question, suggestion demande, vous pouvez nous écrire directement à
    
    /tutorials/numerique/ps4/index.rst
    /tutorials/numerique/wii/index.rst
+   /tutorials/numerique/arcade/index.rst
    /tutorials/numerique/occulus/index.rst
    /tutorials/numerique/conduite/index.rst
    /tutorials/numerique/drones/index.rst

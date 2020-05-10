@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MDE Lab Docs'
-copyright = '2020, MDE Team'
-author = 'MDE Team'
+project = 'MDE Docs'
+copyright = '2020, Equipe MDE'
+author = 'Equipe MDE'
 
 
 # -- General configuration ---------------------------------------------------

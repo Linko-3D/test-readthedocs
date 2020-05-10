@@ -3,28 +3,40 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne
-=================================================================================
+Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne (MDE)
+=======================================================================================
 
-.. note:: Vous trouverez ici la documentation sur le matériel qui vous a été prêté.
-   Pour toute question, suggestion demande, vous pouvez nous écrire directement à cette adresse email:
+.. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
+   Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lab Docs:
+.. image:: essonne.png
+   :align: right
+.. image:: mde.png
+   :align: right
 
-   /tutorials/lab/3dupbox/index.rst
-   /tutorials/lab/dagoma/index.rst
-   /tutorials/lab/curio/index.rst
-   /tutorials/lab/roland/index.rst
-   /tutorials/lab/broder500/index.rst
-   /tutorials/lab/arduino/index.rst
-   /tutorials/lab/microbit/index.rst
-   /tutorials/lab/doodler/index.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Numerique Docs:
+   :caption: Fabrication:
+
+   /tutorials/fabrication/3dupbox/index.rst
+   /tutorials/fabrication/dagoma/index.rst
+   /tutorials/fabrication/curio/index.rst
+   /tutorials/fabrication/roland/index.rst
+   /tutorials/fabrication/broder500/index.rst
+   /tutorials/fabrication/doodler/index.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Programmation:
+
+   /tutorials/programmation/arduino/index.rst
+   /tutorials/programmation/microbit/index.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Jeux et simulateurs:
    
    /tutorials/numerique/ps4/index.rst
    /tutorials/numerique/wii/index.rst
@@ -32,7 +44,6 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
    /tutorials/numerique/occulus/index.rst
    /tutorials/numerique/conduite/index.rst
    /tutorials/numerique/drones/index.rst
-
 
 
 

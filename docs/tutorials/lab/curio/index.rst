@@ -1,2 +1,0 @@
-Découpeuse vinyl: Silhouette Curio
-===================================

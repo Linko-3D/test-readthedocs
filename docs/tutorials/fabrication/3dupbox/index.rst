@@ -18,7 +18,7 @@ Utilisation
 -----------
 
 Récupérer un modèle sur internet
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Thingiverse <https://www.thingiverse.com/>`_
 

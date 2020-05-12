@@ -1,5 +1,5 @@
-Imprimante 3D: 3D Up Box+
-=========================
+Imprimante 3D: 3D Up Box
+========================
 Todo:
 
 - Matériel Carte SD et son utilisation

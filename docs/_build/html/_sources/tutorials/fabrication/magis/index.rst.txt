@@ -3,8 +3,9 @@ Imprimante 3D: Dagoma Neva Magis
 
 Matériel
 --------
+- `Site officiel <https://www.dagoma3d.com/imprimante-3d-magis-dagoma>`_
 
-.. image:: dagoma.jpg
+.. image:: magis.jpg
 
 Logiciel
 --------

@@ -20,7 +20,7 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
    :caption: Fabrication:
 
    /tutorials/fabrication/3dupbox/index.rst
-   /tutorials/fabrication/dagoma/index.rst
+   /tutorials/fabrication/magis/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
    /tutorials/fabrication/broder500/index.rst

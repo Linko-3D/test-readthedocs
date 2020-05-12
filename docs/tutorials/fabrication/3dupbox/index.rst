@@ -1,4 +1,4 @@
-Imprimante 3D: 3D Up Box
+Imprimante 3D: 3D Up Box+
 =========================
 Todo:
 
@@ -7,7 +7,9 @@ Todo:
 Matériel
 --------
 
-.. image :: upbox.png
+- `Site officiel <https://www.tiertime.com/up-box-plus/>`_
+
+.. image:: upbox.png
 
 Logiciel
 --------
@@ -30,7 +32,8 @@ Préparer une impression
 
 Lancez le logiciel **Up Studio** (lien de téléchargement plus haut), c'est un logiciel dans lequel vous importez vos modèles 3D afin de générer un fichier avec les instructions sur la fabrication de celui-ci par l'imprimante 3D.
 
-.. note:: Au premier lancement du logiciel, il vous sera demandé de vous connecter à un compte, nous vous invitons à créer le vôtre. Cliquez à gauche sur Account (compte), puis au centre sur Sign Up (s'inscrire).
+.. note:: - Au premier lancement du logiciel, il vous sera demandé de vous connecter à un compte, nous vous invitons à créer le vôtre. Cliquez à gauche sur Account (compte), puis au centre sur Sign Up (s'inscrire).
+   - Lors de votre connexion cochez "Auto Login" pour vous reconnecter automatiquement au lancement du logiciel.
 
 Lancer une impression
 ^^^^^^^^^^^^^^^^^^^^^^

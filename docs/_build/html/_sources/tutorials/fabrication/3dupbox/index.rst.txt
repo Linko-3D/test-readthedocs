@@ -1,4 +1,4 @@
-Imprimante 3D: 3D Up Box
+Imprimante 3D: 3D UP BOX+
 ========================
 Todo:
 
@@ -8,6 +8,7 @@ Matériel
 --------
 
 - `Site officiel <https://www.tiertime.com/up-box-plus/>`_
+- `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
 
 .. image:: upbox.png
 
@@ -16,8 +17,21 @@ Logiciel
 
 - `Télécharger Up Studio <https://s3-us-west-1.amazonaws.com/up3d/downloads/UP_Studio_x64_2.6.49.627.zip>`_ (logiciel pour préparer le modèle à l'impression)
 
+
 Utilisation
 -----------
+
+- Installez le plateau en le plaquant contre celui en aluminium. Alignez les vis, puis poussez vers le fond en utilisation toute la surface de vos mains.
+- Enlevez le couvercle magnétique, ajoutez le filament sur le côté du dévidoir. Si la bobine est épaisse, utilisez la prolongation de fixation avant de placer la bobine. Décrochez le guide-fil de l'extrudeur, faites passer le filament dans le guide jusqu'à le voir de l'autre côté puis placez le fil dans l'extrudeur. 
+  Remettez le couvercle magnétique.
+- Branchez l'imprimante. Mettez le bouton à l'arrière de l'imprimante sur On. Restez appuyé sur Power pour initialiser l'imprimante.
+
+
+
+
+
+
+
 
 Récupérer un modèle sur internet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

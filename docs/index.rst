@@ -13,6 +13,12 @@ TODO:
 
 to thank: https://github.com/desktop/desktop/issues/4059
 
+
+Tutos:
+How to cut images on Silhouette Curio 3t for beginners, simple, easy, quick: 
+https://www.youtube.com/watch?v=HnJT4H78BOs
+
+
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email:
 

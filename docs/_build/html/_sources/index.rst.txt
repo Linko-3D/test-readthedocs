@@ -6,6 +6,11 @@
 Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne (MDE)
 =======================================================================================
 
+TODO:
+
+- voir boites Manutan
+- réfléchir présentation lab
+
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email:
 

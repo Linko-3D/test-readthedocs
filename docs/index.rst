@@ -11,7 +11,7 @@ TODO:
 - voir boites Manutan
 - réfléchir présentation lab
 
-to thank: https://github.com/desktop/desktop/issues/4059
+to thank GitHub Desktop commits: https://github.com/desktop/desktop/issues/4059
 
 
 Tutos:

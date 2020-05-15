@@ -30,4 +30,6 @@ Utilisation
 
 - Ajouter les plateformes dans la Curio
 
+
+
 CHECK number

@@ -11,6 +11,8 @@ TODO:
 - voir boites Manutan
 - réfléchir présentation lab
 
+to thank: https://github.com/desktop/desktop/issues/4059
+
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email:
 

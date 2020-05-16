@@ -7,6 +7,7 @@ Vracs:
 
 `How to <https://www.silhouetteamerica.com/how-to>`_
 
+https://youtu.be/emxLgXyxpMg
 
 Matériel
 --------

@@ -3,6 +3,12 @@ Découpeuse vinyl: Silhouette Curio
 
 Vracs:
 
+
+Setting up your Silhouette Curio: https://youtu.be/FrmaGT_qzXo
+
+How to cut images on Silhouette Curio 3t for beginners, simple, easy, quick: 
+https://www.youtube.com/watch?v=HnJT4H78BOs
+
 `Docs <http://www.silhouettefr.fr/silhouette_tutoriels.html>`_
 
 `How to <https://www.silhouetteamerica.com/how-to>`_
@@ -23,11 +29,14 @@ Logiciels
 Utilisation
 -----------
 
+- Mettre les pieds de stabilisation
 - Relier la Curio en USB à l'ordinateur
+- Prenez un support d'adhérence aux dimensions de la matière à couper, accrochez-le avec les bouts de plastique sur le côté, enlever la protection et coller la matière.
+- Glissez le support dans la Curio.
 - Brancher et allumer la Curio
-- Prenez un support d'adhérence au dimensions de la matière à couper, enlever la protection et coller la matière.
 
-.. note:: La matière doit être alignée en haut à droite du support d'adhérence.
+
+.. note:: TODO La matière doit être alignée en haut à droite du support d'adhérence.
 
 - Ajouter les plateformes dans la Curio
 

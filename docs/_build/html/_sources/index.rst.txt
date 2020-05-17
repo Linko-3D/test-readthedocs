@@ -11,15 +11,12 @@ TODO:
 - voir boites Manutan
 - réfléchir présentation lab
 
-to thank GitHub Desktop commits: https://github.com/desktop/desktop/issues/4059
 
 
-Tutos:
-How to cut images on Silhouette Curio 3t for beginners, simple, easy, quick: 
-https://www.youtube.com/watch?v=HnJT4H78BOs
 
 Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=o0Bvr070N-k
 
+--------------------------------------------------------------------------------------------
 
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
@@ -36,7 +33,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
    /tutorials/fabrication/broder500/index.rst
-   /tutorials/fabrication/doodler/index.rst
+   /tutorials/fabrication/3doodler/index.rst
 
 .. toctree::
    :maxdepth: 2

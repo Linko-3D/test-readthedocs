@@ -30,6 +30,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
    /tutorials/fabrication/3dupbox/index.rst
    /tutorials/fabrication/magis/index.rst
+   /tutorials/fabrication/3dsense/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
    /tutorials/fabrication/broder500/index.rst

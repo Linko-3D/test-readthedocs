@@ -39,7 +39,7 @@ Préparation du matériel
 
 .. image:: vis.png
 
-- Enlevez le couvercle magnétique sur le côté et mettez le filament. Si la bobine est épaisse, utilisez la prolongation de fixation avant de mettre la bobine. Enlevez le guide-fil de l'extrudeur, faites passer le filament à l'intérieur jusqu'à le voir ressortir puis mettez-le dans l'extrudeur à nouveau. Remettez le couvercle magnétique.
+- Enlevez le couvercle magnétique sur le côté et mettez le filament. Si la bobine est épaisse, utilisez la prolongation de fixation avant de mettre la bobine. Ouvrez l'mprimante 3D par le dessus, enlevez le guide-fil de l'extrudeur, faites passer le filament à l'intérieur jusqu'à le voir ressortir puis mettez-le dans l'extrudeur à nouveau. Remettez le couvercle magnétique.
 
 *Filament en place avec la prolongation de fixation:*
 

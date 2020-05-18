@@ -83,11 +83,16 @@ Préparer une impression
 Pour vous déplacer dans la vue 3D:
 
 - le clic gauche permet de tourner dans la vue 3D
-- la molette permet d'avancer ou reculer
+- la molette sert à avancer ou reculer
 - le clic droit déplace la vue sur les côtés
 
-Todo: ajuster modèle avec la roue
-todo: se déplacer dans la vue 3D
+La "roue" en haut à droite sert à déplacer (le moins utilisé), mise à l'échelle (le plus utilisé), 
+
+.. image:: roue.png
+
+Conseil échelle proportionelle et expliquer scale x8 temps d'impression.
+
+
 
 Lancer une impression
 ^^^^^^^^^^^^^^^^^^^^^
@@ -101,4 +106,3 @@ Récupérer un modèle sur internet
 
 .. note:: Les fichiers sont généralement compressés dans un fichier au format .zip, pour utiliser son contenu double-cliquez dessus puis glissez les fichiers à l'intérieur dans un dossier préalablement créé dans l'ordinateur.
    Vous pouvez ne décompresser que les fichiers .stl, ce sont les modèles 3D.
-

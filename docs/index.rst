@@ -10,7 +10,7 @@ TODO:
 
 - voir boites Manutan
 - réfléchir présentation lab
-
+- contacter a4 et tiertime avec vidéo problème 3D Up Box
 
 
 

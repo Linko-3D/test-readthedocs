@@ -1,6 +1,7 @@
 Découpeuse vinyl: Silhouette Curio
 ===================================
 
+todo lexique tapis
 Vracs:
 
 
@@ -35,11 +36,9 @@ Utilisation
 - Glissez le support dans la Curio.
 - Brancher et allumer la Curio
 
-
-.. note:: TODO La matière doit être alignée en haut à droite du support d'adhérence.
+.. important:: La matière doit être aligné en haut à droite du tapis.
 
 - Ajouter les plateformes dans la Curio
-
 
 
 CHECK number

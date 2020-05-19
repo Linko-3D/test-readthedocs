@@ -8,6 +8,7 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 TODO:
 
+- ramener backup Dirt Rally
 - voir boites Manutan
 - réfléchir présentation lab
 - contacter a4 et tiertime avec vidéo problème 3D Up Box

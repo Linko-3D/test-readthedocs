@@ -76,8 +76,8 @@ Préparation du matériel
 
 .. note:: Pour déboucher la buse, cliquez sur l'icône Maintenance puis sur Extrude, le filament va sortir de la buse, cliquez sur Stop et coupez le à la base avec des ciseaux. Pour remplacer le filament, cliquez sur Withdraw.
 
-Préparer une impression
-^^^^^^^^^^^^^^^^^^^^^^^
+Préparer une impression sur UP Studio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Chargez le modèle avec le bouton +. Vous pouvez ajouter un polygone de base qui vous est proposé ou importer un modèle 3D au format .stl ou .obj en cliquant sur Add 3D Model.
 

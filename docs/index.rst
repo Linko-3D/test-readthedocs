@@ -8,6 +8,7 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 TODO:
 
+- ramener backup Dirt Rally
 - voir boites Manutan
 - réfléchir présentation lab
 - contacter a4 et tiertime avec vidéo problème 3D Up Box
@@ -23,9 +24,11 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
 
 Liens utiles
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
 
 - Carte des fablabs: https://www.makery.info/labs-map/
+
+--------------------------------------------------------------------------------------------
 
 .. image:: essonne.png
    :align: right

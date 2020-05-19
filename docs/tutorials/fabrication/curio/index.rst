@@ -30,6 +30,9 @@ Logiciels
 Utilisation
 -----------
 
+Préparation du matériel
+^^^^^^^^^^^^^^^^^^^^^^^
+
 - Libérez de l'espace pour déplier les pieds de stabilisation à l'avant et arrière de la Curio.
 - Prenez une base d'adhérence aux dimensions de la matière à couper.
 - Enlevez la protection et collez la matière.
@@ -63,4 +66,11 @@ Utilisation
 
 - Branchez et allumez la Curio, la machine va initialiser sa position par défaut.
 
+.. note:: Vous pouvez initialiser la position par défaut en cliquant sur le boutons avec les deux flèches (à droite du bouton pause).
+
 .. image:: boutons.png
+
+Préparer une découpe avec Silhouette Studio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: page.png

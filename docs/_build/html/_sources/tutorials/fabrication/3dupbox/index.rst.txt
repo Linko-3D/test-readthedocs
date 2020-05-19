@@ -11,7 +11,6 @@ Todo:
 Aide:
 techno@a4.fr
 
-
 Matériel
 --------
 
@@ -45,6 +44,10 @@ Préparation du matériel
 
 .. image:: filament.png
 
+*Le filament ressort par le guide-fil et va dans l'extrudeur:*
+
+.. image:: guide-fil.png
+
 *Couvercle magnétique:*
 
 .. image:: couvercle.png
@@ -71,7 +74,7 @@ Préparation du matériel
 
 .. image:: pla.png
 
-- Pour préparer l'impression et déboucher la buse, cliquez sur l'icône Maintenance puis sur Extrude, le filament va sortir de la buse, cliquez sur Stop et coupez le à la base avec des ciseaux. Pour remplacer le filament, cliquez sur Withdraw.
+.. note:: Pour déboucher la buse, cliquez sur l'icône Maintenance puis sur Extrude, le filament va sortir de la buse, cliquez sur Stop et coupez le à la base avec des ciseaux. Pour remplacer le filament, cliquez sur Withdraw.
 
 Préparer une impression
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -90,14 +93,31 @@ La "roue" en haut à droite sert à déplacer (le moins utilisé), mise à l'éc
 
 .. image:: roue.png
 
-Conseil échelle proportionelle et expliquer scale x8 temps d'impression.
+Pour doubler l'échelle, cliquez sur l'icône Echelle puis sur le numéro 2, pour diviser par 2 cliquez sur 0.5. Sur l'image en dessous l'échelle est double:
 
+.. image:: doublescale.png
+
+.. attention: Lorsque vous faites une mise à l'échelle les dimensions sont changés sur 3 axes, en doublant l'échelle vous multipliez le temps d'impression par 2 sur l'axe X x 2 pour l'axe Y x 2 pour l'axe Z, soit un temps d'impression 8 fois plus long. L'impression passera alors de 1 heure à 8 heures.
+A l'inverse si le temps d'impression est trop long, réduire légèrement la taille permet de gagner plusieurs dizaines de minutes ou heures.
 
 
 Lancer une impression
 ^^^^^^^^^^^^^^^^^^^^^
 
-Todo: épaisseur, remplissage, vitesse, qualité...
+Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
+
+.. attention:: TODO: chercher Nozzle offset et Unsolid Model.
+
+- Layer Thickness: c'est l'épaisseur des couches d'impression, 100 microns sert aux impressions détaillées comme les figurines et 200 pour les pièces mécaniques. Plus l'impression est épaisse moins elle prendra de temps à imprimer.
+- Infill: c'est le remplissage, les pièces remplis sont celles qui sont soumises à des forces comme des engrenages.
+- Quality: c'est la vitesse de déplacement de la buse, celà affecte la précision du modèle.
+- Nozzle offset:
+- Unsolid Model:
+- No Raft: si l'option est coché celà désactive le support sous l'impression 3D pour renforcer l'adhérence. Un pièce fine et cylindrique par exemple aura besoin d'un raft.
+- No Support: désactive les supports. Conceoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l'impression et après (découpe des supports, ponçage).
+
+.. image:: printsettings.png
+
 
 Récupérer un modèle sur internet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

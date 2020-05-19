@@ -40,5 +40,12 @@ Utilisation
 
 - Ajouter les plateformes dans la Curio
 
+.. note:: Profondeurs de lame:
+
+   - 1: vinyl
+   - 2 - 3: papier
+   - 4 - 6: papier cartonné
+   - 7 - 10: toile
+
 
 CHECK number

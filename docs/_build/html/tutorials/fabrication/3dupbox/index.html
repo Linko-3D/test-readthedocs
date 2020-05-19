@@ -225,6 +225,8 @@ Image guide-fil où passer le fil.</p>
 </ul>
 <p><em>Filament en place avec la prolongation de fixation:</em></p>
 <img alt="../../../_images/filament.png" src="../../../_images/filament.png" />
+<p><em>Le filament ressort par le guide-fil et va dans l’extrudeur:</em></p>
+<img alt="../../../_images/guide-fil.png" src="../../../_images/guide-fil.png" />
 <p><em>Couvercle magnétique:</em></p>
 <img alt="../../../_images/couvercle.png" src="../../../_images/couvercle.png" />
 <ul class="simple">
@@ -254,9 +256,10 @@ Image guide-fil où passer le fil.</p>
 <li><p>Allez dans Maintenance et vérifiez que le Material type soit bien sûr PLA et que le Print Board soit celui qui est dans l’imprimante (Perf Board ou Up Flex Board).</p></li>
 </ul>
 <img alt="../../../_images/pla.png" src="../../../_images/pla.png" />
-<ul class="simple">
-<li><p>Pour préparer l’impression et déboucher la buse, cliquez sur l’icône Maintenance puis sur Extrude, le filament va sortir de la buse, cliquez sur Stop et coupez le à la base avec des ciseaux. Pour remplacer le filament, cliquez sur Withdraw.</p></li>
-</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Pour déboucher la buse, cliquez sur l’icône Maintenance puis sur Extrude, le filament va sortir de la buse, cliquez sur Stop et coupez le à la base avec des ciseaux. Pour remplacer le filament, cliquez sur Withdraw.</p>
+</div>
 </div>
 <div class="section" id="preparer-une-impression">
 <h3>Préparer une impression<a class="headerlink" href="#preparer-une-impression" title="Lien permanent vers ce titre">¶</a></h3>
@@ -272,11 +275,27 @@ Image guide-fil où passer le fil.</p>
 </ul>
 <p>La « roue » en haut à droite sert à déplacer (le moins utilisé), mise à l’échelle (le plus utilisé),</p>
 <img alt="../../../_images/roue.png" src="../../../_images/roue.png" />
-<p>Conseil échelle proportionelle et expliquer scale x8 temps d’impression.</p>
+<p>Pour doubler l’échelle, cliquez sur l’icône Echelle puis sur le numéro 2, pour diviser par 2 cliquez sur 0.5. Sur l’image en dessous l’échelle est double:</p>
+<img alt="../../../_images/doublescale.png" src="../../../_images/doublescale.png" />
+<p>A l’inverse si le temps d’impression est trop long, réduire légèrement la taille permet de gagner plusieurs dizaines de minutes ou heures.</p>
 </div>
 <div class="section" id="lancer-une-impression">
 <h3>Lancer une impression<a class="headerlink" href="#lancer-une-impression" title="Lien permanent vers ce titre">¶</a></h3>
-<p>Todo: épaisseur, remplissage, vitesse, qualité…</p>
+<p>Cliquez sur l’icône Print, des options s’afficheront avant l’impression:</p>
+<div class="admonition attention">
+<p class="admonition-title">Attention</p>
+<p>TODO: chercher Nozzle offset et Unsolid Model.</p>
+</div>
+<ul class="simple">
+<li><p>Layer Thickness: c’est l’épaisseur des couches d’impression, 100 microns sert aux impressions détaillées comme les figurines et 200 pour les pièces mécaniques. Plus l’impression est épaisse moins elle prendra de temps à imprimer.</p></li>
+<li><p>Infill: c’est le remplissage, les pièces remplis sont celles qui sont soumises à des forces comme des engrenages.</p></li>
+<li><p>Quality: c’est la vitesse de déplacement de la buse, celà affecte la précision du modèle.</p></li>
+<li><p>Nozzle offset:</p></li>
+<li><p>Unsolid Model:</p></li>
+<li><p>No Raft: si l’option est coché celà désactive le support sous l’impression 3D pour renforcer l’adhérence. Un pièce fine et cylindrique par exemple aura besoin d’un raft.</p></li>
+<li><p>No Support: désactive les supports. Conceoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l’impression et après (découpe des supports, ponçage).</p></li>
+</ul>
+<img alt="../../../_images/printsettings.png" src="../../../_images/printsettings.png" />
 </div>
 <div class="section" id="recuperer-un-modele-sur-internet">
 <h3>Récupérer un modèle sur internet<a class="headerlink" href="#recuperer-un-modele-sur-internet" title="Lien permanent vers ce titre">¶</a></h3>

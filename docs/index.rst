@@ -21,6 +21,8 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
 
+Carte des fablabs: https://www.makery.info/labs-map/
+
 .. image:: essonne.png
    :align: right
 

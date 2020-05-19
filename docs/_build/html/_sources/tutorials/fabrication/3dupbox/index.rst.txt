@@ -118,6 +118,9 @@ Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
 
 .. image:: printsettings.png
 
+.. attention:: une fois que celà fonctionnera, parler du mode preview, chercher si indicateur de durée.
+
+Cliquez sur Print (imprimer) pour démarrer l'impression.
 
 Récupérer un modèle sur internet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

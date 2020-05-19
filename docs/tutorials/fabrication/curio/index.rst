@@ -30,15 +30,23 @@ Logiciels
 Utilisation
 -----------
 
-- Mettre les pieds de stabilisation
-- Relier la Curio en USB à l'ordinateur
-- Prenez un support d'adhérence aux dimensions de la matière à couper, accrochez-le avec les bouts de plastique sur le côté, enlever la protection et coller la matière.
-- Glissez le support dans la Curio.
-- Brancher et allumer la Curio
+- Libérez de l'espace pour déplier les pieds de stabilisation à l'avant et arrière de la Curio.
+- Prenez une base d'adhérence aux dimensions de la matière à couper.
+- Enlevez la protection et collez la matière.
 
 .. important:: La matière doit être aligné en haut à droite du tapis.
 
-- Ajouter les plateformes dans la Curio
+- Accrochez-le avec les quatre maintiens sur le côté.
+
+.. attention:: TODO parler des plateformes et comment les choisir. Il y en a une de 1 et deux de 2.
+
+.. image:: maintien.png
+
+- Glissez le support dans la curio, l'encoche (cercle rouge) doit dépasser le bord de la Curio (trait orange):
+
+.. image:: encoche.png
+
+- Prenez la lame découpe et réglez sa profondeur avec l'avant de la Curio. La flèche rouge indique la profondeur choisi, cette flèche dit être aligné avec l'avant de la Curio pour procéder au réglage.
 
 .. note:: Profondeurs de lame:
 
@@ -47,5 +55,12 @@ Utilisation
    - 4 - 6: papier cartonné
    - 7 - 10: toile
 
+.. image:: reglage.png
 
-CHECK number
+- Placez la lame à l'emplacement du cercle rouge, tournez l'interrupteur dans le sens inverse des aiguilles d'une montre pour l'ouvrir et dans l'autre pour le vérouiller.
+
+.. image:: position_lame.png
+
+- Branchez et allumez la Curio, la machine va initialiser sa position par défaut.
+
+.. image:: boutons.png

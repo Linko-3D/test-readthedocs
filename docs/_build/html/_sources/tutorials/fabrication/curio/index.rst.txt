@@ -3,7 +3,10 @@ Découpeuse vinyl: Silhouette Curio
 
 todo lexique tapis
 Vracs:
-
+Guide officiel: https://www.silhcdn.com/m/d/user-guides/curio-en.pdf
+Tuto: https://www.findingtimetocreate.com/2016/11/getting-started-silhouette-curio/
+Tuto 2: https://silhouette-secrets.com/2019/03/13/lets-explore-the-curio-getting-started/
+Emboss: https://youtu.be/x16kJ5ClA9I
 
 Setting up your Silhouette Curio: https://youtu.be/FrmaGT_qzXo
 
@@ -41,7 +44,7 @@ Préparation du matériel
 
 - Accrochez-le avec les quatre maintiens sur le côté.
 
-.. attention:: TODO parler des plateformes et comment les choisir. Il y en a une de 1 et deux de 2.
+.. attention:: TODO parler des plateformes et comment les choisir. Il y en a une de 1 et deux de 2. Apparement visible dans Studio.
 
 .. image:: maintien.png
 
@@ -79,4 +82,15 @@ a
 
 .. image:: outils.png
 
+Vous ne pouvez pas modifier la taille du texte dans les options, vous verrez plus bas comment faire.
+
 .. image:: formatage.png
+
+Après un clic:
+
+- cadre de sélection pour redimensionner
+- cercle vert pour orienter
+
+
+.. image:: edition.png
+

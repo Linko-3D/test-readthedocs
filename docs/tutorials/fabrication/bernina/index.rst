@@ -1,5 +1,5 @@
-Brodeuse: Broder 500 serie 5
-============================
+Brodeuse: Bernina 500 serie 5
+=============================
 
 Matériel
 --------

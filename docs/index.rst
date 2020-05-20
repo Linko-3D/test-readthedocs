@@ -8,12 +8,14 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 TODO:
 
+.. important:: **VOIR MANUTANT TRANSPORT AVANT MERCREDI 27**
+
 - ramener backup Dirt Rally
-- voir boites Manutan
 - réfléchir présentation lab
+
+DONE:
+
 - contacter a4 et tiertime avec vidéo problème 3D Up Box
-
-
 
 Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=o0Bvr070N-k
 
@@ -23,10 +25,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
 
-Liens utiles
-^^^^^^^^^^^^
 
-- Carte des fablabs: https://www.makery.info/labs-map/
 
 --------------------------------------------------------------------------------------------
 
@@ -42,7 +41,7 @@ Liens utiles
    /tutorials/fabrication/3dsense/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
-   /tutorials/fabrication/broder500/index.rst
+   /tutorials/fabrication/bernina/index.rst
    /tutorials/fabrication/3doodler/index.rst
 
 .. toctree::
@@ -63,3 +62,49 @@ Liens utiles
    /tutorials/numerique/occulus/index.rst
    /tutorials/numerique/conduite/index.rst
    /tutorials/numerique/drones/index.rst
+   
+Informations pratiques
+----------------------
+
+Liens utiles
+^^^^^^^^^^^^
+
+- Carte des fablabs: https://www.makery.info/labs-map/
+
+Dimmensions des machines
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note:: L: Length (longueur), W: Width (largeur), H: Height (hauteur)
+
+   Dimmensions en centimètres.
+
+- 3D Up Box+:
+
+   - L: 49
+   - W: 49
+   - H: 51
+
+- Silhouette Curio:
+
+   - L: 29
+   - W: 49
+   - H: 25
+
+- Roland GS-24:
+
+   - L: 50
+   - W: 87
+   - H: 105
+
+- Bernina:
+
+   - L: 46
+   - W: 76
+   - H: 40
+
+
+- Dagoma:
+
+   - L: 33
+   - W: 33
+   - H: 55

@@ -1,4 +1,4 @@
-Découpeuse vinyl: Roland GS 24
+Découpeuse vinyl: Roland GS-24
 ==============================
 
 Matériel

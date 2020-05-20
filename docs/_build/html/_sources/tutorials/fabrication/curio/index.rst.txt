@@ -74,3 +74,5 @@ Préparer une découpe avec Silhouette Studio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: page.png
+
+Ajouter du tex

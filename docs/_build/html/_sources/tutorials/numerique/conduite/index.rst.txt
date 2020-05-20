@@ -6,7 +6,7 @@ Matériel
 
 .. image :: sim.png
 
-Le matériel mis à disposition par la MDE est composé des éléments suivant:
+Le matériel mis à disposition par la MDE est composé des éléments suivants:
 
 - Un cockpit pliable
 - Un volant

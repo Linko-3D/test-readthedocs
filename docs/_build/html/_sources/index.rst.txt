@@ -8,7 +8,7 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 TODO:
 
-.. important:: **VOIR MANUTANT TRANSPORT AVANT MERCREDI 27**
+.. important:: **VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/**
 
 - réfléchir présentation lab
 - chercher type filament 3doodler

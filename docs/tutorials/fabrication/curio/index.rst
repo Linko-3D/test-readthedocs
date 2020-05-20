@@ -78,3 +78,9 @@ Préparer une découpe avec Silhouette Studio
 a
 
 .. image:: outils.png
+
+Vous ne pouvez pas modifier la taille du texte dans les options, vous verrez plus bas comment faire.
+
+.. image:: formatage.png
+
+E

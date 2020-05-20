@@ -78,3 +78,5 @@ Préparer une découpe avec Silhouette Studio
 a
 
 .. image:: outils.png
+
+.. image:: formatage.png

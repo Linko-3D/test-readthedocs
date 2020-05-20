@@ -12,6 +12,7 @@ TODO:
 
 - ramener backup Dirt Rally
 - réfléchir présentation lab
+- chercher type filament 3doodler
 
 DONE:
 
@@ -24,8 +25,6 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
 
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
-
-
 
 --------------------------------------------------------------------------------------------
 
@@ -50,6 +49,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
    /tutorials/programmation/arduino/index.rst
    /tutorials/programmation/microbit/index.rst
+   /tutorials/programmation/makeymakey/index.rst
 
 
 .. toctree::
@@ -69,7 +69,11 @@ Informations pratiques
 Liens utiles
 ^^^^^^^^^^^^
 
+- Animations en Fablab: http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=animations:index
 - Carte des fablabs: https://www.makery.info/labs-map/
+- Projets documentés (français): https://wikifab.org/wiki/Accueil
+- Projets documentés (anglais): https://www.instructables.com/
+
 
 Dimmensions des machines
 ^^^^^^^^^^^^^^^^^^^^^^^^

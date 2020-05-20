@@ -10,9 +10,9 @@ TODO:
 
 .. important:: **VOIR MANUTANT TRANSPORT AVANT MERCREDI 27**
 
-- ramener backup Dirt Rally
 - réfléchir présentation lab
 - chercher type filament 3doodler
+- ramener backup Dirt Rally
 
 DONE:
 

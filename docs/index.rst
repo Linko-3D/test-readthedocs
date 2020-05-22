@@ -8,7 +8,7 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 TODO:
 
-.. important:: **- VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/**
+.. important:: - VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/
    - Rédiger tuto 3Doodler
    - Tuto 3d Sense
    - Utiliser stylo et vinyl Curio

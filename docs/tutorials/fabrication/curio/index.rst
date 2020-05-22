@@ -1,6 +1,8 @@
 Découpeuse vinyl: Silhouette Curio
 ===================================
 
+.. note:: Le papier doit dépasser les bordures en haut à gauche. Renforcer l'adhérence en pressant avec la main.
+
 Tutos officiel: https://youtu.be/kgOgcJDGt9c
 Générer des templates: https://www.templatemaker.nl/fr/
 

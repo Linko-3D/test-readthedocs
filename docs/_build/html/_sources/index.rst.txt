@@ -8,11 +8,24 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 TODO:
 
-.. important:: **VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/**
+.. important:: **- VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/**
+   - Rédiger tuto 3Doodler
+   - Tuto 3d Sense
+   - Utiliser stylo et vinyl Curio
+   - Importer SVG dans Curio
 
 - réfléchir présentation lab
+
+Voir atelier papercraft
+
+
+
 - chercher type filament 3doodler
 - ramener backup Dirt Rally
+
+- Description lab: https://laboratoirecreation.banq.qc.ca/index.php?title=Accueil&fbclid=IwAR3gQlc4zd3KdpDU9Bf5OI7psD25HXGawJW-1_2wad8Zvsbxdi3-uRuUPYc
+- A lire: https://laboratoirecreation.banq.qc.ca/index.php/Pourquoi_des_laboratoires_de_cr%C3%A9ation_dans_les_biblioth%C3%A8ques%3F
+- Broderie 3D: https://youtu.be/RC4Dsh3-Wis
 
 DONE:
 
@@ -40,9 +53,10 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/fabrication/3dsense/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
+   /tutorials/fabrication/papercraft/index.rst
    /tutorials/fabrication/bernina/index.rst
    /tutorials/fabrication/3doodler/index.rst
-
+   
 .. toctree::
    :maxdepth: 2
    :caption: Programmation:
@@ -69,11 +83,17 @@ Informations pratiques
 Liens utiles
 ^^^^^^^^^^^^
 
+Documentation et projets:
+
 - Animations en Fablab: http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=animations:index
 - Carte des fablabs: https://www.makery.info/labs-map/
 - Projets documentés (français): https://wikifab.org/wiki/Accueil
 - Projets documentés (anglais): https://www.instructables.com/
+- Réalisations: https://www.labboite.fr/#!/projects?whole_network=f
 
+
+
+https://www.labboite.fr/#!/projects?whole_network=f
 
 Dimmensions des machines
 ^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,7 +1,16 @@
 Découpeuse vinyl: Silhouette Curio
 ===================================
 
+Tutos officiel: https://youtu.be/kgOgcJDGt9c
+Générer des templates: https://www.templatemaker.nl/fr/
+
+Réglages découpe 1: https://www.noscreas.fr/trucs-astuces-fiches-techniques/nos-reglages-de-decoupe/
+Réglages découpe 2: https://boutdepapier.reskator.fr/2012/04/07/reglages-de-coupe-pour-quelques-papiers/
+
 todo lexique tapis
+Papier de transfert à applanir pour coller la découpe
+Le store et récupérer des images
+
 Vracs:
 Guide officiel: https://www.silhcdn.com/m/d/user-guides/curio-en.pdf
 Tuto: https://www.findingtimetocreate.com/2016/11/getting-started-silhouette-curio/
@@ -9,6 +18,7 @@ Tuto 2: https://silhouette-secrets.com/2019/03/13/lets-explore-the-curio-getting
 Emboss: https://youtu.be/x16kJ5ClA9I
 
 Setting up your Silhouette Curio: https://youtu.be/FrmaGT_qzXo
+Curio review: https://www.youtube.com/watch?v=wg4Yd1rmpuc
 
 How to cut images on Silhouette Curio 3t for beginners, simple, easy, quick: 
 https://www.youtube.com/watch?v=HnJT4H78BOs
@@ -52,7 +62,7 @@ Préparation du matériel
 
 .. image:: encoche.png
 
-- Prenez la lame découpe et réglez sa profondeur avec l'avant de la Curio. La flèche rouge indique la profondeur choisi, cette flèche dit être aligné avec l'avant de la Curio pour procéder au réglage.
+- Prenez la lame de découpe et réglez sa profondeur avec l'avant de la Curio. La flèche rouge indique la profondeur choisi, cette flèche dit être aligné avec l'avant de la Curio pour procéder au réglage.
 
 .. note:: Profondeurs de lame:
 

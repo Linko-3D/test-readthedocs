@@ -8,15 +8,12 @@ Todo:
 
 --------------------------------------------
 
-Aide:
-techno@a4.fr
-
-Matériel
---------
-
 - `Site officiel <https://www.tiertime.com/up-box-plus/>`_
 - `Forum officiel <https://www.tiertime.com/forum/viewforum.php?f=38&sid=f768523e04b301e1dbebcfb3635fbc5a>`_
 - `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
+
+Matériel
+--------
 
 .. image:: upbox.png
 
@@ -24,6 +21,15 @@ Logiciel
 --------
 
 - `Télécharger Up Studio <https://s3-us-west-1.amazonaws.com/up3d/downloads/UP_Studio_x64_2.6.49.627.zip>`_ (logiciel pour préparer le modèle à l'impression)
+
+Récupérer un modèle sur internet
+--------------------------------
+
+- `Thingiverse <https://www.thingiverse.com/>`_
+
+.. note:: Les fichiers sont généralement compressés dans un fichier au format .zip, pour utiliser son contenu double-cliquez dessus puis glissez les fichiers à l'intérieur dans un dossier préalablement créé dans l'ordinateur.
+   Vous pouvez ne décompresser que les fichiers .stl, ce sont les modèles 3D.
+
 
 Utilisation
 -----------
@@ -123,11 +129,3 @@ Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
 .. attention:: une fois que celà fonctionnera, parler du mode preview, chercher si indicateur de durée.
 
 Cliquez sur Print (imprimer) pour démarrer l'impression.
-
-Récupérer un modèle sur internet
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- `Thingiverse <https://www.thingiverse.com/>`_
-
-.. note:: Les fichiers sont généralement compressés dans un fichier au format .zip, pour utiliser son contenu double-cliquez dessus puis glissez les fichiers à l'intérieur dans un dossier préalablement créé dans l'ordinateur.
-   Vous pouvez ne décompresser que les fichiers .stl, ce sont les modèles 3D.

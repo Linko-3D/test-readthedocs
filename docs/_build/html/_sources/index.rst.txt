@@ -50,7 +50,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
    /tutorials/fabrication/3dupbox/index.rst
    /tutorials/fabrication/magis/index.rst
-   /tutorials/fabrication/3dsense/index.rst
+   /tutorials/fabrication/sense/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
    /tutorials/fabrication/papercraft/index.rst
@@ -65,25 +65,29 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/programmation/microbit/index.rst
    /tutorials/programmation/makeymakey/index.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Simulateurs:
+   
+   /tutorials/simulation/conduite/index.rst
+   /tutorials/simulation/drones/index.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Jeux et simulateurs:
+   :caption: Jeux vidéo:
    
    /tutorials/numerique/ps4/index.rst
    /tutorials/numerique/wii/index.rst
    /tutorials/numerique/arcade/index.rst
    /tutorials/numerique/occulus/index.rst
-   /tutorials/numerique/conduite/index.rst
-   /tutorials/numerique/drones/index.rst
-   
+
 Informations pratiques
 ----------------------
 
 Liens utiles
 ^^^^^^^^^^^^
 
-Documentation et projets:
+Documentations et projets:
 
 - Animations en Fablab: http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=animations:index
 - Carte des fablabs: https://www.makery.info/labs-map/

@@ -1,9 +1,12 @@
 Imprimante 3D: Dagoma Neva Magis
 =================================
 
+- `Site officiel <https://www.dagoma3d.com/imprimante-3d-magis-dagoma>`_
+- `Forum <https://www.lesimprimantes3d.fr/forum/41-dagoma/>`_
+
 Matériel
 --------
-- `Site officiel <https://www.dagoma3d.com/imprimante-3d-magis-dagoma>`_
+
 
 .. image:: magis.jpg
 

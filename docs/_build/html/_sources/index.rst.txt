@@ -48,12 +48,6 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutoriels:
-
-   /tutorials/tutoriels/3dprinting/index.rst
-
-.. toctree::
-   :maxdepth: 2
    :caption: Fabrication:
 
    /tutorials/fabrication/3dupbox/index.rst
@@ -85,6 +79,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    :caption: Jeux vidéo:
 
    /tutorials/numerique/occulus/index.rst
+   /tutorials/numerique/pc/index.rst
    /tutorials/numerique/ps4/index.rst
    /tutorials/numerique/wii/index.rst
    /tutorials/numerique/arcade/index.rst

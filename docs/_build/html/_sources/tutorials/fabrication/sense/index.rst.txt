@@ -1,6 +1,7 @@
 Scanner: Sense 3D
 =================
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
+- `Guide officiel (anglais) <http://heim.ifi.uio.no/matsh/inf4500/laser/sense.pdf>`_
 
 Matériel
 --------

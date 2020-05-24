@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=HnJT4H78BOs
 
 https://youtu.be/emxLgXyxpMg
 
+fiche technique: https://www.lafourmicreative.fr/silhouette/86892-silhouette-curio-814792018705.html
+
 Matériel
 --------
 - `Site officiel <http://silhouettefr.fr/silhouette_curio.html>`_

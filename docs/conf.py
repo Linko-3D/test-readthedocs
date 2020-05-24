@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MDE Docs'
-copyright = '2020, Equipe MDE'
+project = 'MDE LAB'
+copyright = 'CC BY-NC-SA 4.0, Bekhoucha Danyl (dbekhouc@gmail.com)'
 author = 'Equipe MDE'
 
 
@@ -58,4 +58,4 @@ html_theme = "sphinx_rtd_theme"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_logo = "mde.png"
+html_logo = "license.png"

@@ -13,8 +13,7 @@ TODO:
    - Tuto 3d Sense
    - Utiliser stylo et vinyl Curio
    - Importer SVG dans Curio
-
-- réfléchir présentation lab
+   - réfléchir présentation lab 15 juin
 
 Voir atelier papercraft
 
@@ -43,6 +42,15 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
 .. image:: essonne.png
    :align: right
+   
+.. image:: mde.png
+   :align: right
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tutoriels:
+
+   /tutorials/tutoriels/3dprinting/index.rst
 
 .. toctree::
    :maxdepth: 2
@@ -51,11 +59,11 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/fabrication/3dupbox/index.rst
    /tutorials/fabrication/magis/index.rst
    /tutorials/fabrication/sense/index.rst
+   /tutorials/fabrication/3doodler/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst
    /tutorials/fabrication/papercraft/index.rst
    /tutorials/fabrication/bernina/index.rst
-   /tutorials/fabrication/3doodler/index.rst
    
 .. toctree::
    :maxdepth: 2
@@ -75,11 +83,12 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 .. toctree::
    :maxdepth: 2
    :caption: Jeux vidéo:
-   
+
+   /tutorials/numerique/occulus/index.rst
    /tutorials/numerique/ps4/index.rst
    /tutorials/numerique/wii/index.rst
    /tutorials/numerique/arcade/index.rst
-   /tutorials/numerique/occulus/index.rst
+
 
 Informations pratiques
 ----------------------
@@ -136,3 +145,27 @@ Dimmensions des machines
    - L: 33
    - W: 33
    - H: 55
+   
+   
+To check:
+
+https://www.youtube.com/watch?v=6Ng0yN8rXeU
+https://www.creadhesif.com/bobine-de-film-vinyle-adhesif-avery-mat.html
+https://www.creadhesif.com/bobine-de-film-vinyle-adhesif-avery-brillant.html
+https://www.serigraphie-boutique.fr/epages/54456119.sf/fr_FR/?ObjectPath=/Shops/54456119/Categories/ContactForm
+https://www.rougier-ple.fr/VAD/search.html?text=curio
+https://www.creadhesif.com/film-vinyle-signaletique/film-vinyle-signaletique.html?gclid=CjwKCAjwqLblBRBYEiwAV3pCJujW3Hy27d3u0VxgxdY4j7qPQyP4HeLZVkbH6UR_N3puRHCEHb5-6BoCid8QAvD_BwE
+https://www.scrapmalin.com/recherche/recherche2.html?field_keywords=silhouette
+https://www.rougier-ple.fr/VAD/search.html?text=silhouette+curio
+https://www.creadhesif.com/film-vinyle-signaletique/impression-numerique/vinyles-adhesifs-polymeres.html
+https://www.machines-3d.com/fablab-imprimante-2d-et-plotter-de-decoupe-roland-xsl-355_582.html
+https://www.machines-3d.com/images/Image/File/notice/Manuel_utilisation_FR_GS24.pdf
+https://www.lafourmicreative.fr/silhouette/86892-silhouette-curio-814792018705.html
+https://www.lafourmicreative.fr/silhouette/102389-feuilles-autocollantes-a-gratter-silhouette-or-215x279-cm-qte-5-814792021996.html
+https://www.rolanddg.fr/produits/plotters-de-decoupe/camm-1-gs-24-plotter-de-decoupe/specifications
+https://www.techniques-de-peintre.fr/tutoriel/silhouette-studio/
+https://boutdepapier.reskator.fr/2012/04/07/reglages-de-coupe-pour-quelques-papiers/
+https://www.noscreas.fr/trucs-astuces-fiches-techniques/nos-reglages-de-decoupe/
+https://letriocreatif.com/quelle-machine-silhouette-choisir
+https://www.templatemaker.nl/fr/
+https://www.youtube.com/user/SilhouetteAmericaInc/featured

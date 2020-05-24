@@ -5,7 +5,7 @@ Scanner: Sense 3D
 Matériel
 --------
 
-.. image:: 3dsense.jpg
+.. image:: sense3d.jpg
 
 Logiciels
 ---------

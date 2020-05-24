@@ -73,7 +73,8 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    
    /tutorials/simulation/conduite/index.rst
    /tutorials/simulation/drones/index.rst
-
+   /tutorials/simulation/aerien/index.rst
+   
 .. toctree::
    :maxdepth: 2
    :caption: Jeux vidéo:

@@ -123,6 +123,10 @@ Dimmensions des machines
 
 - `Chariot acier dossier fixe - Capacité 250 kg -L850 <https://www.manutan-collectivites.fr/chariot-acier-dossier-fixe-capacite-250-kg-l850-144362001.html?refCom=Tous&webdo_20000509=Tous&webdo_20000225=Tous&webdo_20003884=Tous>`_
 
+- `Chariot 2 plateaux capacité 120 kg <https://www.manutan-collectivites.fr/chariot-2-plateaux-capacite-120-kg-138607001.html>`_
+
+https://www.manutan-collectivites.fr/atelier/stocker-les-marchandises.html
+
 - 3D Up Box+:
 
    - L: 49

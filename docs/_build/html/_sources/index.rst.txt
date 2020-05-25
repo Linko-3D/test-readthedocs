@@ -6,6 +6,8 @@
 Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne (MDE)
 =======================================================================================
 
+congé lundi 13 juillet
+
 TODO:
 
 .. important:: - VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/

@@ -1,7 +1,13 @@
 Découpeuse vinyl: Roland CAMM-1 GS-24
 =====================================
 
+.. important:: TODO voir definition Plotter de découpe.
+
 Manuel: https://www.machines-3d.com/images/Image/File/notice/Manuel_utilisation_FR_GS24.pdf
+
+https://youtu.be/cgqfQxDR6pU
+
+https://youtu.be/rDKMNXHu_D4
 
 Matériel
 --------

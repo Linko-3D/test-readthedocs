@@ -19,4 +19,4 @@ Utilisation
 
 .. attention:: Ne fonctionne pas avec le filament d'imprimantes 3D car la température du 3Doodler n'est pas assez élevé pour le faire fondre.
 
-.. attention:: Le plastique se consomme rapidement
+.. attention:: Le plastique se consomme très rapidement et est onéreux.

@@ -14,6 +14,12 @@ TODO:
    - Utiliser stylo et vinyl Curio
    - Importer SVG dans Curio
    - réfléchir présentation lab 15 juin
+   - voir société qui recycle le filament
+   - Faire tableau factures machines achetés (3D UpBox + Epson SC-P600 + Sense 3D V2), date d'achat et durée de garantie
+   
+Chaque jour:
+
+.. important:: - lire un chapitre Espaces de création numérique en bibiliothèque et faire un synthèse
 
 Voir atelier papercraft
 
@@ -110,6 +116,8 @@ Dimmensions des machines
 .. note:: L: Length (longueur), W: Width (largeur), H: Height (hauteur)
 
    Dimmensions en centimètres.
+
+- `Chariot acier dossier fixe - Capacité 250 kg -L850 <https://www.manutan-collectivites.fr/chariot-acier-dossier-fixe-capacite-250-kg-l850-144362001.html?refCom=Tous&webdo_20000509=Tous&webdo_20000225=Tous&webdo_20003884=Tous>`_
 
 - 3D Up Box+:
 

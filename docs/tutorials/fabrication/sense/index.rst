@@ -1,7 +1,9 @@
-Scanner: Sense 3D
-=================
+Scanner: Sense 3D V2
+====================
+
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
-- `Guide officiel (anglais) <http://heim.ifi.uio.no/matsh/inf4500/laser/sense.pdf>`_
+- :download:`Guide <guide.pdf>`
+
 
 Matériel
 --------
@@ -11,9 +13,14 @@ Matériel
 Logiciels
 ---------
 
-- `Sense Software 1.1 <https://3d-systems-sense.software.informer.com/download/?ca90b7c-1.1.0.123>`_
+- :download:`Sense Software <sensesetup_win-1.1.exe>`
+
+
+
+
+
 
 Utilisation
 -----------
 
-.. important:: Le scanner doit être connecté à un port USB 3.0 afin d'être reconnu. Ces ports USB sont souvent en bleu.
+.. important:: Le scanner doit être connecté de préférence à un port USB 3.0 pour améliorer les performances. Ces ports USB sont souvent en bleu.

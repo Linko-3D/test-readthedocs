@@ -2,8 +2,10 @@ Scanner: Sense 3D V2
 ====================
 
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
-- :download:`Guide <guide.pdf>`
 
+.. important:: TODO: remplacer par guide officiel en ligne:
+
+- :download:`Guide <guide.pdf>`
 
 Matériel
 --------
@@ -13,12 +15,7 @@ Matériel
 Logiciels
 ---------
 
-- :download:`Sense Software <sensesetup_win-1.1.exe>`
-
-
-
-
-
+- `Sense Software <https://telecharger.freedownloadmanager.org/Windows-PC/3D-Systems-Sense/GRATUIT-2.2.0.240.html?ac1acbc>`_
 
 Utilisation
 -----------

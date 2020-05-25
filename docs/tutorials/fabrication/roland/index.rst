@@ -1,11 +1,14 @@
-Découpeuse vinyl: Roland GS-24
-==============================
+Découpeuse vinyl: Roland CAMM-1 GS-24
+=====================================
 
 Manuel: https://www.machines-3d.com/images/Image/File/notice/Manuel_utilisation_FR_GS24.pdf
 
 Matériel
 --------
+
 - `Site officiel <https://www.rolanddg.fr/produits/plotters-de-decoupe/camm-1-gs-24-plotter-de-decoupe>`_
+
+- `Driver <https://startup.rolanddg.com/RDG_DataFiles/CAMM1/Roland_CAMM-1_Driver.zip>`_
 
 .. image:: gs24.jpg
 
@@ -14,3 +17,9 @@ Logiciels
 
 Utilisation
 -----------
+
+.. important:: Ne pas brancher la machine au PC si le driver n'est pas installé, sinon il sera plus possible de l'utiliser.
+
+.. note:: Pour régler la langue maintenez le bouton menu et pressez le bouton d'allumage.
+
+Roland_CAMM-1_Driver.zip > RDP-014_Roland_CAMM-1_Driver_Windows10_x64_V150.zip > SETUP64.EXE

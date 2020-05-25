@@ -13,7 +13,8 @@ TODO:
 .. important:: - VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/
    - Rédiger tuto 3Doodler
    - Tuto 3d Sense
-   - Utiliser stylo et vinyl Curio
+   - Utiliser vinyl Curio
+   - Utiliser deux outils en même temps sur la Curio
    - Importer SVG dans Curio
    - réfléchir présentation lab 15 juin
    - voir société qui recycle le filament

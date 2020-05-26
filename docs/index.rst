@@ -121,10 +121,15 @@ Dimmensions des machines
 
    Dimmensions en centimètres.
 
-Retenu:
+Retenu Danyl:
 
 - Servante tôlée 2 et 3 plateaux - Force 200 kg: https://www.manutan-collectivites.fr/servante-tolee-2-et-3-plateaux-force-200-kg-cf-4120371.html?dir=asc&order=price&p=2
 
+- Bac 175L, parois et fond pleins , recyclé, Noir LxlxH = 800x600x425mm: https://www.manutan-collectivites.fr/bac-175l-parois-et-fond-pleins-recycle-noir-lxlxh-800x600x425mm-110267003.html?refCom=Tous&webdo_20001652=Tous&webdo_20000041=Tous&webdo_20003804=Tous
+
+- Bac divers: https://www.manutan-collectivites.fr/bac-22l-parois-et-fond-pleins-recycle-noir-lxlxh-600x400x120mm-110266003.html?refCom=Tous&webdo_20001652=Tous&webdo_20000041=Tous&webdo_20003804=Tous
+
+- 2 Bagage-set Force 500 kg: https://www.manutan-collectivites.fr/2-bagage-set-force-500-kg-115277001.html
 
 Avec freins:
 
@@ -136,11 +141,6 @@ Sans freins:
 - `Chariot 2 plateaux capacité 120 kg <https://www.manutan-collectivites.fr/chariot-2-plateaux-capacite-120-kg-138607001.html>`_
 - Chariot plastique: https://www.manutan-collectivites.fr/chariot-plastique-recycle-2-plateaux-capacite-180-kg-cf-4267765.html?dir=asc&order=price
 
-Bacs:
-
-Bac 175L, parois et fond pleins , recyclé, Noir LxlxH = 800x600x425mm: https://www.manutan-collectivites.fr/bac-175l-parois-et-fond-pleins-recycle-noir-lxlxh-800x600x425mm-110267003.html?refCom=Tous&webdo_20001652=Tous&webdo_20000041=Tous&webdo_20003804=Tous
-
-Bac gerbable grande distribution norme Europe - Longueur 600 mm - 26 à 60 L https://www.manutan-collectivites.fr/bac-gerbable-grande-distribution-norme-europe-longueur-600-mm-26-a-60-l-cf-450178.html?p=2
 
 https://www.manutan-collectivites.fr/atelier/stocker-les-marchandises.html
 

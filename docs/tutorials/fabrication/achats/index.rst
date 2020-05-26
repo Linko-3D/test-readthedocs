@@ -23,6 +23,6 @@ Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 53
 
 7x (Curio + Bernina + Dagoma 1 + Dagoma 2 + onduleurs + 10 PCs + 10 tablettes graphique): Bac 22L, parois et fond pleins , recyclé, Noir LxlxH = 600x400x120mm: https://www.manutan-collectivites.fr/bac-22l-parois-et-fond-pleins-recycle-noir-lxlxh-600x400x120mm-110266003.html?refCom=Tous&webdo_20001652=Tous&webdo_20000041=Tous&webdo_20003804=Tous
 
-.. note:: Toutes les machines ne seront pas déplacés en même temps.
+.. note:: Toutes les machines ne seront pas déplacées en même temps.
 
 .. image:: bac_moyen.png

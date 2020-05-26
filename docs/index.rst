@@ -43,7 +43,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
 --------------------------------------------------------------------------------------------
 
-.. note:: Vous trouverez ici la documentation sur l'utilisation du matériel qui vous a été prêté.
+.. note:: Vous trouverez ici la documentation sur l'utilisation du matériel de la MDE.
 
    Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
 
@@ -122,6 +122,8 @@ Dimmensions des machines
    Dimmensions en centimètres.
 
 Retenu Danyl:
+
+Chariot 3 plateaux 808LC Noir 99x61x28: https://www.manutan-collectivites.fr/chariot-3-plateaux-808lc-noir-99x61x28-itg2247858.html?refCom=Tous&webdo_20000225=Tous&webdo_20000509=Tous&webdo_20003721=Tous
 
 - Servante tôlée 2 et 3 plateaux - Force 200 kg: https://www.manutan-collectivites.fr/servante-tolee-2-et-3-plateaux-force-200-kg-cf-4120371.html?dir=asc&order=price&p=2
 

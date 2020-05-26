@@ -5,8 +5,6 @@ Tuto: https://youtu.be/qFcAeMAyoUM
 
 .. important:: TODO voir definition Plotter de découpe.
 
-Manuel: https://www.machines-3d.com/images/Image/File/notice/Manuel_utilisation_FR_GS24.pdf
-
 https://youtu.be/cgqfQxDR6pU
 
 https://youtu.be/rDKMNXHu_D4
@@ -15,16 +13,23 @@ Matériel
 --------
 
 - `Site officiel <https://www.rolanddg.fr/produits/plotters-de-decoupe/camm-1-gs-24-plotter-de-decoupe>`_
+- `Manuel <https://www.machines-3d.com/images/Image/File/notice/Manuel_utilisation_FR_GS24.pdf>`_
 
-- `Driver <https://startup.rolanddg.com/RDG_DataFiles/CAMM1/Roland_CAMM-1_Driver.zip>`_
+
 
 .. image:: gs24.jpg
 
 Logiciels
 ---------
 
+- `Driver <https://startup.rolanddg.com/RDG_DataFiles/CAMM1/Roland_CAMM-1_Driver.zip>`_
+
 Utilisation
 -----------
+
+
+.. image:: a4.png
+
 
 .. important:: Ne pas brancher la machine au PC si le driver n'est pas installé, sinon il sera plus possible de l'utiliser.
 

@@ -17,8 +17,6 @@ La caisse de tranport est optionnelle car la surface du véhicule est anti-déra
 Une fois arrivé il faut sortir le chariot à deux plateaux avec rebords du véhicule, enlever les sangles de la caisse de transport pour l'ouvrir, prendre les bacs et les mettre sur le chariot.
 Les objets lourds et volumnieux comme l'imprimante 3D vont sur le plateau du dessus pour éviter d'avoir à me baisser et parce qu'il n'y a pas de limite de hauteur.
 
-.. note:: La caisse de transport ne sera pas déplacée, de plus elle pèse 42 kg à vide.
-
 Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 535 mm): https://www.manutan-collectivites.fr/chariot-1-plateau-bois-rebords-965x655mm-250-kg-variofit-itg3048277.html?refCom=Tous&webdo_20000509=Tous&webdo_20000225=Tous&webdo_20003721=Tous
 
 .. note:: les caractéristiques importantes sont:
@@ -51,7 +49,9 @@ Ci-dessous les propositions sont optionnelles, le but étant de perdre le moins 
 
 *Optionnel:* Cembox de transport 750 litres (1700 x 840 x 800): https://www.manutan-collectivites.fr/cembox-750-itg3421037.html?refCom=Tous&webdo_20000225=Tous&webdo_20000041=Tous&webdo_20001652=Tous
 
-.. note:: La boites est longue et fait 800 mm de haut, il sera possible de superposer des accessoires et cables au dessus des machines.
+.. note:: La caisse est longue et fait 800 mm de haut, il sera possible de superposer des accessoires et cables au dessus des machines.
+
+   La caisse de transport ne sera pas déplacée, de plus elle pèse 42 kg à vide.
 
 .. image:: caisse.png
 

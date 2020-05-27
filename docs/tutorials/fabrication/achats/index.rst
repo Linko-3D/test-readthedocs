@@ -72,3 +72,10 @@ Sangle d'arrimage à tendeur cliquet - Force 350 kg - Manutan (5 mètres): https
 .. note:: 5 mètres me semble être la taille minimale pour faire le tour de la caisse ou du chariot. Il faut voir combien il en faut.
 
 .. image:: sangle.png
+
+A voir
+^^^^^^
+
+.. image:: caisses.png
+
+Caisse de transport en contreplaqué avec couvercle: https://www.manutan-collectivites.fr/caisse-de-transport-en-contreplaque-avec-couvercle-cf-2169516.html?q=caisse+de+transport+en+contreplaqu%C3%A9

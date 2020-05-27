@@ -2,7 +2,7 @@ Scanner: Sense 3D V2
 ====================
 
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
-- `Guide utilisateur <http://cubify.s3.amazonaws.com/Scanners/Sense/sense_userguide_pc.pdf>`_
+- `Guide utilisateur <https://s3.amazonaws.com/dl.3dsystems.com/binaries/support/sense-scanner/Sense2_UserGuide_031519.pdf>`_
 
 Matériel
 --------

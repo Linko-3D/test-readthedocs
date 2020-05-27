@@ -3,6 +3,7 @@ Scanner: Sense 3D V2
 
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
 - `Guide utilisateur <https://s3.amazonaws.com/dl.3dsystems.com/binaries/support/sense-scanner/Sense2_UserGuide_031519.pdf>`_
+- :download:`Sense Track Assist <Sense_TrackAssist.pdf>`
 
 Matériel
 --------

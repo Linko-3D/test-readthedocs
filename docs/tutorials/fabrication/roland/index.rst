@@ -36,3 +36,17 @@ Utilisation
 .. note:: Pour régler la langue maintenez le bouton menu et pressez le bouton d'allumage.
 
 Roland_CAMM-1_Driver.zip > RDP-014_Roland_CAMM-1_Driver_Windows10_x64_V150.zip > SETUP64.EXE
+
+.. image:: rouleau.png
+
+.. image:: lame_couverte.png
+
+.. image:: lame.png
+
+.. image:: lame_placée.png
+
+.. image:: lame_vérouillée.png
+
+.. image:: ouvert.png
+
+.. image:: vérouillé.png

@@ -66,7 +66,7 @@ Préparation du matériel
 
 .. image:: encoche.png
 
-- Prenez la lame de découpe et réglez sa profondeur avec l'avant de la Curio. La flèche rouge indique la profondeur choisi, cette flèche dit être aligné avec l'avant de la Curio pour procéder au réglage.
+- Prenez la lame de découpe ou le stylo. Pour la lame réglez sa profondeur avec l'avant de la Curio. La flèche rouge indique la profondeur choisi, cette flèche dit être aligné avec l'avant de la Curio pour procéder au réglage.
 
 .. note:: Profondeurs de lame:
 
@@ -77,9 +77,15 @@ Préparation du matériel
 
 .. image:: reglage.png
 
-- Placez la lame à l'emplacement du cercle rouge, tournez l'interrupteur dans le sens inverse des aiguilles d'une montre pour l'ouvrir et dans l'autre pour le vérouiller.
+- Placez la lame ou le stylo à l'emplacement du cercle rouge, tournez l'interrupteur dans le sens inverse des aiguilles d'une montre pour l'ouvrir et dans l'autre pour le vérouiller.
+
+Lame en place:
 
 .. image:: position_lame.png
+
+Stylo en place:
+
+.. image:: stylo.png
 
 - Branchez et allumez la Curio, la machine va initialiser sa position par défaut.
 

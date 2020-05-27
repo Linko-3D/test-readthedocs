@@ -33,3 +33,9 @@ Deux fois: retirer le plastique
 .. important:: TODO: chercher technique pour récupérer le plastique
 
 .. note:: Dessiner les formes à plat pour ensuite les accrocher entre elles en volume en faisant des fixation autour.
+
+.. image:: pousser_filament.png
+
+.. image:: extrusion.png
+
+.. image:: pret.png

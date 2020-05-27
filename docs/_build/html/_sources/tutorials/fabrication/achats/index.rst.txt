@@ -1,7 +1,7 @@
 Achats
 ======
 
-.. note:: Dimmensions  en cm (longueur, largeur, hauteur).
+.. note:: Dimmensions  en mm (longueur, largeur, hauteur).
 
    - 3D Up Box+: 490 x 490 x 510
    - Silhouette Curio: 290 x 490 x 250
@@ -17,7 +17,14 @@ La caisse de tranport est optionnelle car la surface du véhicule est anti-déra
 Une fois arrivé il faut sortir le chariot à deux plateaux avec rebords du véhicule, enlever les sangles de la caisse de transport pour l'ouvrir, prendre les bacs et les mettre sur le chariot.
 Les objets lourds et volumnieux comme l'imprimante 3D vont sur le plateau du dessus pour éviter d'avoir à me baisser et parce qu'il n'y a pas de limite de hauteur.
 
+.. note:: Pour mieux organiser le transport il faudra faire une liste du matériel nécessaire pour la réalisation de chaque atelier et du matériel de secour.
+
+Matériel indispensable
+^^^^^^^^^^^^^^^^^^^^^^
+
+
 Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 535 mm): https://www.manutan-collectivites.fr/chariot-1-plateau-bois-rebords-965x655mm-250-kg-variofit-itg3048277.html?refCom=Tous&webdo_20000509=Tous&webdo_20000225=Tous&webdo_20003721=Tous
+
 
 .. note:: les caractéristiques importantes sont:
 
@@ -28,6 +35,8 @@ Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 53
    - disposer d'un frein pour éviter une perte de contrôle dans une descente
    - avoir une poigné en hauteur
 
+.. note:: Les roues me paraissent avoir un diamètre légèrement supérieur à la moyenne sur le chariot sélectionné, celà permettrait de l'utiliser sur de la terre.
+
 .. image:: chariot.png
 
 2x (3D Up Box+ + un en plus): Bac 175L, parois et fond pleins , recyclé, Noir LxlxH = 800x600x425mm: https://www.manutan-collectivites.fr/bac-175l-parois-et-fond-pleins-recycle-noir-lxlxh-800x600x425mm-110267003.html?refCom=Tous&webdo_20001652=Tous&webdo_20000041=Tous&webdo_20003804=Tous
@@ -37,7 +46,7 @@ Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 53
    - les dimmensions (à noter que le bac fait presque la hauteur de la 3D Up Box afin de la protéger et saisir facilement)
    - des poignets
    
-   Peut-être voir s'il serait possible d'avoir l'imprimante 3D directement sur le plateau du dessus du chariot et maintenu par les sangles pour ne pas avoir à la soulever.
+   Peut-être voir s'il serait possible d'avoir le bac avec l'imprimante 3D dedans directement sur le plateau du dessus du chariot et maintenu par les sangles pour ne pas avoir à la soulever.
    
 .. image:: bac_grand.png
 
@@ -45,9 +54,12 @@ Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 53
 
 .. image:: bac_moyen.png
 
-Ci-dessous les propositions sont optionnelles, le but étant de perdre le moins de temps possible pour déployer le matériel.
+Matériel optionnel
+^^^^^^^^^^^^^^^^^^
 
-*Optionnel:* Cembox de transport 750 litres (1700 x 840 x 800): https://www.manutan-collectivites.fr/cembox-750-itg3421037.html?refCom=Tous&webdo_20000225=Tous&webdo_20000041=Tous&webdo_20001652=Tous
+.. note:: Ci-dessous les propositions sont optionnelles, le but étant aussi de perdre le moins de temps possible pour déployer le matériel.
+
+Cembox de transport 750 litres (1700 x 840 x 800): https://www.manutan-collectivites.fr/cembox-750-itg3421037.html?refCom=Tous&webdo_20000225=Tous&webdo_20000041=Tous&webdo_20001652=Tous
 
 .. note:: La caisse est longue et fait 800 mm de haut, il sera possible de superposer des accessoires et cables au dessus des machines.
 
@@ -55,6 +67,8 @@ Ci-dessous les propositions sont optionnelles, le but étant de perdre le moins 
 
 .. image:: caisse.png
 
-*Optionnel:* Sangle d'arrimage à tendeur cliquet - Force 350 kg - Manutan (5 mètres): https://www.manutan-collectivites.fr/sangle-d-arrimage-a-tendeur-cliquet-force-350-kg-manutan-itg2259295.html
+Sangle d'arrimage à tendeur cliquet - Force 350 kg - Manutan (5 mètres): https://www.manutan-collectivites.fr/sangle-d-arrimage-a-tendeur-cliquet-force-350-kg-manutan-itg2259295.html
+
+.. note:: 5 mètres me semble être la taille minimale pour faire le tour de la caisse ou du chariot.
 
 .. image:: sangle.png

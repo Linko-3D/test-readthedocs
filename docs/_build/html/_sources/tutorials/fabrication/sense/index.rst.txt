@@ -28,6 +28,7 @@ Solidify rempli les trous automatiquement.
 .. image:: scan_type.png
 
 .. note:: Conseils pour scanner:
+
    - Tenez-vous à environ 45 cm à 2 mètres de l'objet. La distance dépend aussi de la taille de ce qui est scanné.
    
       - Si l'objet scanné devient blanc c'est que vous êtes trop proche.
@@ -36,7 +37,7 @@ Solidify rempli les trous automatiquement.
    - Pour une personne pointez la caméra vers le visage.
 
 
-
+Réparation > Solidifier
 
 Test:
 

@@ -69,6 +69,6 @@ Cembox de transport 750 litres (1700 x 840 x 800): https://www.manutan-collectiv
 
 Sangle d'arrimage à tendeur cliquet - Force 350 kg - Manutan (5 mètres): https://www.manutan-collectivites.fr/sangle-d-arrimage-a-tendeur-cliquet-force-350-kg-manutan-itg2259295.html
 
-.. note:: 5 mètres me semble être la taille minimale pour faire le tour de la caisse ou du chariot.
+.. note:: 5 mètres me semble être la taille minimale pour faire le tour de la caisse ou du chariot. Il faut voir combien il en faut.
 
 .. image:: sangle.png

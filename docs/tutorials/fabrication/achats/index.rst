@@ -9,6 +9,15 @@ Achats
 - Bernina: 460 x 760 x 400
 - Dagoma: 330 x 330 x 550
 
+Max: 500 x 870 x 550 (pieds roland non calculé)
+
+Explication de ma suggestion: le matériel est transportés dans des bacs placés éventuellement dans une caisse de transport (ou deux). La caisse de transport s'il y en a une est maintenu par des sangles.
+La caisse de tranport et optionnel car la surface du véhicule est anti-dérapante, donc les bacs devraient suffir à les maintenir en place.
+Une fois arrivé il faut sortir le chariot à deux plateaux avec rebords du véhicule, enlever les sangles de la caisse de transport pour l'ouvrir, prendre les bacs et les mettre sur le chariot.
+Les objets lourds et volumnieux comme l'imprimnte 3D vont sur le plateau du dessus pour éviter d'avoir à me baisser et parce qu'il n'y a pas de limite de hauteur.
+
+.. note:: La caisse de transport ne sera pas déplacé, de plus elle pèse 42 kg à vide.
+
 Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 535 mm): https://www.manutan-collectivites.fr/chariot-1-plateau-bois-rebords-965x655mm-250-kg-variofit-itg3048277.html?refCom=Tous&webdo_20000509=Tous&webdo_20000225=Tous&webdo_20003721=Tous
 
 .. image:: chariot.png
@@ -26,3 +35,7 @@ Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 53
 .. note:: Toutes les machines ne seront pas déplacées en même temps.
 
 .. image:: bac_moyen.png
+
+Cembox de transport 750 litres (1700 x 840 x 800): https://www.manutan-collectivites.fr/cembox-750-itg3421037.html?refCom=Tous&webdo_20000225=Tous&webdo_20000041=Tous&webdo_20001652=Tous
+
+.. image:: caisse.png

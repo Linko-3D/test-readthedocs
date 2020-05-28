@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Scanner: Sense 3D V2 &mdash; Documentation MDE LAB </title>
+  <title>Photogramétrie: Sense 3D V2 &mdash; Documentation MDE LAB </title>
   
 
   
@@ -92,7 +92,7 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../3dupbox/index.html">Imprimante 3D: 3D UP BOX+</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../magis/index.html">Imprimante 3D: Dagoma Neva Magis</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Scanner: Sense 3D V2</a><ul>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Photogramétrie: Sense 3D V2</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#materiel">Matériel</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#logiciels">Logiciels</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#utilisation">Utilisation</a></li>
@@ -171,7 +171,7 @@
     
       <li><a href="../../../index.html">Docs</a> &raquo;</li>
         
-      <li>Scanner: Sense 3D V2</li>
+      <li>Photogramétrie: Sense 3D V2</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -190,8 +190,9 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="scanner-sense-3d-v2">
-<h1>Scanner: Sense 3D V2<a class="headerlink" href="#scanner-sense-3d-v2" title="Lien permanent vers ce titre">¶</a></h1>
+  <div class="section" id="photogrametrie-sense-3d-v2">
+<h1>Photogramétrie: Sense 3D V2<a class="headerlink" href="#photogrametrie-sense-3d-v2" title="Lien permanent vers ce titre">¶</a></h1>
+<p><a class="reference external" href="https://youtu.be/ye-C-OOFsX8">https://youtu.be/ye-C-OOFsX8</a></p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://fr.3dsystems.com/3d-scanners/sense-scanner">Site officiel</a></p></li>
 <li><p><a class="reference external" href="https://s3.amazonaws.com/dl.3dsystems.com/binaries/support/sense-scanner/Sense2_UserGuide_031519.pdf">Guide utilisateur</a></p></li>
@@ -199,7 +200,7 @@
 </ul>
 <div class="section" id="materiel">
 <h2>Matériel<a class="headerlink" href="#materiel" title="Lien permanent vers ce titre">¶</a></h2>
-<img alt="../../../_images/sense3d.jpg" src="../../../_images/sense3d.jpg" />
+<img alt="../../../_images/sense.png" src="../../../_images/sense.png" />
 </div>
 <div class="section" id="logiciels">
 <h2>Logiciels<a class="headerlink" href="#logiciels" title="Lien permanent vers ce titre">¶</a></h2>
@@ -236,12 +237,42 @@
 <li><p>Pour une personne pointez la caméra vers le visage.</p></li>
 </ul>
 </div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Chaque 30 degré autour du modèle le logiciel va demander de rester fixe quelques seconde pour optimiser la capture.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Eclairage en intérieur et dans plusieurs directions. Il faut le moins d’ombre possible.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Le retour arrière n’est possible qu’avec les flèches, vous ne pouvez le faire avec Ctrl + Z.</p>
+</div>
+<img alt="../../../_images/retour.png" src="../../../_images/retour.png" />
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>L’outil couper supprimer la zone la plus petite.</p>
+</div>
+<p>Il faut cliquer sur Terminer pour exporter</p>
+<p>Cliquer sur Numériser à gauche pour démarrer, positionnez bien la caméra pendant le compte à rebourd pour ne pas capturer un autre objet.</p>
+<div class="admonition attention">
+<p class="admonition-title">Attention</p>
+<p>Avec le niveau de détail maximal le scan peut rapidement perdre l’object.</p>
+</div>
 <p>Réparation &gt; Solidifier</p>
+<img alt="../../../_images/Solidification.png" src="../../../_images/Solidification.png" />
 <p>Test:</p>
 <img alt="../../../_images/test.png" src="../../../_images/test.png" />
 </div>
 <div class="section" id="corriger-son-scan-3d-sous-blender">
 <h2>Corriger son scan 3D sous Blender<a class="headerlink" href="#corriger-son-scan-3d-sous-blender" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Importer le .obj</p>
+<p>Faire un scale à 0.05. Ajoutez un cube et faites un scale et positionnez l’objet pour qu’il rentre à peu près dans le cube. Orientez le modèle pour qu’il soit à l’endroit. Puis faire un Apply en All Transforms.</p>
+<p>Remesh à 0.05</p>
+<p>Sculpt mode sans symmétrie</p>
+<p>Smooth puis Inflate puis nouveau remesh</p>
+<p>Continuer avec le inflate, smooth, snake hook et remesh pour reconstituer le modèle original</p>
 </div>
 </div>
 

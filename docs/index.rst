@@ -45,7 +45,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
 
 .. note:: Vous trouverez ici la documentation sur l'utilisation du matériel de la MDE.
 
-   Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: mde-numerique@cd-essonne.fr
+   Pour toute(s) question(s), suggestion(s), demande(s), vous pouvez nous écrire directement à cette adresse email: numerique-mde@cd-essonne.fr
 
 --------------------------------------------------------------------------------------------
 
@@ -68,6 +68,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/fabrication/3dupbox/index.rst
    /tutorials/fabrication/magis/index.rst
    /tutorials/fabrication/sense/index.rst
+   /tutorials/fabrication/smartphone/index.rst
    /tutorials/fabrication/3doodler/index.rst
    /tutorials/fabrication/curio/index.rst
    /tutorials/fabrication/roland/index.rst

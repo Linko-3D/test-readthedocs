@@ -66,7 +66,6 @@ Préparation du matériel
 
 .. image:: power.png
 
-
 - Lancez le logiciel **Up Studio** (le lien de téléchargement est plus haut), c'est un logiciel dans lequel vous importez vos modèles 3D afin de générer un fichier avec les instructions sur la fabrication de celui-ci par l'imprimante 3D.
 
 .. note:: - Au premier lancement du logiciel, il vous sera demandé de vous connecter à un compte, nous vous invitons à créer le vôtre. Cliquez à gauche sur Account (compte), puis au centre sur Sign Up (s'inscrire).
@@ -105,16 +104,26 @@ Pour doubler l'échelle, cliquez sur l'icône Echelle puis sur le numéro 2, pou
 
 .. image:: doublescale.png
 
-.. attention: Lorsque vous faites une mise à l'échelle les dimensions sont changés sur 3 axes, en doublant l'échelle vous multipliez le temps d'impression par 2 sur l'axe X x 2 pour l'axe Y x 2 pour l'axe Z, soit un temps d'impression 8 fois plus long. L'impression passera alors de 1 heure à 8 heures.
-A l'inverse si le temps d'impression est trop long, réduire légèrement la taille permet de gagner plusieurs dizaines de minutes ou heures.
+.. attention:: Lorsque vous faites une mise à l'échelle les dimensions sont changés sur 3 axes, en doublant l'échelle vous multipliez le temps d'impression par 2 sur l'axe X, par 2 sur l'axe Y et par 2 sur l'axe Z, vous augmenterez le temps de 2x2x2 donc l'impression prendra 8 fois plus de temps. Une imppression qui prenait 1 heure en prendra 8.
+Et inversement, en cliquant sur 0.5 vous divisez par 8 le temp d'impression. L'echelle est donc le paramètre qui aura le plus d'incidence sur la durée de l'impression.
 
+L'orientation va permettre d'éviter l'utilisation de supports, donc d'imprimer plus rapidement et de passer moins de temp à poncer le modèle pour lisser les surfaces.
+
+Sur le modèle de gauche l'orientation nécessite beaucoup de supports, la tête est placé à la verticale et l'arrière du crane et les deux oreilles ont besoin de maintien.
+Celui de droite est orienté pour que l'arrière du crane touche le plateau ainsi qu'une des deux oreilles.
+
+.. image:: orientation.png
+
+Un autre exemple, sur l'image de gauche le modèle n'a besoin d'aucun support et les surfaces seront plus lisses. Sur l'image de droite beaucoup de support seront nécessaire et la surface sera en "escaliers". 
+
+.. image:: orientation2.png
 
 Lancer une impression
 ^^^^^^^^^^^^^^^^^^^^^
 
 Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
 
-.. attention:: TODO: chercher Nozzle offset et Unsolid Model.
+.. image:: printsettings.png
 
 - Layer Thickness: c'est l'épaisseur des couches d'impression, 100 microns sert aux impressions détaillées comme les figurines et 200 pour les pièces mécaniques. Plus l'impression est épaisse moins elle prendra de temps à imprimer.
 - Infill: c'est le remplissage, les pièces remplis sont celles qui sont soumises à des forces comme des engrenages.
@@ -124,11 +133,8 @@ Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
 - No Raft: si l'option est coché celà désactive le support sous l'impression 3D pour renforcer l'adhérence. Un pièce fine et cylindrique par exemple aura besoin d'un raft.
 - No Support: désactive les supports. Conceoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l'impression et après (découpe des supports, ponçage).
 
-.. image:: printsettings.png
+.. attention:: TODO: chercher Nozzle offset et Unsolid Model.
 
 .. attention:: une fois que celà fonctionnera, parler du mode preview, chercher si indicateur de durée.
 
 Cliquez sur Print (imprimer) pour démarrer l'impression.
-
-Ateliers
---------

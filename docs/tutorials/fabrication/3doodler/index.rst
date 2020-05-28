@@ -31,22 +31,20 @@ Mettez un filament spécialement pour le 3doodler.
 
 .. attention:: Le plastique se consomme très rapidement et est onéreux. Il sera important de ne donner l'appareil qu'après avoir expliqué son fonctionnement et de surveiller son utilisation.
 
+Appuyez une fois sur le bouton orange pour pousser le plastique, une autre fois pour arrêter.
 
+.. image:: extrusion.png
 
+Appuyez deux fois pour retirer le plastique.
 
-Sur On: rouge = en train de chauffer
-Puis vert: prêt
+.. note:: Le plastique est difficile à retirer, il vous faudra secouer le stylo pour le faire tomber.
 
-Appuyer une fois bouton orange: pousser le plastique
-Deux fois: retirer le plastique
+Pour créer des formes en volume il faut compter environ 35 secondes pour que le plastique devienne solide.
+Vous pouvez créer des surface à plat puis les élevé et attaché une autre surface.
 
-.. note:: 35 secondes pour que le plastique deviennent solide.
-
-.. important:: TODO: chercher technique pour récupérer le plastique
-
-.. note:: Dessiner les formes à plat pour ensuite les accrocher entre elles en volume en faisant des fixation autour.
+Si le plastique ne sort pas, vous pouvez le pousser au début avec une tige métallique.
 
 .. image:: pousser_filament.png
 
-.. image:: extrusion.png
+
 

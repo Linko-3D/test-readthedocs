@@ -5,7 +5,7 @@ https://youtu.be/ye-C-OOFsX8
 
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
 - `Guide utilisateur <https://s3.amazonaws.com/dl.3dsystems.com/binaries/support/sense-scanner/Sense2_UserGuide_031519.pdf>`_
-- :download:`Sense Track Assist <Sense_TrackAssist.pdf>`
+- :download:`Sense Track Assist <Sense_TrackAssist.pdf>` (aide à la détection)
 
 Matériel
 --------
@@ -22,17 +22,27 @@ Utilisation
 
 Après avoir installé le logiciel 3D Systems Sense connectez le scanner sur un port USB.
 
-.. note:: Connectez le scanner sur un port USB 3.0 pour améliorer les performances.
+.. note:: Connectez le scanner sur un port USB 3.0 pour améliorer les performances, ces ports sont souvent en bleu.
+
+Vous devriez voir l'affichage de la caméra dans le logiciel. Choisissez le type d'objet à scanner entre Objet, Tête et Corps puis cliquez sur "Numériser" pour commencer.
+
+.. image:: scan_type.png
+
+.. note:: Conseils pour scanner:
+
+   - Tenez-vous à une distance d'environ 45 cm à 2 mètres de l'objet, selon la taille de l'objet qui est scanné.
+   
+      - Si l'objet scanné devient blanc c'est qu'il est mal détecté, celà peut être parce qu'il est trop proche, parce qu'il est brillant, parce qu'il n'y a pas assez de points de repères (une sphère par exemple. Dans le dernier cas vous pouvez ajouter une feuille de repère sous l'objet pour améliorer la détection: :download:`Sense Track Assist <Sense_TrackAssist.pdf>`
+
+-------------------------------------------------------------------------------------
 
 Vidéo explicative: https://youtu.be/1eWUaxq-oGg
 
 Solidify rempli les trous automatiquement.
 
-.. note:: Le scanner doit être connecté de préférence à un port USB 3.0 pour améliorer les performances. Ces ports USB sont souvent en bleu.
-
 .. attention:: Le logiciel 3D Systems Sense ne permet pas de retour arrière. Exporter votre modèle régulièrement avant une manipulation. Vous pourrez effectuer les mêmes tâches (en plus complexe) sur le logiciel de 3D Blender.
 
-.. image:: scan_type.png
+
 
 .. note:: Conseils pour scanner:
 

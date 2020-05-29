@@ -26,6 +26,8 @@ Chaque jour:
 
 Voir atelier papercraft
 
+S'inscrire formation gestion groupe cnfpt et écoute active.
+Voir descendre caissons (plateforme élévatrce), diable, chariot à tiroir.
 
 
 - chercher type filament 3doodler

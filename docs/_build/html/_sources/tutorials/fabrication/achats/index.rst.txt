@@ -24,9 +24,9 @@ Matériel indispensable
 
 Chariot 1 plateau bois rebords 965x655mm 250 Kg Variofit (entre deux plateaux 535 mm): https://www.manutan-collectivites.fr/chariot-1-plateau-bois-rebords-965x655mm-250-kg-variofit-itg3048277.html?refCom=Tous&webdo_20000509=Tous&webdo_20000225=Tous&webdo_20003721=Tous
 
-.. note:: les caractéristiques importantes sont:
+.. note:: Les caractéristiques importantes sont:
 
-   - les dimensions pouvant transporter toutes les machines (pas forcément toutes à la fois)
+   - les dimensions pour pouvoir transporter toutes les machines (pas forcément toutes à la fois)
    - avoir deux plateaux afin d'en avoir un en hauteur pour éviter de me baisser
    - avoir des roues blocables pour les transports
    - avoir des rebords surtout sur le plateau du haut pour éviter de faire tomber les accessoires

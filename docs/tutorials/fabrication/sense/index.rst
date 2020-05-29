@@ -20,6 +20,10 @@ Logiciels
 Utilisation
 -----------
 
+Après avoir installé le logiciel 3D Systems Sense connectez le scanner sur un port USB.
+
+.. note:: Connectez le scanner sur un port USB 3.0 pour améliorer les performances.
+
 Vidéo explicative: https://youtu.be/1eWUaxq-oGg
 
 Solidify rempli les trous automatiquement.

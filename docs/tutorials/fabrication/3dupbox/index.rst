@@ -60,13 +60,16 @@ Préparation du matériel
 
 .. image:: couvercle.png
 
-- Connectez l'imprimante en USB, branchez l'alimentation. Appuyez sur le bouton à l'arrière pour la mettre sur On (symbole du trait). Restez appuyé sur le bouton d'allumage plusieurs secondes (cela permet d'initialiser l'imprimante à sa position par défaut lors de l'allumage).
+- Connectez l'imprimante en USB, branchez l'alimentation. Appuyez sur le bouton à l'arrière pour la mettre sur On (symbole du trait).
 
 .. image:: branchements.png
 
+- Restez appuyé sur le bouton d'allumage plusieurs secondes (cela permet d'initialiser l'imprimante à sa position par défaut lors de l'allumage).
+
 .. image:: power.png
 
-- Lancez le logiciel **Up Studio** (le lien de téléchargement est plus haut), c'est un logiciel dans lequel vous importez vos modèles 3D afin de générer un fichier avec les instructions sur la fabrication de celui-ci par l'imprimante 3D.
+- Lancez le logiciel `Up Studio <file:///C:/Users/MEDIATHEQUE1/Documents/GitHub/test-readthedocs/docs/_build/html/tutorials/fabrication/3dupbox/index.html>`_, c'est un logiciel dans lequel vous importez vos modèles 3D afin de générer un fichier avec les instructions sur la fabrication de celui-ci par l'imprimante 3D.
+  Ce type de logiciel s'appel un "Slicer" (découpeur) car il indique les couches et les trajectoires que devra effectuer l'imprimante pour déposer le plastique.
 
 .. note:: - Au premier lancement du logiciel, il vous sera demandé de vous connecter à un compte, nous vous invitons à créer le vôtre. Cliquez à gauche sur Account (compte), puis au centre sur Sign Up (s'inscrire).
    - Lors de votre connexion, cochez "Auto Login" pour vous reconnecter automatiquement au lancement du logiciel.
@@ -92,15 +95,15 @@ Préparer une impression sur UP Studio
 
 Pour vous déplacer dans la vue 3D:
 
-- le clic gauche permet de tourner dans la vue 3D
-- la molette sert à avancer ou reculer
-- le clic droit déplace la vue sur les côtés
+- le **clic gauche** permet de tourner dans la vue 3D
+- la **molette** sert à avancer ou reculer
+- le **clic droit** déplace la vue sur les côtés
 
 La "roue" en haut à droite sert à déplacer (le moins utilisé), mise à l'échelle (le plus utilisé), 
 
 .. image:: roue.png
 
-Pour doubler l'échelle, cliquez sur l'icône Echelle puis sur le numéro 2, pour diviser par 2 cliquez sur 0.5. Sur l'image en dessous l'échelle est double:
+Pour doubler l'échelle, cliquez sur l'icône Echelle puis sur le numéro 2, pour diviser par 2 cliquez sur 0.5. Sur l'image en dessous l'échelle est doublée:
 
 .. image:: doublescale.png
 

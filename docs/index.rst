@@ -22,7 +22,7 @@ TODO:
    
 Chaque jour:
 
-.. important:: - lire un chapitre Espaces de création numérique en bibiliothèque et faire un synthèse
+.. important:: - lire un chapitre Espaces de création numérique en bibiliothèque et faire une synthèse
 
 Voir atelier papercraft
 

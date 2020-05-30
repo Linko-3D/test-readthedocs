@@ -1,9 +1,9 @@
-Découpeuse vinyl: Roland CAMM-1 GS-24
+Découpeuse vinyle: Roland CAMM-1 GS-24
 =====================================
 
 Tuto: https://youtu.be/qFcAeMAyoUM
 
-.. important:: TODO voir definition Plotter de découpe.
+.. important:: TODO voir définition Plotter de découpe.
 
 https://youtu.be/cgqfQxDR6pU
 

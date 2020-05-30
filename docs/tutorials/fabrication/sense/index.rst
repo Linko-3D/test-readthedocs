@@ -1,4 +1,4 @@
-Photogramétrie: Sense 3D V2
+Photogrammétrie: Sense 3D V2
 ===========================
 
 https://youtu.be/ye-C-OOFsX8
@@ -28,11 +28,11 @@ Vous devriez voir l'affichage de la caméra dans le logiciel. Choisissez le type
 
 .. image:: scan_type.png
 
-.. note:: Conseils pour scanner:
+.. note:: Conseils pour scanner
 
    - Tenez-vous à une distance d'environ 45 cm à 2 mètres de l'objet, selon la taille de l'objet qui est scanné.
    
-      - Si l'objet scanné devient blanc c'est qu'il est mal détecté, celà peut être parce qu'il est trop proche, parce qu'il est brillant, parce qu'il n'y a pas assez de points de repères (une sphère par exemple. Dans le dernier cas vous pouvez ajouter une feuille de repère sous l'objet pour améliorer la détection: :download:`Sense Track Assist <Sense_TrackAssist.pdf>`
+      - Si l'objet scanné devient blanc, c'est qu'il est mal détecté, cela peut-être parce qu'il est trop proche, parce qu'il est brillant, parce qu'il n'y a pas assez de points de repère (une sphère par exemple. Dans le dernier cas, vous pouvez ajouter une feuille de repère sous l'objet pour améliorer la détection: :download:`Sense Track Assist <Sense_TrackAssist.pdf>`
 
 -------------------------------------------------------------------------------------
 
@@ -48,15 +48,15 @@ Solidify rempli les trous automatiquement.
 
    - Tenez-vous à environ 45 cm à 2 mètres de l'objet. La distance dépend aussi de la taille de ce qui est scanné.
    
-      - Si l'objet scanné devient blanc c'est que vous êtes trop proche.
+      - Si l'objet scanné devient blanc, c'est que vous êtes trop proche.
    - Vous pouvez faire plusieurs tours avec différents angles pour ajouter des données au scan et remplir les trous.
    - Scannez avec un angle à 45 degrés vers le bas pour le premier tour.
-   - Pour une personne pointez la caméra vers le visage.
+   - Pour une personne, pointez la caméra vers le visage.
 
 
-.. note:: Chaque 30 degré autour du modèle le logiciel va demander de rester fixe quelques seconde pour optimiser la capture.
+.. note:: Chaque 30 degrés autour du modèle le logiciel va demander de rester fixe quelques secondes pour optimiser la capture.
 
-.. note:: Eclairage en intérieur et dans plusieurs directions. Il faut le moins d'ombre possible.
+.. note:: Éclairage en intérieur et dans plusieurs directions. Il faut le moins d'ombre possible.
 
 .. note:: Le retour arrière n'est possible qu'avec les flèches, vous ne pouvez le faire avec Ctrl + Z.
 
@@ -66,7 +66,7 @@ Solidify rempli les trous automatiquement.
 
 Il faut cliquer sur Terminer pour exporter
 
-Cliquer sur Numériser à gauche pour démarrer, positionnez bien la caméra pendant le compte à rebourd pour ne pas capturer un autre objet.
+Cliquer sur Numériser à gauche pour démarrer, positionnez bien la caméra pendant le compte à rebours pour ne pas capturer un autre objet.
 
 .. attention:: Avec le niveau de détail maximal le scan peut rapidement perdre l'object.
 

@@ -7,6 +7,8 @@ Simulateur: Conduite
 Matériel
 --------
 
+.. note :: Le matériel fonctionne sur ordinateur et sur la console Playstation 4 directement en USB.
+
 .. image :: sim.png
 
 Le matériel mis à disposition par la MDE est composé des éléments suivants:
@@ -18,4 +20,5 @@ Le matériel mis à disposition par la MDE est composé des éléments suivants:
 - `Trois pédales <https://fanatec.com/eu-en/pedals/csl-elite-pedals-lc>`_
 - `Un levier de vitesse <https://fanatec.com/eu-en/shifters-others/clubsport-shifter-sq-v-1.5>`_
 
-.. note :: Le matériel fonctionne sur ordinateur et sur la console Playstation 4 directement en USB.
+
+

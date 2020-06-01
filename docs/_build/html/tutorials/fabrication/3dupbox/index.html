@@ -103,11 +103,11 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../magis/index.html">Imprimante 3D: Dagoma Neva Magis</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../sense/index.html">Photogramétrie: Sense 3D V2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../sense/index.html">Photogrammétrie: Sense 3D V2</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../smartphone/index.html">Photogramétrie: Smartphone</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../3doodler/index.html">Stylo 3D: 3Doodler Start</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../curio/index.html">Découpeuse vinyl: Silhouette Curio</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../roland/index.html">Découpeuse vinyl: Roland CAMM-1 GS-24</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../curio/index.html">Découpeuse vinyle: Silhouette Curio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roland/index.html">Découpeuse vinyle: Roland CAMM-1 GS-24</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../papercraft/index.html">Papercraft: Logiciel Blender</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../bernina/index.html">Brodeuse: Bernina 500 serie 5</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../epson/index.html">Imprimante: Epson SC-P600</a></li>
@@ -200,12 +200,14 @@
 <h1>Imprimante 3D: 3D UP BOX+<a class="headerlink" href="#imprimante-3d-3d-up-box" title="Lien permanent vers ce titre">¶</a></h1>
 <p>Todo:</p>
 <ul class="simple">
+<li><p>raft = radier</p></li>
 <li><p>chercher où trouver temps d’impression</p></li>
 <li><p>chercher si option poser au sol comme dans Cura</p></li>
 </ul>
 <hr class="docutils" />
 <ul class="simple">
 <li><p><a class="reference external" href="https://www.tiertime.com/up-box-plus/">Site officiel</a></p></li>
+<li><p><a class="reference external" href="https://youtu.be/QgTA9QPbbdM">Vidéo démarrage rapide</a></p></li>
 <li><p><a class="reference external" href="https://3dprintingsystems.com/download/UP_BOX+_Manual_4.8_EN.pdf">Documentation officielle</a></p></li>
 <li><p><a class="reference external" href="https://www.tiertime.com/forum/viewforum.php?f=38&amp;sid=f768523e04b301e1dbebcfb3635fbc5a">Forum officiel</a></p></li>
 <li><p><a class="reference external" href="https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME">FAQ</a></p></li>
@@ -307,6 +309,13 @@ Ce type de logiciel s’appelle un « Slicer » (découpeur) car il indique le
 </ul>
 <p>La « roue » en haut à droite sert à déplacer (le moins utilisé), mise à l’échelle (le plus utilisé),</p>
 <img alt="../../../_images/roue.png" src="../../../_images/roue.png" />
+<p>Le bouton auto_place va placer le modèle à la hauteur du plateau, après une rotion le modèle risque de ne plus toucher le plat</p>
+<p>Le Bouton Auto Place représenté par l’icône d’une croix placec le modèle à la hauteur du plateau.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Le modèle touche par défaut le plateau à son importation, mais il peut arriver qu’il ne soit plus en contact après une rotation.</p>
+</div>
+<img alt="../../../_images/auto_place.png" src="../../../_images/auto_place.png" />
 <p>Pour doubler l’échelle, cliquez sur l’icône Echelle puis sur le numéro 2, pour diviser par 2 cliquez sur 0.5. Sur l’image en dessous l’échelle est doublée:</p>
 <img alt="../../../_images/doublescale.png" src="../../../_images/doublescale.png" />
 <div class="admonition attention">
@@ -331,7 +340,7 @@ Celui de droite est orienté pour que l’arrière du crâne touche le plateau a
 <li><p>Quality: c’est la vitesse de déplacement de la buse, cela affecte la précision du modèle.</p></li>
 <li><p>Nozzle offset:</p></li>
 <li><p>Unsolid Model:</p></li>
-<li><p>No Raft: si l’option est cochée cela désactive le support sous l’impression 3D pour renforcer l’adhérence. Une pièce fine et cylindrique par exemple aura besoin d’un raft.</p></li>
+<li><p>No Raft: si l’option est cochée cela désactive le support sous l’impression 3D pour renforcer l’adhérence. Une pièce fine et cylindrique par exemple aura besoin d’un raft. Raft se traduire par radeau.</p></li>
 <li><p>No Support: désactive les supports. Concevoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l’impression et après (découpe des supports, ponçage).</p></li>
 </ul>
 <div class="admonition attention">

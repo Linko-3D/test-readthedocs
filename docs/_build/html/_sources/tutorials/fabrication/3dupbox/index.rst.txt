@@ -3,12 +3,14 @@ Imprimante 3D: 3D UP BOX+
 
 Todo:
 
+- raft = radier
 - chercher où trouver temps d'impression
 - chercher si option poser au sol comme dans Cura
 
 --------------------------------------------
 
 - `Site officiel <https://www.tiertime.com/up-box-plus/>`_
+- `Vidéo démarrage rapide <https://youtu.be/QgTA9QPbbdM>`_
 - `Documentation officielle <https://3dprintingsystems.com/download/UP_BOX+_Manual_4.8_EN.pdf>`_
 - `Forum officiel <https://www.tiertime.com/forum/viewforum.php?f=38&sid=f768523e04b301e1dbebcfb3635fbc5a>`_
 - `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
@@ -104,6 +106,14 @@ La "roue" en haut à droite sert à déplacer (le moins utilisé), mise à l'éc
 
 .. image:: roue.png
 
+Le bouton auto_place va placer le modèle à la hauteur du plateau, après une rotion le modèle risque de ne plus toucher le plat
+
+Le Bouton Auto Place représenté par l'icône d'une croix placec le modèle à la hauteur du plateau.
+
+.. note:: Le modèle touche par défaut le plateau à son importation, mais il peut arriver qu'il ne soit plus en contact après une rotation.
+
+.. image:: auto_place.png
+
 Pour doubler l'échelle, cliquez sur l'icône Echelle puis sur le numéro 2, pour diviser par 2 cliquez sur 0.5. Sur l'image en dessous l'échelle est doublée:
 
 .. image:: doublescale.png
@@ -134,7 +144,7 @@ Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
 - Quality: c'est la vitesse de déplacement de la buse, cela affecte la précision du modèle.
 - Nozzle offset:
 - Unsolid Model:
-- No Raft: si l'option est cochée cela désactive le support sous l'impression 3D pour renforcer l'adhérence. Une pièce fine et cylindrique par exemple aura besoin d'un raft.
+- No Raft: si l'option est cochée cela désactive le support sous l'impression 3D pour renforcer l'adhérence. Une pièce fine et cylindrique par exemple aura besoin d'un raft. Raft se traduire par radeau.
 - No Support: désactive les supports. Concevoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l'impression et après (découpe des supports, ponçage).
 
 .. attention:: TODO: chercher Nozzle offset et Unsolid Model.

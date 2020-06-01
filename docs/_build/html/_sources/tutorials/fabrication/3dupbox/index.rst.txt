@@ -59,7 +59,7 @@ Préparation du matériel
 
 .. image:: guide-fil.png
 
-*Couvercle magnétique:*
+*Couvercle magnétique en place:*
 
 .. image:: couvercle.png
 

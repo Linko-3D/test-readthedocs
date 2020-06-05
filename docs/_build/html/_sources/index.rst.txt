@@ -6,17 +6,21 @@
 Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne (MDE)
 =======================================================================================
 
-congé lundi 13 juillet
+- congé lundi 13 juillet
+- 22 juin réunion de service toute la médiathèque 9h 30 à 12h
+- 24 juin réunion secteur numérique 14h à 16h
+
+Liens: https://docs.google.com/spreadsheets/d/1ynwj1Z0iR1U8yI0ZfISqASkqrM4zpbeJJJEpm561e2k/edit?usp=sharing_eil&ts=5ea6eaeb
 
 TODO:
 
 .. important:: - VOIR MANUTAN TRANSPORT AVANT MERCREDI 27: https://www.manutan-collectivites.fr/
+   - réfléchir présentation lab 15 juin
    - Rédiger tuto 3Doodler
    - Tuto 3d Sense
    - Utiliser vinyl Curio
    - Utiliser deux outils en même temps sur la Curio
    - Importer SVG dans Curio
-   - réfléchir présentation lab 15 juin
    - voir société qui recycle le filament
    - Faire tableau factures machines achetés (3D UpBox + Epson SC-P600 + Sense 3D V2), date d'achat et durée de garantie
    
@@ -109,3 +113,15 @@ Documentations et projets:
 - Projets documentés (français): https://wikifab.org/wiki/Accueil
 - Projets documentés (anglais): https://www.instructables.com/
 - Réalisations: https://www.labboite.fr/#!/projects?whole_network=f
+
+Mémo, fil conducteur pour les ateliers
+
+https://www.telecom-evolution.fr/fr/e-learning/parcours-fabrication-numerique-et-prototypage-rapide
+
+- Décrire comment le numérique transforme le domaine de la fabrication d’objets industriels
+- Modéliser des objets sur ordinateurs (2D et 3D)
+- Produire des objets grâce à la fabrication additive
+- Réaliser des montages simples en utilisant un micro conducteur, des capteurs et des actionneurs
+- Ecrire et exécuter du code pour programmer et connecter des objets
+- Décrire comment passer du prototype à un projet entrepreneurial
+- Appliquer des méthodes de prototypage rapide et d’innovation frugale

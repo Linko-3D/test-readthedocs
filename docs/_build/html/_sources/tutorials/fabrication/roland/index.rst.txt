@@ -1,5 +1,5 @@
-Découpeuse vinyle: Roland CAMM-1 GS-24
-=====================================
+Découpeuse vinyle: Roland GS-24
+===============================
 
 Tuto: https://youtu.be/qFcAeMAyoUM
 

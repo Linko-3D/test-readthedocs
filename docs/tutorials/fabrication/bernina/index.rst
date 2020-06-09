@@ -1,5 +1,5 @@
-Brodeuse: Bernina 500 E serie 5
-===============================
+Brodeuse: Bernina 500 E
+=======================
 
 - `Tutoriel vidéo <https://youtu.be/XsZuaODfv2o>`_
 

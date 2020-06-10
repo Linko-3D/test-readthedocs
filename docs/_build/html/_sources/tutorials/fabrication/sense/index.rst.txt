@@ -1,7 +1,13 @@
 Photogrammétrie: Sense 3D V2
 ===========================
 
-https://youtu.be/ye-C-OOFsX8
+Fonction
+--------
+
+Le scanner 3D capture la forme d'objets réel pour en faire des modèles 3D sur l'ordinateur. A partir de ces fichiers il est ensuite possible de les dupliquer sur l'imprimante 3D et de les réparer en concevant des pièces à attacher.
+
+Liens
+-----
 
 - `Site officiel <https://fr.3dsystems.com/3d-scanners/sense-scanner>`_
 - `Guide utilisateur <https://s3.amazonaws.com/dl.3dsystems.com/binaries/support/sense-scanner/Sense2_UserGuide_031519.pdf>`_

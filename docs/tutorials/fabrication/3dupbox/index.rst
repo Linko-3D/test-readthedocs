@@ -9,6 +9,14 @@ Todo:
 
 --------------------------------------------
 
+Fonction
+--------
+
+L'imprimante 3D vous permet de concevoir des pièces en plastique automatiquement à partir d'un fichier informatique.
+
+Liens
+-----
+
 - `Site officiel <https://www.tiertime.com/up-box-plus/>`_
 - `Vidéo démarrage rapide <https://youtu.be/QgTA9QPbbdM>`_
 - `Documentation officielle <https://3dprintingsystems.com/download/UP_BOX+_Manual_4.8_EN.pdf>`_

@@ -6,21 +6,24 @@
 Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne (MDE)
 =======================================================================================
 
-- Mardi 16 juin réunion secteur numérique 10h à 12h
 - Mercredi 17 juin initiation à Syracuse (préparer les PC portables) 9h 30 à 12h
-- 18 juin point dossier Danyl de 10h à 12h (achats et proposition mise en avant du lab sur le site de la MDE)
+- **18 juin point dossier Danyl de 10h à 12h (achats et proposition mise en avant du lab sur le site de la MDE)**
+- 19 juin 10h à 12h réunion secteur numérique sur les grands dossiers et priorités de chacun
 - 22 juin réunion de service toute la médiathèque 9h 30 à 12h
 
 - congé lundi 13 juillet
 
    - Validation autres congés
+   
+- 25/09 9h 30 à 17h Ateliers Lab semi-ruralité 9h 30 à 12h30 et grande ruralité 14h à 17h à Chamarande - Tout de la Gruue Jaune
+
 - 15/09 et 16/09 Ateliers Lab semi-ruralité et grande ruralité
 - 15/09 et 16/09 Ateliers Lab semi-ruralité et grande ruralité
 - 25/09 et 26/09 Ateliers Lab semi-ruralité et grande ruralité
 - 21/10 et 22/10 Ateliers Lab semi-ruralité et grande ruralité
 - 01/10 et 02/10 CNFPT Evry Communications et relations professionnelles
 - 02/11 et 03/11 CNFPT Evry Organisation et fonctionnement de la fonction publqiue territoriale
-
+- 12/11 Cotech Lab à la MDE de 12h à 14h
 
 Achats https://docs.google.com/spreadsheets/d/1hJBHDOaEBfuzhKLhrwd5dCQWXbcdmFH2tYDBDMaE7wc/edit?usp=sharing
 

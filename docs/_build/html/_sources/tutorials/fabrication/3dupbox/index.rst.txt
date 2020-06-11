@@ -82,10 +82,10 @@ Préparation du matériel
 - Lancez le logiciel `Up Studio <file:///C:/Users/MEDIATHEQUE1/Documents/GitHub/test-readthedocs/docs/_build/html/tutorials/fabrication/3dupbox/index.html>`_, c'est un logiciel dans lequel vous importez vos modèles 3D afin de générer un fichier avec les instructions sur la fabrication de celui-ci par l'imprimante 3D.
   Ce type de logiciel s'appelle un "Slicer" (découpeur) car il indique les couches et les trajectoires que devra effectuer l'imprimante pour déposer le plastique.
 
-.. note:: - Au premier lancement du logiciel, il vous sera demandé de vous connecter à un compte, nous vous invitons à créer le vôtre. Cliquez à gauche sur Account (compte), puis au centre sur Sign Up (s'inscrire).
-   - Lors de votre connexion, cochez "Auto Login" pour vous reconnecter automatiquement au lancement du logiciel.
+.. note:: - Au premier lancement du logiciel, il vous sera demandé de vous connecter à un compte, nous vous invitons à créer le vôtre. Cliquez à gauche sur ``Account`` (compte), puis au centre sur ``Sign Up`` (s'inscrire).
+   - Lors de votre connexion, cochez ``Auto Login`` pour vous reconnecter automatiquement au lancement du logiciel.
 
-- Calibrez le plateau (à faire impérativement après un transport de l'imprimante), pour cela cliquez sur l'icône "Calibration" représentée par deux règles perpendiculaire, dans la fenêtre qui s'ouvre cliquez sur "Auto Level".
+- Calibrez le plateau (à faire impérativement après un transport de l'imprimante), pour cela cliquez sur l'icône ``Calibration`` représentée par deux règles perpendiculaire, dans la fenêtre qui s'ouvre cliquez sur "Auto Level".
 
 .. attention:: TODO: pendant le calibrage, l'imprimante va mesurer la taille de la buse (extrudeur), si l'imprimante fait un bruit de percussion [..]
 
@@ -114,9 +114,7 @@ La "roue" en haut à droite sert à déplacer (le moins utilisé), mise à l'éc
 
 .. image:: roue.png
 
-Le bouton auto_place va placer le modèle à la hauteur du plateau, après une rotion le modèle risque de ne plus toucher le plat
-
-Le Bouton Auto Place représenté par l'icône d'une croix placec le modèle à la hauteur du plateau.
+Le Bouton ``Auto Place`` représenté par l'icône d'une croix placec le modèle à la hauteur du plateau.
 
 .. note:: Le modèle touche par défaut le plateau à son importation, mais il peut arriver qu'il ne soit plus en contact après une rotation.
 

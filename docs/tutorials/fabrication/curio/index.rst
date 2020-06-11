@@ -1,9 +1,33 @@
 Découpeuse vinyle: Silhouette Curio
 ===================================
 
+
 .. note:: Le papier doit dépasser les bordures en haut à gauche. Renforcer l'adhérence en pressant avec la main.
 
-Tutos officiel: https://youtu.be/kgOgcJDGt9c
+Todo: PixScan
+
+Donner les défintions de: couper, embosser,tracer, poinçonner et gratter. Expliquer terme rainer.
+
+.. attention:: La Curio ne découpe pas les rouleaux.
+
+.. attention:: Le poinçonnage peut être bruyant.
+
+.. note:: Pour l'embossage les Silhouette Score & Papier Relief sont recommandés.
+
+montrer le mode mirroir, l'envoie en découpe propose le mode mirroir normalement, idéal pour le transfert textile et le papier de transfert sur vinyle (utiliser rackclette)
+
+Défintion: echeniller : retirer les parties négatives, celles que l’on ne souhaite pas garder.
+
+.. note:: le crochet Silhouette pour écheniller.
+
+Q: Puis-je découper de la matière en rouleau avec ma Curio?
+A: Non. La Curio nécessite une base dure pour la découpe et possède une surface limitée de coupe.
+
+Qu’est-ce que le poinçonnage?
+Le poinçonnage est le processus de création d'une conception en utilisant une série de points. La Curio offre la possibilité de
+produire des effets de poinçons. C’est réalisé avec un stylo feutre pour dessiner les pointillés ou avec l'outil de poinçonnage
+pour marquer une série de points
+
 Générer des templates: https://www.templatemaker.nl/fr/
 
 Réglages découpe 1: https://www.noscreas.fr/trucs-astuces-fiches-techniques/nos-reglages-de-decoupe/
@@ -37,6 +61,14 @@ fiche technique: https://www.lafourmicreative.fr/silhouette/86892-silhouette-cur
 - `Documentation officiel <https://www.silhcdn.com/m/d/user-guides/curio-fr.pdf>`_
 
 ----------------------------------------------------------------
+
+Liens
+-----
+
+`Tutoriels vidéos <https://youtu.be/kgOgcJDGt9c>`_
+`Fiches tutoriels <http://silhouettefr.fr/silhouette_tutoriels.html>`_
+`FAQ <https://www.perlesandco.com/pdf/pjproduit/f/a/faq-silhouette-curio_20160620144952.pdf>`_
+`Générer des formes pliables <https://www.templatemaker.nl/fr/>`_
 
 Matériel
 --------

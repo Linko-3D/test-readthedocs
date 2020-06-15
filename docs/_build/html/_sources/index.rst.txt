@@ -6,6 +6,8 @@
 Documentation du matériel numérique de la Médiathèque Départementale de l'Essonne (MDE)
 =======================================================================================
 
+16907
+
 - Mercredi 17 juin initiation à Syracuse (préparer les PC portables) 9h 30 à 12h
 - **18 juin point dossier Danyl de 10h à 12h (achats et proposition mise en avant du lab sur le site de la MDE)**
 - 19 juin 10h à 12h réunion secteur numérique sur les grands dossiers et priorités de chacun

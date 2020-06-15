@@ -65,10 +65,10 @@ fiche technique: https://www.lafourmicreative.fr/silhouette/86892-silhouette-cur
 Liens
 -----
 
-`Tutoriels vidéos <https://youtu.be/kgOgcJDGt9c>`_
-`Fiches tutoriels <http://silhouettefr.fr/silhouette_tutoriels.html>`_
-`FAQ <https://www.perlesandco.com/pdf/pjproduit/f/a/faq-silhouette-curio_20160620144952.pdf>`_
-`Générer des formes pliables <https://www.templatemaker.nl/fr/>`_
+- `Tutoriels vidéos <https://youtu.be/kgOgcJDGt9c>`_
+- `Fiches tutoriels <http://silhouettefr.fr/silhouette_tutoriels.html>`_
+- `FAQ <https://www.perlesandco.com/pdf/pjproduit/f/a/faq-silhouette-curio_20160620144952.pdf>`_
+- `Générer des formes pliables <https://www.templatemaker.nl/fr/>`_
 
 Matériel
 --------

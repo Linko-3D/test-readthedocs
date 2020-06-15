@@ -1,7 +1,7 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
-Tuto: https://youtu.be/qFcAeMAyoUM
+Best tuto: https://youtu.be/qFcAeMAyoUM
 
 .. important:: TODO voir définition Plotter de découpe.
 
@@ -9,13 +9,15 @@ https://youtu.be/cgqfQxDR6pU
 
 https://youtu.be/rDKMNXHu_D4
 
+Lame la moitié de la longueur d'une carte de crédit.
+Clockwise extends blade
+Counterclockwise retracts blade
+
 Matériel
 --------
 
 - `Site officiel <https://www.rolanddg.fr/produits/plotters-de-decoupe/camm-1-gs-24-plotter-de-decoupe>`_
 - `Manuel <https://www.machines-3d.com/images/Image/File/notice/Manuel_utilisation_FR_GS24.pdf>`_
-
-
 
 .. image:: gs24.jpg
 
@@ -50,3 +52,17 @@ Roland_CAMM-1_Driver.zip > RDP-014_Roland_CAMM-1_Driver_Windows10_x64_V150.zip >
 .. image:: ouvert.png
 
 .. image:: vérouillé.png
+
+Cut Studio
+^^^^^^^^^^
+
+Sur image Shift = scale proportionel
+
+Sur la machine Pause puis Enter stop la découpe.
+
+Fichier > Réglage de coupe, mettre imprimante sur Roland GS-24 et orientation portrait
+
+- En portrait l'origine est en bas à gauche
+- En paysage l'origine est en haut à gauche
+
+Importer BMP ou JPG, faire clic droit > Contour d'image...

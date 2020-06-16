@@ -1,13 +1,19 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
+Mettre force à 80
+
 Best tuto: https://youtu.be/qFcAeMAyoUM
 
 .. important:: TODO voir définition Plotter de découpe.
 
+Big tuto: https://youtu.be/JVDobRJxDSg
+
 https://youtu.be/cgqfQxDR6pU
 
 https://youtu.be/rDKMNXHu_D4
+
+Tuto fr: https://youtu.be/5QEwoK2yzP0
 
 Lame la moitié de la longueur d'une carte de crédit.
 Clockwise extends blade
@@ -65,4 +71,4 @@ Fichier > Réglage de coupe, mettre imprimante sur Roland GS-24 et orientation p
 - En portrait l'origine est en bas à gauche
 - En paysage l'origine est en haut à gauche
 
-Importer BMP ou JPG, faire clic droit > Contour d'image...
+Importer BMP, PNG ou JPG, faire clic droit > Contour d'image...

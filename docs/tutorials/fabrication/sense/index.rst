@@ -4,7 +4,9 @@ Photogrammétrie: Sense 3D V2
 Fonction
 --------
 
-Le scanner 3D capture la forme d'objets réel pour en faire des modèles 3D sur l'ordinateur. A partir de ces fichiers il est ensuite possible de les dupliquer sur l'imprimante 3D et de les réparer en concevant des pièces à attacher.
+Un scanner 3D capture la forme d'objets réel pour en faire des modèles 3D virtuels sur l'ordinateur.
+A partir de ces fichiers il est ensuite possibe de concevoir de nouveles pièces afin de réparer et améliorer un objet.
+Les objets scannés sont souvent utilisé dans les jeux vidéo moderne.
 
 Liens
 -----

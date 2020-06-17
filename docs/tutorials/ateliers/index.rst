@@ -1,5 +1,5 @@
-Propositions
-============
+Idées d'ateliers
+================
 
 Petit projets
 ^^^^^^^^^^^^^

@@ -1,7 +1,17 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
+Todo page a3
+
+Support type piece = feuille
+
+Maintenir le bouton Origin pour indiquer le point d'origine (le coin)
+
 Mettre force à 80
+Vitesse à 35 cm/s
+Régler dans Menu, puis Condition
+
+Cours complet Roland: https://youtu.be/i2qJ-uBZShs
 
 Best tuto: https://youtu.be/qFcAeMAyoUM
 
@@ -15,7 +25,7 @@ https://youtu.be/rDKMNXHu_D4
 
 Tuto fr: https://youtu.be/5QEwoK2yzP0
 
-Lame la moitié de la longueur d'une carte de crédit.
+Lame la moitié de la longueur d'une carte de crédit, soit environ 2 mm.
 Clockwise extends blade
 Counterclockwise retracts blade
 

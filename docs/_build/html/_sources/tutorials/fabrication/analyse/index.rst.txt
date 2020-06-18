@@ -52,22 +52,15 @@ Il y a des contraintes à prendre en compte:
 - Peu de compétences et connaissances des possibilités de la fabrication numérique
 - Les machines sont pour la plupart bruyantes et nécessitent un espace à part fermé
 
+Lieux potentiels
+----------------
 
-Peu d’équipement dans de nombreuses zones rurales
-Il y a une absence de demande pour les raisons suivantes:
-Manque de budget
-Méconnaissance des aides disponibles
+- Les tier-lieux fixes et associations sont des lieux interessants pour réaliser des activités et partenariats potentiels
+- Sur les territoires avec peu de cinémas, il serait interessants de proposer des activités autour de l'audiovisuel
+- Lieux collectifs: associations, médiathèques, salles des fêtes, collèges ruraux (pour se dernier certains participants ne seront pas volontaires, les ateliers seront plus difficiles)
+- Les lieux devront être correctement répartis dans le territoire du Sud de l'Essonne.
 
 
-Les tiers-lieux fixes et associations sont des lieux intéressants pour réaliser des activités et partenariats potentiels
-Sur les territoires avec peu de cinémas, il serait intéressant de proposer des activités autour à l’audiovisuel
-Types de lieux potentiels:
-Lieux de loisir comme les médiathèques en semaine et le week-end, marchés, galeries marchandes
-Lieux collectifs: associations, maisons familiales rurales, salles des fêtes
-Collèges ruraux
-Intervenir pendant des évènements: rencontres sportives, fête de village, etc.
-Zones géographiques:
-Les lieux devront être correctement répartis dans le territoire
 Une offre renforcée dans la zone Sud-Ouest
 Condition de réalisation des ateliers
 Les activités seront gratuites dans une logique de service public

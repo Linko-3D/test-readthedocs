@@ -1,0 +1,314 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="fr" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Bases du fonctionnement du Lab itinérant &mdash; Documentation MDE LAB </title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../../" src="../../../_static/documentation_options.js"></script>
+        <script src="../../../_static/jquery.js"></script>
+        <script src="../../../_static/underscore.js"></script>
+        <script src="../../../_static/doctools.js"></script>
+        <script src="../../../_static/language_data.js"></script>
+        <script src="../../../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Recherche" href="../../../search.html" />
+    <link rel="next" title="Carte: Arduino" href="../../programmation/arduino/index.html" />
+    <link rel="prev" title="Achats" href="../achats/index.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../../index.html" class="icon icon-home"> MDE LAB
+          
+
+          
+            
+            <img src="../../../_static/license.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Ateliers:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../ateliers/ideas/index.html">Idées d’ateliers</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Fabrication:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../3dupbox/index.html">Imprimante 3D: 3D UP BOX+</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../magis/index.html">Imprimante 3D: Dagoma Neva Magis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../sense/index.html">Photogrammétrie: Sense 3D V2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../smartphone/index.html">Photogramétrie: Smartphone</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../3doodler/index.html">Stylo 3D: 3Doodler Start</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../curio/index.html">Découpeuse vinyle: Silhouette Curio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roland/index.html">Découpeuse vinyle: Roland GS-24</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../papercraft/index.html">Papercraft: Logiciel Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../bernina/index.html">Brodeuse: Bernina 500 E</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../epson/index.html">Imprimante: Epson SC-P600</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../achats/index.html">Achats</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Bases du fonctionnement du Lab itinérant</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#l-interet-de-la-fabrication-numerique">L’intérêt de la fabrication numérique</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">Programmation:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/arduino/index.html">Carte: Arduino</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/microbit/index.html">Carte: Micro:Bit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/makeymakey/index.html">Carte: Makey Makey</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Immersion:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/occulus/index.html">VR: Occulus Rift</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/conduite/index.html">Simulateur: Conduite</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/drones/index.html">Simulateur: Drones</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/aerien/index.html">Simulateur: Aerien</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../index.html">MDE LAB</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../index.html">Docs</a> &raquo;</li>
+        
+      <li>Bases du fonctionnement du Lab itinérant</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../../_sources/tutorials/fabrication/analyse/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="bases-du-fonctionnement-du-lab-itinerant">
+<h1>Bases du fonctionnement du Lab itinérant<a class="headerlink" href="#bases-du-fonctionnement-du-lab-itinerant" title="Lien permanent vers ce titre">¶</a></h1>
+<p>(Suggestions de Bekhoucha Danyl à partir des études de Plascilab et de Chronos)</p>
+<div class="section" id="l-interet-de-la-fabrication-numerique">
+<h2>L’intérêt de la fabrication numérique<a class="headerlink" href="#l-interet-de-la-fabrication-numerique" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Lors des ateliers, il sera important de commencer par parler de l’intérêt, car beaucoup voient la fabrication numérique comme un gadget pour les geeks. Des exemples de gros projets pourront être montrés pour le prototypage, la fabrication de maisons, de voitures, d’avions, robots, appareil médicaux. Les progrès et combinaisons de la fabrication numérique combinés aux avances de l’intelligence artificielle donneront naissance à l’industrie 4.0 ou 4e révolution industrielle.
+S’initier à la fabrication numérique donne aussi ses compétences à mettre en valeur:
+Permet de renforcer ses compétences techniques et créatives pouvant être valorisées sur le marché du travail
+Découvrir l’apprentissage en autodidacte, la coopération, le télétravail
+Le plaisir et la créativité
+Découvrir la culture du “Libre”, le partage de ses créations et documentation pour permettre aux autres de l’utiliser, d’y contribuer et de l’améliorer
+Objectifs des ateliers
+Les cours devraient être rédigés dans la philosophie des Makers, rédigés sous une licence permissive type Creative Commons pour en faire profiter la communauté.
+Satisfaire les attentes multiples:
+Population âgée peut-être moins à l’aise avec les outils numériques
+Des ateliers créatifs, ludiques et innovants pour les jeunes
+En zone précaire, médiation numérique à dimension conviviale
+Lien entre le numérique et la vie quotidienne en faisant des objets directement utiles ou interroger les publics sur leurs intérêts d’implication avant le déploiement du programme
+Les médiathèques font plus facilement le lien avec l’art et la création numérique alors que les fablab privilégient souvent une entrée par la science et la réparation
+Les médiathèques pourraient avoir un rôle de documentation et de partage des savoirs avec des guides, wikis et apprentissage entre pairs
+Les gens doivent apprendre par eux même, la pratique doit être mise en avant
+Croiser différentes technologies et cultures: impression 3D, logiciels de modélisation 3D, robotique/programmation, réalité augmentée, la vidéo, etc.
+Lieux potentiels où réaliser les actions
+Il pourra être utile de réaliser des démonstrations dans les médiathèques pour leur donner envie de réaliser des actions. Un des arguments des actions sera aussi de promouvoir les lieux pour attirer des usagers. Les structures souffrant d’une faible fréquentation pourraient être contactées pour les aider à se dynamiser.
+Le site de la MDE pourrait servir à promouvoir les actions.
+Le site <a class="reference external" href="https://www.tierslieuxedu.org/">https://www.tierslieuxedu.org/</a> permet de rentrer en contact avec des Makers et association, d’accéder à des ressources, etc.
+Les caractéristiques à retenir sur les lieux:
+Peu d’équipement dans de nombreuses zones rurales
+Il y a une absence de demande pour les raisons suivantes:
+Manque de budget
+Méconnaissance des aides disponibles
+Peu de compétences et connaissances des possibilités
+Les tiers-lieux fixes et associations sont des lieux intéressants pour réaliser des activités et partenariats potentiels
+Sur les territoires avec peu de cinémas, il serait intéressant de proposer des activités autour à l’audiovisuel
+Types de lieux potentiels:
+Lieux de loisir comme les médiathèques en semaine et le week-end, marchés, galeries marchandes
+Lieux collectifs: associations, maisons familiales rurales, salles des fêtes
+Collèges ruraux
+Intervenir pendant des évènements: rencontres sportives, fête de village, etc.
+Zones géographiques:
+Les lieux devront être correctement répartis dans le territoire
+Une offre renforcée dans la zone Sud-Ouest
+Condition de réalisation des ateliers
+Les activités seront gratuites dans une logique de service public
+Privilégier les amplitudes élargies en proposant ponctuellement des activités le soir et le weekend et vacances scolaires et mercredi après midi
+Le faible nombre de transports en commun le soir et weekend peut être un inconvénient en particulier pour le retour le soir
+Il est recommandé de ne pas excéder 10 personnes aux ateliers pour simplifier son déroulement
+Il peut y avoir un “assistant” pour aider lors des ateliers les plus complexes
+Ou alors les ateliers les plus complexes peuvent se faire avec un nombre plus restreint
+Les ateliers ne doivent pas être trop longs, deux heures seraient le maximum, 1h 30 en moyenne.
+Pour les enfants il faut quelque chose de ludique, basé sur la créativité, avec un résultat rapide et peu de mots techniques, comme de la sculpture à la tablette ou en VR
+Pour les personnes âgées, cela peut se faire en plusieurs séances en réalisant des objets du quotidien, tout en misant sur la convivialité (pauses quand ils le souhaitent, beaucoup d’entraide et discussions)
+Les activités sont rarement portées par une seule personne, mais par une équipe avec des compétences complémentaires
+Les compétences des médiateurs numérique et médiateur en fabrication numérique peuvent être combinées
+Veiller aux différences d’appropriation, les garçons sont plus intéressés par la fabrication numérique que les filles
+Il est préférable de réaliser des ateliers avec des personnes volontaires, plutôt qu’avec un public scolaire auxquels on impose la présence
+Contraintes techniques
+Dans le territoire il y a un vieillissement de la population, des départs massifs à la retraite et une baisse marquée des moins de 20 ans
+Il faut prévoir un temps de préparation aux ateliers
+Un temps de réglage et d’entretien des machines en dehors des ateliers
+Avoir des compétences relatives au réglage et maintenances basiques plutôt que de passer par un prestataire afin de limiter les dépenses
+Des temps de formation des intervenants
+Une découpeuse laser n’est pas déplaçable
+Globalement la fabrication numérique ne bénéficie plus de l’effet nouveauté d’il y a quelques années
+Afin d’être davantage éco responsable, je conseille de privilégier le filament biodégradable et recyclable PLA plutôt que le filament ABS qui émet des particules nocives durant l’impression et mauvaises odeurs.
+Les filaments non polluants ont aussi l’avantage de permettre d’ouvrir la fenêtre de l’imprimante 3D pour voir l’impression de plus près
+Témoignage important servant de piste
+Médiathèque des Ulis : « La fabrication numérique ça n’est déjà plus très nouveau pour le grand public. A la médiathèque, note rôle d’initiation et de découverte était un peu dépassé. C’est pourquoi nous nous sommes recentrés sur l’initiation au code et à la programmation, ainsi que sur la robotique. On ne veut pas devenir le service après-vente de Darty. On montre mais on ne fait pas à la place de ».
+La conclusion donnée dans l’étude
+Ce premier découpage des responsabilités fait apparaître en creux les compétences attendues et la « fiche de poste » du médiateur numérique :</p>
+<ul class="simple">
+<li><p>Une compétence technique assez forte sur le numérique, en envisageant une montée en compétence progressive sur les questions d’éducation, de pédagogie … qui apparaît peut être comme une compétence secondaire, devant être détenue par ceux qui animeront les activités sur le terrain</p></li>
+<li><p>Une capacité à « activer » des ressources ou des compétences externes, en travaillant par exemple en collaboration avec Canopé (qui propose déjà de la formation de formateurs), ou avec des fablabs existants (pour accéder ponctuellement à des machines de pointe par exemple)</p></li>
+</ul>
+<p>Il serait intéressant de se mettre en lien, d’une part :
+Avec la DANE
+Avec les porteurs de projets de tiers-lieux sur les territoires ruraux du Sud de l’Essonne</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../programmation/arduino/index.html" class="btn btn-neutral float-right" title="Carte: Arduino" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../achats/index.html" class="btn btn-neutral float-left" title="Achats" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CC BY-NC-SA 4.0, Bekhoucha Danyl (dbekhouc@gmail.com)
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

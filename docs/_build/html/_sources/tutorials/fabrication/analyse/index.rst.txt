@@ -5,34 +5,60 @@ Bases du fonctionnement du Lab itinérant
 L'intérêt de la fabrication numérique
 -------------------------------------
 
+Lors des initiations de découverte il sera important de commencer par parler de l'intérêt, car beaucoup voient la fabrication numérique comme un "gadget pour les geeks".
+Des exemples de gros projets pourront être montrés comme le prototypage, la fabrication de maisons, voitures, d'avions, robot, appareils médicaux.
+Les progrès et combinaisons de la fabrication numérique combinés à d'autres secteur du numérique comme l'intelligence artificielle donneront naissance à l'industrie 4.0 ou 4ème révolution industrielle.
 
-Lors des ateliers, il sera important de commencer par parler de l'intérêt, car beaucoup voient la fabrication numérique comme un gadget pour les geeks. Des exemples de gros projets pourront être montrés pour le prototypage, la fabrication de maisons, de voitures, d’avions, robots, appareil médicaux. Les progrès et combinaisons de la fabrication numérique combinés aux avances de l’intelligence artificielle donneront naissance à l’industrie 4.0 ou 4e révolution industrielle.
-S’initier à la fabrication numérique donne aussi ses compétences à mettre en valeur:
-Permet de renforcer ses compétences techniques et créatives pouvant être valorisées sur le marché du travail
-Découvrir l’apprentissage en autodidacte, la coopération, le télétravail
-Le plaisir et la créativité
-Découvrir la culture du “Libre”, le partage de ses créations et documentation pour permettre aux autres de l’utiliser, d’y contribuer et de l’améliorer
+S'inititer à la fabrication numérique permet d'acquérir des compétences à mettre en valeur:
+
+- Renforcer ses compétencecs techniques et créatives pouvant être valorisées sur le marché du travail
+- Découvrir l'apprentissage en autodidacte, en coopération, le télétravail
+- Découvrir la culture "Libre", le partage de ses créations et documentation afin de permettre aux autre de reproduire et de contribuer pour améliorer
+- Croiser différentes technologies et cultures: impression 3D, logiciels de modélisation 3D, programmation, robotique, création vidéo, etc.
+
 Objectifs des ateliers
-Les cours devraient être rédigés dans la philosophie des Makers, rédigés sous une licence permissive type Creative Commons pour en faire profiter la communauté.
-Satisfaire les attentes multiples:
-Population âgée peut-être moins à l’aise avec les outils numériques
-Des ateliers créatifs, ludiques et innovants pour les jeunes
-En zone précaire, médiation numérique à dimension conviviale
-Lien entre le numérique et la vie quotidienne en faisant des objets directement utiles ou interroger les publics sur leurs intérêts d’implication avant le déploiement du programme
-Les médiathèques font plus facilement le lien avec l’art et la création numérique alors que les fablab privilégient souvent une entrée par la science et la réparation
-Les médiathèques pourraient avoir un rôle de documentation et de partage des savoirs avec des guides, wikis et apprentissage entre pairs
-Les gens doivent apprendre par eux même, la pratique doit être mise en avant
-Croiser différentes technologies et cultures: impression 3D, logiciels de modélisation 3D, robotique/programmation, réalité augmentée, la vidéo, etc.
-Lieux potentiels où réaliser les actions
-Il pourra être utile de réaliser des démonstrations dans les médiathèques pour leur donner envie de réaliser des actions. Un des arguments des actions sera aussi de promouvoir les lieux pour attirer des usagers. Les structures souffrant d’une faible fréquentation pourraient être contactées pour les aider à se dynamiser.
-Le site de la MDE pourrait servir à promouvoir les actions.
-Le site https://www.tierslieuxedu.org/ permet de rentrer en contact avec des Makers et association, d’accéder à des ressources, etc.
-Les caractéristiques à retenir sur les lieux:
+----------------------
+
+.. note:: - Les cours seront rédigés dans l'esprit de la philosohpie des "Makers". Facilement accessble et sous une licence permissive Creative Commons afin de faire profiter la communauté.
+   - Globalement la médiation à la fabrication numérique aura une dimension conviviale accès sur la découverte
+
+Les ateliers devront satisfaire des attentes multiples:
+
+- Pour les jeunes des projets libres, créatifs, ludiques et innovants
+- Pour la population âgés moins à l'aise avec les outils numériques des projets guidés
+
+.. note:: Les médiathèques font plus facilement le lien avec l'art et la création numérique alors que les fablab sont plus orientés sur les sciences et la réparation.
+
+Trouver des intêrets:
+
+- En faisant un lien entre le numérique et la vie quotidienne en faisant des objets directemet utiles
+- Interroger les publics sur leurs intêrets afin de baser les ateliers desssus
+
+Les contraintes
+---------------
+
+.. note:: - Le site de la MDE pourrait servir à promouvoir les actions
+
+- La réalisation de démonstrations en bibliothèque permettra de convaincre à la réalisation d'actions
+
+   - Un des arguments des actions sera aussi de promouvoir les lieux pour attirer des usagers
+   
+- Le site https://www.tierslieuxedu.org/ permet de rentrer en contact avec les Makers et associations, d'accéder à des ressources, etc.
+
+Il y a des contraintes à prendre en compte:
+
+- Il y a peu d'équipement dans de nombreuses zones rurales
+- Il y a un problème d'espace disponible pour mener des ateliers
+- Peu de compétences et connaissances des possibilités de la fabrication numérique
+- Les machines sont pour la plupart bruyantes et nécessitent un espace à part fermé
+
+
 Peu d’équipement dans de nombreuses zones rurales
 Il y a une absence de demande pour les raisons suivantes:
 Manque de budget
 Méconnaissance des aides disponibles
-Peu de compétences et connaissances des possibilités
+
+
 Les tiers-lieux fixes et associations sont des lieux intéressants pour réaliser des activités et partenariats potentiels
 Sur les territoires avec peu de cinémas, il serait intéressant de proposer des activités autour à l’audiovisuel
 Types de lieux potentiels:

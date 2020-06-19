@@ -106,8 +106,8 @@ Contraintes techniques
 .. note:: - Avoir des compétences relatives au réglage et maintenance basique plutôt que de passer par un prestataire afin de limiter les dépenses, sauf si cela annule la garantie
    - Le filament biodégradable et recyclable PLA sera utilisé afin d'être davantage écoresponsable
 
-La conclusion donnée dans l’étude
----------------------------------
+Les conclusions données dans l’étude
+------------------------------------
 
 Les compétences attendues du médiateur en fabrication numérique sont:
 

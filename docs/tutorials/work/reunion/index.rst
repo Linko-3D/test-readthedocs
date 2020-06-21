@@ -31,16 +31,6 @@ Informations:
 - 32% d'inscrits en plus pendant le confinement sur bibliocollege
 
 
-Transversalité
---------------
-
-- Formation en septembre sur le portail pour répondre aux questions et effectuer une aide de niveau 2 (après que l'utilisateur ai lu les informations du site)
-- formation jeux vidéo octobre 2020 et en 2021
-- Inscription à 2021 à Plascilab, cela permettra d'aller en formation
-- Attribuer un Kakémono pour l'Oculus Rift et les machines du Lab
-- Formation par des prestataires sur l'initiation à la fabrication numérique le 2 décembre et mi-décembre
-- Cartes Steam bientôt disponible
-
 Danyl
 -----
 
@@ -89,3 +79,13 @@ Informations:
 ^^^^^^^^^^^^^
 
 - Bibliocollège compte +21% d'inscrits depuis le confinement
+
+Transversalité
+--------------
+
+- Formation en septembre sur le portail pour répondre aux questions et effectuer une aide de niveau 2 (après que l'utilisateur ai lu les informations du site)
+- formation jeux vidéo octobre 2020 et en 2021
+- Inscription à 2021 à Plascilab, cela permettra d'aller en formation
+- Attribuer un Kakémono pour l'Oculus Rift et les machines du Lab
+- Formation par des prestataires sur l'initiation à la fabrication numérique le 2 décembre et mi-décembre
+- Cartes Steam bientôt disponible

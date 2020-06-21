@@ -15,7 +15,7 @@ S'initier à la fabrication numérique permet d'acquérir des compétences à me
 
 - Renforcer ses compétences techniques et créatives pouvant être valorisées sur le marché du travail
 - Découvrir l'apprentissage en autodidacte, en coopération, le télétravail
-- Découvrir la culture "Libre", le partage de ses créations et documentation afin de permettre aux autres de reproduire et de contribuer pour améliorer
+- Découvrir la culture "Libre", le partage de ses créations et documentations afin de permettre aux autres de reproduire et de contribuer pour améliorer
 - Croiser différentes technologies et cultures: impression 3D, logiciels de modélisation 3D, programmation, robotique, création vidéo, etc.
 
 Objectifs des ateliers
@@ -40,7 +40,7 @@ Mise en avant des actions
 -------------------------
 
 - Le site de la MDE et Bibliosud serviront à promouvoir les actions
-- La réalisation de démonstrations en bibliothèque permettront de convaincre à la réalisation d'actions
+- La réalisation de démonstrations en bibliothèque permettra de convaincre à la réalisation d'actions
 
    - Un des arguments des actions sera aussi de promouvoir les lieux pour attirer des usagers
    
@@ -61,15 +61,15 @@ Conditions de réalisation des actions
 .. note:: Les activités ne seront pas portées par une seule personne, mais par une équipe avec des compétences complémentaires.
 
 - Les activités seront toutes gratuites dans une logique de service public
-- Les mercredis après midi seront à privilégier
-- Les amplitudes horaires élargies seront privilégiées en proposant ponctuellement des activités le soir et le week-end
+- Les mercredis après-midi seront à privilégier
+- Les amplitudes horaires élargies seront privilégiées en proposant ponctuellement des activités le soir et le weekend
 
-.. attention:: Le faible nombre de transports en commun en zone rurale le soir et week-end seront un inconvénient en particulier pour le retour le soir.
+.. attention:: Le faible nombre de transports en commun en zone rurale le soir et weekend seront un inconvénient en particulier pour le retour le soir.
 
 - Il est recommandé de ne pas excéder plus de 10 personnes aux ateliers afin de simplifier leurs déroulements
 - Les ateliers plus complexes peuvent se faire avec un nombre de participants restreint
 - Il peut y avoir un "assistant" pour aider lors des ateliers plus complexes
-- Les ateliers ne doivent pas être trop long, deux heures serait le maximum et 1h 30 en moyenne
+- Les ateliers ne doivent pas être trop long, deux heures seraient le maximum et 1h 30 en moyenne
 
 S'adapter au public
 -------------------
@@ -91,7 +91,7 @@ Les contraintes des lieux
 - Peu de compétences et connaissances des possibilités de la fabrication numérique
 - Les machines et les regroupements génèrent du bruit, des espaces fermés seront souvent nécessaires
 
-.. note:: Avoir des compétences relatives au réglage et maintenance basique plutôt que de passer par un prestataire afin de limiter les dépenses, sauf si cela annule la garantie.
+.. note:: Avoir des compétences relatives au réglage et maintenances basiques plutôt que de passer par un prestataire afin de limiter les dépenses, sauf si cela annule la garantie.
 
 Contraintes techniques
 ----------------------
@@ -111,5 +111,5 @@ Les conclusions données dans l’étude
 
 Les compétences attendues du médiateur en fabrication numérique sont:
 
-- Une compétence technique assez forte sur le numérique, en envisageant une montée en compétence progressive sur les questions d'éducation, de pédagogie, etc. qui apparaît peut être comme une compétence secondaire devant être détenue par ceux qui animeront les activités sur le terrain
+- Une compétence technique assez forte sur le numérique, en envisageant une montée en compétence progressive sur les questions d'éducation, de pédagogie, etc. qui apparait peut être comme une compétence secondaire devant être détenue par ceux qui animeront les activités sur le terrain
 - Une capacité à « activer » des ressources ou des compétences externes, en travaillant par exemple en collaboration avec Canopé (qui propose déjà de la formation de formateurs), ou avec des Fablabs existants (pour accéder ponctuellement à des machines de pointe par exemple)

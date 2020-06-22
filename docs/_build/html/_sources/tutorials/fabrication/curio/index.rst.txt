@@ -4,7 +4,7 @@ Découpeuse vinyle: Silhouette Curio
 
 .. note:: Le papier doit dépasser les bordures en haut à gauche. Renforcer l'adhérence en pressant avec la main.
 
-Todo: PixScan
+Todo: PixScan: http://www.silhouettefr.fr/silhouette_pixscan01.html
 
 Donner les défintions de: couper, embosser,tracer, poinçonner et gratter. Expliquer terme rainer.
 

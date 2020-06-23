@@ -1,7 +1,9 @@
 Carte: Arduino
 ================
 
-https://openclassrooms.com/fr/courses/3290206-perfectionnez-vous-dans-la-programmation-arduino
+Niveau 1: https://openclassrooms.com/fr/courses/2778161-programmez-vos-premiers-montages-avec-arduino
+
+Niveau 2: https://openclassrooms.com/fr/courses/3290206-perfectionnez-vous-dans-la-programmation-arduino
 
 Robotique: https://openclassrooms.com/fr/courses/4076871-sinitier-a-la-robotique
 
@@ -18,3 +20,4 @@ IDE: https://www.arduino.cc/en/main/software
 Lien direct Windows: https://www.arduino.cc/download_handler.php
 
 Arduino language reference: https://www.arduino.cc/reference/en/
+

@@ -91,8 +91,6 @@ Les contraintes des lieux
 - Peu de compétences et connaissances des possibilités de la fabrication numérique
 - Les machines et les regroupements génèrent du bruit, des espaces fermés seront souvent nécessaires
 
-.. note:: Avoir des compétences relatives au réglage et maintenances basiques plutôt que de passer par un prestataire afin de limiter les dépenses, sauf si cela annule la garantie.
-
 Contraintes techniques
 ----------------------
 

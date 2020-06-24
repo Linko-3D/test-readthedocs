@@ -5,7 +5,7 @@ Bases du fonctionnement du Lab itinérant
 L'intérêt de la fabrication numérique
 -------------------------------------
 
-.. important:: Témoignage important de la Médiathèque des Ulis : « La fabrication numérique ça n’est déjà plus très nouveau pour le grand public. À la médiathèque, note rôle d’initiation et de découverte était un peu dépassé. C’est pourquoi nous nous sommes recentrés sur l’initiation au code et à la programmation, ainsi que sur la robotique. On ne veut pas devenir le service après-vente de Darty. On montre, mais on ne fait pas à la place de ».
+.. important:: Témoignage important de la Médiathèque des Ulis : « La fabrication numérique ça n’est déjà plus très nouveau pour le grand public. À la médiathèque, notre rôle d’initiation et de découverte était un peu dépassé. C’est pourquoi nous nous sommes recentrés sur l’initiation au code et à la programmation, ainsi que sur la robotique. On ne veut pas devenir le service après-vente de Darty. On montre, mais on ne fait pas à la place de ».
 
 Lors des initiations de découverte, il sera important de commencer par parler de l'intérêt, car beaucoup voient la fabrication numérique comme un "gadget pour les geeks".
 Des exemples de gros projets pourront être montrés comme le prototypage, la fabrication de maisons, voitures, d'avions, robots, appareils médicaux.

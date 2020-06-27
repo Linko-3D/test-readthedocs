@@ -1,3 +1,11 @@
+Questions:
+
+- Je ne sais pas si les machines seront prêtées. On m'a parlé de former parfois les bibliothécaires, mais je devrais toujours intervenir. Du coup je ne vois pas non plus l'intérêt de les former.
+- Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours. En principe il n'y a que moi qui anime.
+- Vous dites que des activités demandées de manières proactives de notre part seraient bien reçues, à voir, il y a des bénévoles, personnes âgées.
+"Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" page 28
+- direction en priorité vers les médiathèques (la majorité pas adaptée
+
 Bases du fonctionnement du Lab itinérant
 ========================================
 (Résumé et suggestions de Bekhoucha Danyl à partir des études de Plascilab et de Chronos)
@@ -36,6 +44,7 @@ Trouver des intérêts:
 - En faisant un lien entre le numérique et la vie quotidienne en faisant des objets directement utiles
 - Interroger les publics sur leurs intérêts afin de baser les ateliers dessus
 
+
 Mise en avant des actions
 -------------------------
 
@@ -46,14 +55,18 @@ Mise en avant des actions
    
 - Le site https://www.tierslieuxedu.org/ permet de rentrer en contact avec les Makers et associations, d'accéder à des ressources, etc.
 
-.. note:: Avec les porteurs de projets de tiers-lieux sur les territoires ruraux du Sud de l’Essonne.
-
 Lieux potentiels
 ----------------
 
-- Les tiers-lieux fixes et associations sont des lieux intéressants pour réaliser des activités et partenariats potentiels
-- Lieux collectifs: associations, médiathèques, salles des fêtes, collèges ruraux (pour ce dernier certains participants ne seront pas volontaires, les ateliers seront plus difficiles)
-- Les lieux devront être correctement répartis dans le territoire du Sud de l'Essonne
+- Les tiers lieux fixes et associations sont des lieux intéressants pour réaliser des activités et partenariats potentiels
+- Lieux collectifs: Associations, médiathèques, salles des fêtes, collèges ruraux (pour ce dernier certains participants ne seront pas volontaires, les ateliers seront plus difficiles)
+- Lieux non institutionnels: marchés, galeries marchandes et équipement patrimoniaux
+
+.. note:: Il y a par exemple le château de Méréville, le domaine de Chamarande et Montauger.
+
+- Les lieux devront être correctement répartis dans le territoire du sud de l'Essonne
+
+.. note:: La fabrication numérique sera l'occasion de faire découvrir d'autres lieux notamment les Fablabs au nord de l'Essonne pour ceux souhaitant continuer et accéder à des outils plus poussés.
 
 Conditions de réalisation des actions
 -------------------------------------
@@ -61,7 +74,8 @@ Conditions de réalisation des actions
 .. note:: Les activités ne seront pas portées par une seule personne, mais par une équipe avec des compétences complémentaires.
 
 - Les activités seront toutes gratuites dans une logique de service public
-- Les mercredis après-midi seront à privilégier
+- Il faudra faire au minimum à la place du participant, afin de refuser une logique "servicielle"
+- Les mercredis après-midi et vacances scolaires seront à privilégier
 - Les amplitudes horaires élargies seront privilégiées en proposant ponctuellement des activités le soir et le weekend
 
 .. attention:: Le faible nombre de transports en commun en zone rurale le soir et weekend seront un inconvénient en particulier pour le retour le soir.
@@ -74,7 +88,9 @@ Conditions de réalisation des actions
 S'adapter au public
 -------------------
 
+- Faire un lien entre la fabrication numérique et les jeux vidéos ou la robotique par exemple afin de leur donner envie de participer
 - Généralement les garçons sont plus intéressés par la fabrication numérique que les filles
+- Des projets en équipe collectifs pourront être mis en place
 - Pour les enfants, il faut une approche plus ludique et intuitive, basée sur la créativité avec un résultat rapide et peu de mots techniques
 - Pour les personnes âgées, cela peut se faire sur plusieurs séances en réalisant des objets du quotidien. La convivialité sera mise en avant (pause quand ils le souhaitent par exemple)
 
@@ -93,6 +109,16 @@ Les contraintes des lieux
 
 Contraintes techniques
 ----------------------
+
+- La fabrication des objets en particulier avec l'imprimante 3D peut être très longue et nécessiter au participant de revenir plusieurs jours après pour récupérer sa création ce peut être compliqué pour le lab itinérant et pour le participant.
+- Les participants veulent repartir avec quelque chose tout de suite.
+
+.. note:: Il faudra plusieurs imprimantes 3D pour imprimer plus rapidement les créations.
+
+.. important:: Les dépenses de fonctionnement sous souvent sous-estimés:
+   - L'entretien et la maintenance des machines
+   - le renouvèlement des machines
+   - l'achat de matériaux et de consommables
 
 - Il faut prévoir un temps de préparation des ateliers
 

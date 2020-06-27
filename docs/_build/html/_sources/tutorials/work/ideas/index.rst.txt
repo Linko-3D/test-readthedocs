@@ -1,6 +1,8 @@
 Idées d'ateliers
 ================
 
+- `Fabriquer sa console de jeu <https://youtu.be/NsAs2pYi6No>`_
+
 Petit projets
 ^^^^^^^^^^^^^
 

@@ -1,10 +1,9 @@
 Questions:
 
 - Je ne sais pas si les machines seront prêtées. On m'a parlé de former parfois les bibliothécaires, mais je devrais toujours intervenir. Du coup je ne vois pas non plus l'intérêt de les former.
-- Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours. En principe il n'y a que moi qui anime.
+- Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours. "Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" page 28
 - Vous dites que des activités demandées de manières proactives de notre part seraient bien reçues, à voir, il y a des bénévoles, personnes âgées.
-"Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" page 28
-- direction en priorité vers les médiathèques (la majorité pas adaptée
+- direction en priorité vers les médiathèques (la majorité pas adaptée au niveau de l'espace, par rapport au bruit des machines)
 
 Bases du fonctionnement du Lab itinérant
 ========================================

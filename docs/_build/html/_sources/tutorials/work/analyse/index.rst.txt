@@ -1,12 +1,22 @@
-Questions:
+Questions
+=========
 
-- Je ne sais pas si les machines seront prêtées. On m'a parlé de former parfois les bibliothécaires, mais je devrais toujours intervenir. Du coup je ne vois pas non plus l'intérêt de les former.
-- Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours. "Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" page 28
-- Vous dites que des activités demandées de manières proactives de notre part seraient bien reçues, à voir, il y a des bénévoles, personnes âgées.
-- direction en priorité vers les médiathèques (la majorité pas adaptée au niveau de l'espace, par rapport au bruit des machines)
+- "Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" (page 28). Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours.
+
+On m'a dit que parfois je formerais les bibliothécaires, mais que j'animerais tout les cours, mais en même temps on m'a parlé de prêts, pour moi aussi ce n'est pas clair. Et donc en même temps je ne vois pas trop l'intérêt de former les bibliothécaires s'il n'y a que moi qui fait les ateliers, à part peut être pour leur expliquer l'intérêt de la fabrication numérique.
+
+- "Vous" dites que les activités proposées de manière proactive seraient en général bien reçues.
+
+Il y a beaucoup de petites structures, bénévoles, personnes âgées. Le chauffeur qui distribue les livres a parlé de la fabrication numérique, les personnes n'étaient pas enthousiastes pour des ateliers ou veulent faire des événements accès sur le livre comme la lecture d'un conte.
+
+.. note:: Il y a une contrainte qui n'a pas été évoquée c'est la nuisance sonore trop importante pour une bibliothèque pendant le déroulement des ateliers entre les participants et le fonctionnement des machines.
+
+Le mieux ce sera de le faire dans les médiathèques qui proposent une salle à part insonorisée. Il faudra voir pour le faire peut-être en heure de fermeture au public, mais il y aura moins de monde, ce sera compliqué pour cibler des enfants sauf pendant les vacances. Parfois la structure n'est pas accessible en dehors des quelques heures d'ouvertures au public quand c'est géré par des bénévoles.
+
+- Les utilisateurs veulent leur création rapidement, 20 minutes c'est trop long. Pour l'impression 3D il faudra attendre plusieurs heures voire demander de repasser le lendemain. Ca pose des problème en itinérance, ça oblige à se déplacer à nouveau et pour les bibliothèques qui ont des jours d'ouverture limités et pour les participants aussi.
 
 Bases du fonctionnement du Lab itinérant
-========================================
+----------------------------------------
 (Résumé et suggestions de Bekhoucha Danyl à partir des études de Plascilab et de Chronos)
 
 L'intérêt de la fabrication numérique

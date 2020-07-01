@@ -3,7 +3,7 @@ Questions
 
 - "Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" (page 28). Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours.
 
-On m'a dit que parfois je formerais les bibliothécaires, mais que j'animerais tout les cours, mais en même temps on m'a parlé de prêts, pour moi aussi ce n'est pas clair. Et donc en même temps je ne vois pas trop l'intérêt de former les bibliothécaires s'il n'y a que moi qui fait les ateliers, à part peut être pour leur expliquer l'intérêt de la fabrication numérique.
+On m'a dit que parfois je formerais les bibliothécaires, mais que j'animerais tout les cours, mais en même temps on m'a parlé de prêts, pour moi aussi ce n'est pas clair. Et donc en même temps je ne vois pas trop l'intérêt de former les bibliothécaires s'il n'y a que moi qui fait les ateliers, à part peut être pour leur expliquer l'intérêt de la fabrication numérique et pourquoi en faire dans leur bibliothèque.
 
 - "Vous" dites que les activités proposées de manière proactive seraient en général bien reçues.
 
@@ -13,7 +13,7 @@ Il y a beaucoup de petites structures, bénévoles, personnes âgées. Le chauff
 
 Le mieux ce sera de le faire dans les médiathèques qui proposent une salle à part insonorisée. Il faudra voir pour le faire peut-être en heure de fermeture au public, mais il y aura moins de monde, ce sera compliqué pour cibler des enfants sauf pendant les vacances. Parfois la structure n'est pas accessible en dehors des quelques heures d'ouvertures au public quand c'est géré par des bénévoles.
 
-- Les utilisateurs veulent leur création rapidement, 20 minutes c'est trop long. Pour l'impression 3D il faudra attendre plusieurs heures voire demander de repasser le lendemain. Ca pose des problème en itinérance, ça oblige à se déplacer à nouveau et pour les bibliothèques qui ont des jours d'ouverture limités et pour les participants aussi.
+- Vous soulevez le problème des utilisateurs qui veulent leur création rapidement et que 20 minutes c'est trop long. Pour l'impression 3D, il faudra attendre plusieures heures voire demander de repasser le lendemain. Ca peut être compliqué si l'atelier et déjà fait un week end et les médiathèques géré par des bénévoles avec peu d'horaires d'ouverture.
 
 Bases du fonctionnement du Lab itinérant
 ----------------------------------------

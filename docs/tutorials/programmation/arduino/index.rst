@@ -20,3 +20,5 @@ IDE: https://www.arduino.cc/en/main/software
 Lien direct Windows: https://www.arduino.cc/download_handler.php
 
 Arduino language reference: https://www.arduino.cc/reference/en/
+
+Outils > Type de carte > Gestionnaire de carte, choisir Intel Curie Boards

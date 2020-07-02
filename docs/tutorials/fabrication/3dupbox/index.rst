@@ -3,6 +3,8 @@ Imprimante 3D: 3D UP BOX+
 
 Todo:
 
+- Définition Unsolid Model dans printing pour auto fermer le modèle
+- Preview dans printing pour voir les supports et temps. Les suports disparaissent quand on oriente le modèle (bug).
 - raft = radier
 - chercher où trouver temps d'impression
 - chercher si option poser au sol comme dans Cura

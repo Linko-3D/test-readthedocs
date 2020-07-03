@@ -3,11 +3,22 @@ Imprimante 3D: 3D UP BOX+
 
 Todo:
 
-- Définition Unsolid Model dans printing pour auto fermer le modèle
+- Mettre photo passage filament
 - Preview dans printing pour voir les supports et temps. Les suports disparaissent quand on oriente le modèle (bug).
 - raft = radier
 - chercher où trouver temps d'impression
 - chercher si option poser au sol comme dans Cura
+- Montrer filament custom et comment sauvegarder
+
+.. image:: customize.png
+
+.. image:: bouton_edit.png
+
+.. image:: parameters.png
+
+.. image:: error_material.png
+
+.. image:: remaining.png
 
 --------------------------------------------
 
@@ -22,7 +33,7 @@ Liens
 - `Site officiel <https://www.tiertime.com/up-box-plus/>`_
 - `Vidéo démarrage rapide <https://youtu.be/QgTA9QPbbdM>`_
 - `Documentation officielle <https://3dprintingsystems.com/download/UP_BOX+_Manual_4.8_EN.pdf>`_
-- `Forum officiel <https://www.tiertime.com/forum/viewforum.php?f=38&sid=f768523e04b301e1dbebcfb3635fbc5a>`_
+- `Forum officiel <https://forum.tiertime.com/c/up-box-up-box/15`_
 - `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
 
 Matériel
@@ -51,7 +62,6 @@ Préparation du matériel
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. attention:: Todo parler des deux types de plateaux: UP Flex Board et Perf Board.
-   Image guide-fil où passer le fil.
 
 - Installez le plateau en le plaquant contre celui en aluminium. Alignez les vis, puis poussez-le vers le fond avec vos mains à plat.
 
@@ -81,6 +91,9 @@ Préparation du matériel
 
 .. image:: power.png
 
+Réglages logiciel
+^^^^^^^^^^^^^^^^^
+
 - Lancez le logiciel `Up Studio <file:///C:/Users/MEDIATHEQUE1/Documents/GitHub/test-readthedocs/docs/_build/html/tutorials/fabrication/3dupbox/index.html>`_, c'est un logiciel dans lequel vous importez vos modèles 3D afin de générer un fichier avec les instructions sur la fabrication de celui-ci par l'imprimante 3D.
   Ce type de logiciel s'appelle un "Slicer" (découpeur) car il indique les couches et les trajectoires que devra effectuer l'imprimante pour déposer le plastique.
 
@@ -92,6 +105,9 @@ Préparation du matériel
 .. attention:: TODO: pendant le calibrage, l'imprimante va mesurer la taille de la buse (extrudeur), si l'imprimante fait un bruit de percussion [..]
 
 .. image:: calibration.png
+
+.. important:
+
 
 - Allez dans Maintenance et vérifiez que le Material type soit bien sûr PLA et que le Print Board soit celui qui est dans l'imprimante (Perf Board ou Up Flex Board).
 
@@ -105,6 +121,8 @@ Préparer une impression sur UP Studio
 - Chargez le modèle avec le bouton +. Vous pouvez ajouter un polygone de base qui vous est proposé ou importer un modèle 3D au format .stl ou .obj en cliquant sur Add 3D Model.
 
 .. image:: 3dmodel.png
+
+.. note:: Vous pouvez glisser/déposer le fichier dans la vue 3D aussi.
 
 Pour vous déplacer dans la vue 3D:
 
@@ -151,7 +169,7 @@ Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
 - Infill: c'est le remplissage, les pièces remplies sont celles qui sont soumises à des forces comme des engrenages.
 - Quality: c'est la vitesse de déplacement de la buse, cela affecte la précision du modèle.
 - Nozzle offset:
-- Unsolid Model:
+- Unsolid Model: ferme un modèle s'il comporte des trous.
 - No Raft: si l'option est cochée cela désactive le support sous l'impression 3D pour renforcer l'adhérence. Une pièce fine et cylindrique par exemple aura besoin d'un raft. Raft se traduire par radeau.
 - No Support: désactive les supports. Concevoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l'impression et après (découpe des supports, ponçage).
 

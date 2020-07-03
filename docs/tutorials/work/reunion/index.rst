@@ -1,5 +1,5 @@
-Réunion
-=======
+Réunion 19/06
+=============
 
 **Date:** 19/06/2020
 
@@ -89,3 +89,8 @@ Transversalité
 - Attribuer un Kakémono pour l'Oculus Rift et les machines du Lab
 - Formation par des prestataires sur l'initiation à la fabrication numérique le 2 décembre et mi-décembre
 - Cartes Steam bientôt disponible
+
+Reunion 2
+=========
+
+PLACEHOLDER

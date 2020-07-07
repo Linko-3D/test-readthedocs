@@ -1,6 +1,10 @@
 Carte: Arduino
 ================
 
+.. note:: Prendre version 1.0.6
+
+Tools > Boards > Intel Curie (32-bit) Boards > Arduino/Genuino 101
+
 Niveau 1: https://openclassrooms.com/fr/courses/2778161-programmez-vos-premiers-montages-avec-arduino
 
 Niveau 2: https://openclassrooms.com/fr/courses/3290206-perfectionnez-vous-dans-la-programmation-arduino

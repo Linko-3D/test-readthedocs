@@ -29,6 +29,8 @@ Définitions
 
 - Green Lab
 
+- EC
+
 Pour être fablab la charte du MIT doit être respectée.
 
 - Espace HOMAGO: HO (Hang-Out), MA (Mess Arround), GO (Geek Out)
@@ -287,4 +289,27 @@ La question numérique est aujourd'hui aucoeur de la vie des citoyens : généra
 La bibliothèque trouve dans le makerspace une nouvelle expression de la diffusion des connaissances au sens large et de la culture scientifique en particulier. En créant un espace d'échange ouvert à tous et gratuit, la bibliothèques remplit sa mission d'ouverture tout en s'adaptant à son temps.
 
 "Les outils numériques offrent cette opportunité d'intensifier le processus de co-construction, de partage et de diffusion des connaissances, en favorisant la participation de chacun".
+
+**Offres de services:**
+
+- Atelier d'impression 3D - Conception et la création d'objets divers. Découverte du fonctionnement de l'imprimante 3D à partir de la création de bijoux grâce à un tutoriel de mainupulation du logiciel Sketchup. Possibilité de proposer au public d'apporter des objets détériorés et de réfléchir aux diverses possibilités de réparation qu'offre l'imprimante 3D ;
+- Robotique et cartes électroniques programmables. Cet atelier est l'occasion de découvrir un domaine de plus en plus présent dans notre quotidien et d'initier le public à la programmation. Découverte d'un robot programmable (Lego Mindstorm et Lego WeDo 2.0) autour de réalisation d'activités ludiques. La programmation s'effectue via des tablettes. Découverte des possibilités offrets par les cartes électroniques programmables Arduino ;
+- Atelier de musoqie assostée par ordinateur (MAO). Une première approche de composition musicale via l'ordinateur et utilisation de claviers maîtres. La musique assistée par ordinateur consiste à concevoir une instrumentale mais aussi à s'initier à la pratique instrumentale (guitare, piano, instruments électroniques) ;
+- Création de jeux vidéo. utilisation du logiciel de programmation utilisé en grande partie dans l'éducation nationale (Scratch) et d'une plateforme de tutoriels (Google CS first). Des ateliers de création vidéo (dessins, interactivité, musique, bruitages, scénario, etc), en utilisant tous les logiciels, gratuits (Blender, Gimp, Audacityà ;
+- Découpe vinyle. Réalisation de productions plastiquesgrâce à la technique du Scrapbooking, création de magnests ou de tatouages.
+
+Le fablab de la médiathèque Brossard (Québec, CA)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Il y a un immense potentiel de collaboration entre l'équipe fablab et médiathèque, mais l'absence d'objectifs communs explicités, une division des tâches stricte et la faiblesse des liens de communication déployés créent deux mondes quasi-hermétiques au niveau organisationnel.
+
+L'essence participative et collaborative des fablabs est parfois difficile à saisir pour le commun des mortels qui pense en termes de produits et de services.
+
+--------------------------
+
+Repenser notre posture professionnelle
+--------------------------------------
+
+Et le bibliothécaire dans tout ça ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

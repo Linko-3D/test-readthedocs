@@ -1,6 +1,10 @@
 Synthèse: Espaces de création numérique en bibliothèque
 =======================================================
 
+To share: https://cyrzbib.net/2017/02/04/operation-jaja-box-1ere-partie/
+https://cyrzbib.net/2020/05/11/le-corolab-de-la-mediatheque/ (+ video inclu)
+
+
 To check: Wheeldo fablab mobile
  
 
@@ -28,6 +32,14 @@ Définitions
 - Teaching lab
 
 - Green Lab
+
+- EC
+
+- Littératie numérique
+
+-DIWO: Do It With Other
+
+- Design Thinking
 
 Pour être fablab la charte du MIT doit être respectée.
 
@@ -288,3 +300,68 @@ La bibliothèque trouve dans le makerspace une nouvelle expression de la diffusi
 
 "Les outils numériques offrent cette opportunité d'intensifier le processus de co-construction, de partage et de diffusion des connaissances, en favorisant la participation de chacun".
 
+**Offres de services:**
+
+- Atelier d'impression 3D - Conception et la création d'objets divers. Découverte du fonctionnement de l'imprimante 3D à partir de la création de bijoux grâce à un tutoriel de mainupulation du logiciel Sketchup. Possibilité de proposer au public d'apporter des objets détériorés et de réfléchir aux diverses possibilités de réparation qu'offre l'imprimante 3D ;
+- Robotique et cartes électroniques programmables. Cet atelier est l'occasion de découvrir un domaine de plus en plus présent dans notre quotidien et d'initier le public à la programmation. Découverte d'un robot programmable (Lego Mindstorm et Lego WeDo 2.0) autour de réalisation d'activités ludiques. La programmation s'effectue via des tablettes. Découverte des possibilités offrets par les cartes électroniques programmables Arduino ;
+- Atelier de musoqie assostée par ordinateur (MAO). Une première approche de composition musicale via l'ordinateur et utilisation de claviers maîtres. La musique assistée par ordinateur consiste à concevoir une instrumentale mais aussi à s'initier à la pratique instrumentale (guitare, piano, instruments électroniques) ;
+- Création de jeux vidéo. utilisation du logiciel de programmation utilisé en grande partie dans l'éducation nationale (Scratch) et d'une plateforme de tutoriels (Google CS first). Des ateliers de création vidéo (dessins, interactivité, musique, bruitages, scénario, etc), en utilisant tous les logiciels, gratuits (Blender, Gimp, Audacityà ;
+- Découpe vinyle. Réalisation de productions plastiquesgrâce à la technique du Scrapbooking, création de magnests ou de tatouages.
+
+Le fablab de la médiathèque Brossard (Québec, CA)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Il y a un immense potentiel de collaboration entre l'équipe fablab et médiathèque, mais l'absence d'objectifs communs explicités, une division des tâches stricte et la faiblesse des liens de communication déployés créent deux mondes quasi-hermétiques au niveau organisationnel.
+
+L'essence participative et collaborative des fablabs est parfois difficile à saisir pour le commun des mortels qui pense en termes de produits et de services.
+
+--------------------------
+
+Repenser notre posture professionnelle
+--------------------------------------
+
+Et le bibliothécaire dans tout ça ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La question de la présence d'espaces créatifs numérique en bibliothèque change-t-elle la nature même de nos établissement ? La question peut paraître légitime (le bibliothécaire argue qu'il n'a pas été formé pour ça) est en droit de se demander si TOUT cela a bien sa place en bibliothèque.
+On peut lui répondre que les bibliothèques sont depuis toujours le lieu des savoirs (littéraires, théorique et livresques) mais également celui des apprentissags.
+
+Mais qui dit savoir-faire dit technnique : le métier de bibliothécaire est-il celui d'un technicien ?
+Les bibliothécaires ont toujours occupé des fonctions variées dans toutes sortes d'environnements et d'oganisations. Ils ont joué le rôle d'enseignants, de facilitateurs, de collaborateurs, de chercheurs ou d'experts en technologie.
+Mettre en place un makerspace est un prolongement naturel de la plupart de ces rôles traditionneles et la capacité à faire vivre un tiers lieu éducatif de ce type est un ajout précieux dans la trousse à outils de tous bibliothécaires orientés vers les services ou la formation.
+
+- les bibliothèques sont passées d'une logique de conservation et d'accès à l'inforamtion (elles collectionnentà à une logique de création et de partage facilité par les technologies actuelles ;
+- les bibliothèques ont toujours eu pour fonction de démocratiser l'accès à des ressources ou des technologies rares et couteuses. C'est le cas aujourd'hui de technologies comme l'impression 3D ou la réalité virtuelle. On trouvait des machines à écrire dans de nombreuses bibliothèques publiques dans les années 1950.
+- les bibliothèques sont aujourd'hui de scommunity hubs, des plateformes de rencontres et d'échanges entre groupes d'usagers que leurs centre d'intêret communs rassemblent.
+
+On redéfinit ce qu'est une bibliothèque aujourd'hui : des espaces orientés vers la sociabilité et la collaboration, des services qui font la place à la participation des usagers, des collections plus larges avec avec parfois l'accès à des outils ou encore le prêt d'instruments en complément des ressources documentaires traditionnelles.
+
+http://www.abf.asso.fr/4/139/434/ABF/commission-fablab-presentation?p=2 (p. 113)
+
+Un des projets, la borne de rétrogaming: https://cyrzbib.net/2017/02/04/operation-jaja-box-1ere-partie/
+
+Une biliothécaire formée au fablab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Le Fablab propose deux formations diplômantes: initiation à la fabrication numérique et facilitateur permettant de devenir fabmanager-euse.
+
+Au programme du D.U.
+
+- des cours d'initiatin à des logiciels et des machines ou outils : programmation Arduino, modélisation 2D et 3D, impression 3D, découpe vinyle, faisage numérique, découpe et gravure laser ;
+- des sensibilisations : à l'accueil bienveillant, à la communication, à la gestion et l'entretien d'un parc machines, au droit de la propriété intellectuelle, à l'importance de la documentation, aux modèles économiques possibles... ;
+- des rencontres à co-organiser avec des acteur-rices oeuvrant dans tout type de lieu de fabrication numérique (fablab, hackerspace, makerspace...) et d'envrionnement (association, entreprise, établissement scolaire...) pour mieux comprendre le fonctionnement et la diversité de cet écosystème :
+- des ateliers à mettre en place pour transmettre nos apprentissages et se confronter à l'animation aurpès d'un public (chose plutôt aisée pour moi, puisque l'animation est une activité classique en médiathèque) ;
+- des projets collectifs où l'ont apprend à faire ensemble et à s'entraider, chacun-e contribuant selon ses appétences et facilités ;
+- le développement d'n projet personnel tout au long du cursus ;
+- une implication pour visiter des lieux ;
+- un travail de documentation (formation, stage, projet personnel, visites).
+
+
+L'esprit Lab:
+
+- L'autonomie
+- La confiance
+- La souplesse
+- L'apprentissage par le faire
+- La pensée réseau (s'appuyer sur une communauté)
+- L'ouverture (accueil du public dans toute sa diversité, l'ouverture d'esprit, la recherche du dialogue, l'écoute active, l'attention portée à autrui)

@@ -35,6 +35,9 @@ Définitions
 
 - EC
 
+- Fork: un fork (terme anglais signifiant "fourche", "bifurcation", "embranchement") est un nouveau logiciel créé à partir du code source d'un logiciel existant lorsque les droits accordés par les auteurs le permettent: ils doivent autoriser l'utilisation, la modification et la redistribution du code source.
+C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres.
+
 - Littératie numérique
 
 -DIWO: Do It With Other
@@ -365,3 +368,32 @@ L'esprit Lab:
 - L'apprentissage par le faire
 - La pensée réseau (s'appuyer sur une communauté)
 - L'ouverture (accueil du public dans toute sa diversité, l'ouverture d'esprit, la recherche du dialogue, l'écoute active, l'attention portée à autrui)
+
+Les Mallapixels : un dispositif mobile de formation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Le Mallapixels est un laboratoire de fabrication itinérant et artistique à destination des acteurs culturels du Val-de-Marne, principalement les établissements de lecture publique, qui leur permet de s'initier puis de développer leur créativité numérique.
+Chaque outil/matériel mis à disposition est toujours associé à une intention artistique.
+
+Ce laboratoire artistique itinérant représente une collection de 26 objets insolites qui permettent de porter un regard actif sur la création artistique numérique. Ce matériel et ces objets numériques sont mis gratuitement à disposition des bibliothèques du Val-de-Marne par convention.
+Ce prêt est accompagneé de moments de formation, appelés les Fabriques. Ces formations ont pour objectif d'accompagner les médiathèques dans l'appropriation des outils numériques en construisant ensemble des scénarii d'apprentissage, c'est aussi la transmission des expériences de chacun autour de la médiation.
+
+Le réseau des Mallapixels s'est constitué en 2015, et nous nous appuyons sur celui-ci pour organiser les Fabriques au sein des médiathèques ou dans les locaux de la Direction de la Culture à Créteil pouvant accueillir entre 10 à 12 personnes.
+Les fabriques permettent de découvrir, de s'initier aux outils et de pouvoir repartir avec pour une durée maximale de trois mois. Cela laisse le temps de s'approprier l'outil et d'organiser une médiation sur plusieurs ateliers.
+
+A ce jour, nous aovns mis en place des Fabriques autour des thématiques suivantes: la table mashup, l'impression 3D, l'escape game, la boîte à histoire (Arduino), la découpeuse vinyle, la réalité augmentée (Aurasma), la réalité virtuelle (casque 3D), Dualo Touch.??
+
+Le problème avec la documentation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Les points communs entre les fablabs et bibliothèques: partage - savoir - documentation.
+
+Il reste difficile d'insérer l'action de documenter au sein d'un projet. Les utilisateurs ont du mal à le faire. Prendre du recul et le temps de documenter peut paraître à contre-courant de l'activité créatrice.
+
+C'est inscrit noir sur blanc dans la Charte des Fablab du MIT: "Contribuer à la documentation et aux connaissances des autres.
+
+Le bibliothécaire connaît mieux que quiconque cet enjeu. Le professionnel des bibliothèques pourrait faire valoir son expertise dans le domaine de la documentation des projets développés.
+
+Cette documentation une fois partagée est une source d'inspiration pour tous les makers à travers le monde. Des projets bien documentés sont une ressource essentielle pour la reproduction des projets et leur évolution future.
+
+En bibliothèque, cela signifie aller chercher de l'information déjà existante alors qu'en fablab, il faut créer l'information.

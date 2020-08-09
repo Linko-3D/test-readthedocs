@@ -1,6 +1,8 @@
 Veille technologique été 2020
 =============================
 
+.. important:: Parler du moteur Core
+
 Logiciels
 ---------
 
@@ -8,9 +10,9 @@ Logiciels
 
 .. note:: Gratuit https://youtu.be/gxyMejEA0PE
 
-- Godot 4.0 supportera Vulkan (donc le multi-bounces lighting) et un nouveau système de gestion de l'éclairage et de gestion du Global Illumination par Light Probes infinies: le SDFGI. Le moteur pourrait être utilisé pour créer des jeux 3D.
+- Godot 4.0 supportera Vulkan (donc le multi-bounces lighting) et un nouveau système de gestion de l'éclairage et de gestion du Global Illumination par Light Probes infinies: le SDFGI. Le moteur pourrait être utilisé pour créer des jeux 3D: https://youtu.be/1I5qEjlj3lQ
 
-.. note:: Gratuit https://youtu.be/1I5qEjlj3lQ
+.. note:: Gratuit https://godotengine.org/
 
 Impression 3D
 -------------

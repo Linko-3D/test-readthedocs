@@ -415,3 +415,77 @@ Pourtant nous pouvons y voir un paradoe, sachant que les usagers sont, a priori 
 
 - `Projet Wikifab <https://wikifab.org/wiki/Accueil>`_
 
+Bien documenter un projet est une activité très interessante mais très chronophage. On constate qu'il faut autant de temps, voir plus que pendant la phrase de fabricatione elle-même
+
+Une documentation bien faite et visible apporte de nombreux avantages:
+
+- permettre de mieux s'accapter et d'approfondir son projet ;
+- faire connaître son projet au plus grand nomnre et donc le valoriser ;
+- promouvoir de façon originale les activités du lieu ;
+- piquer la curiosité des gens, provoquer commentaires et rencontres.
+
+Un poste tournant de documentaliste: fabdocumentaliste.
+Ils établissent une fiche de poste, la mission globale est: promouvoir la documentation et la contribution auprès des usgares du fablab.
+
+- Mission 1: s'informer sur les projets en cours entrepris dans le lieu et à l'extérieur ;
+- Mission 2: accompagner et orienter les usager dans leurs démarches de documentation ;
+- Mission 3: organiser des événements et des actions autour de la documentation ;
+- Mission 4: oraganiser et diffuser la documentation auprès de la communauté locale et des communantés extérieures.
+
+Le design au service de la documentation des activités
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `do•doc <https://latelier-des-chercheurs.fr/outils/dodoc>`_
+
+"Conçu pour documenter et créer des récits à partir d'activités pratiques, do•doc (prononcer doudoc) est un outil composite, libre et modulaire, qui permet de capturer des médias (photos, vidéos, sons et stop-motion), de les éditer, de les mettre en page et de les publier. Son aspect composite permet de le reconfigurer de manière à ce qu'il soit le plus adapté possible à la situation dans laquelle il est déployé."
+
+-------------------------------------------------------
+
+Développer une offre de service et d'atelier
+--------------------------------------------
+
+La recette (magique) pour inventer son Espace de Création Numérique en bibliothèque
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- L'usager est au centre : partir des besoins sur le terrain et des usages observés
+- Ouvrir plus, Pas que les horaires ! Décloisonner les structures et les méthodes
+- Coproduire : faire confiance à l'intelligence collective, lâcher prise
+- L'impact : innover c'est répondre à des problématiques
+
+- Expérimenter différent dispositifs dédiés innovants co-construits : des espaces mobiles, ponctuels ou pérennes
+- Créer une communauté d'intêret : partager sur place et en ligne
+
+Combien ça coûte ?
+^^^^^^^^^^^^^^^^^^
+
+Pour un fablab éducatif l'investissement est de 2000 dollars. Ce fablab spécifique se distingue par ses objectifs pédagogiques visant à amener les gens à apprendre la fabrication numérique.
+
+Fablab Facotry propose un pack pour 5000 euros:
+
+- Imprimante 3D: `Sindoh DP201 <https://3dprinter.sindoh.com/en/product/dp201>`_
+- Découpe vinyl: `Brother ScanNCut sdx 1200 <https://www.lafourmicreative.fr/scanncut/125683-scanncut-sdx1200-brother--4977766792011.html?gclid=CjwKCAjw4MP5BRBtEiwASfwAL9YbSr_OUa1mzkyINQSmWugApHjArUFRf6bOpsIuLQUU5vlqamSnmBoCS5oQAvD_BwE>`_
+- Machine à coudre: `Brother Innov-is 15 <https://www.cdiscount.com/electromenager/repassage-couture/brother-machine-a-coudre-electronique-fs40-40/f-1101502-brotherfs40.html?idOffre=-1&cid=search_pla&cm_mmc=PLA!COR!PEM!CD!1040002306!m102400825_pBROTHERFS40_l9056437_tpla-770416936231_&gclid=CjwKCAjw4MP5BRBtEiwASfwAL_2JoiSIa5Ohub6ERoXiYcN1jmMfrEwSPyjtguOxe_LXoAdxxMedFRoCDoQQAvD_BwE>`_
+- Micro Ordinateur programmable: `Micro:bit <https://microbit.org/>`_
+- Kit Steam: `SAM Labs <https://samlabs.com/us/>`_
+- Kit code and robotique: `Strawbees <https://strawbees.com/?wgu=280085_206617_1597087321366_8d7f380841&wgexpiry=1604863321&source=webgains&siteid=206617>`_
+
+L'équipement des fablabs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Description complète des appareils page 159.
+
+L'imprimante 3D
++++++++++++++++
+
+Une des stars des fablabs et des espace de création numérique en bibliothèque. Les logiciels de modélisation pour débuter son Doodle3D, Tinkercad et Sketchup.
+Il est possible de sauter cette étape en téléchargeant des fichiers 3D sur Thingiverse ou Cults par exemple.
+
+Ensuite un logiciel va procéder au tranchage en générant un fichier Gcode, celui-ci est transféré à l'imprimante par cable USB ou carte SD.
+
+La machine chauffe à environ 200°C afin de faire fondre le filament (ABS, PLA) qui sera déposé couches après couches pour fabriquer l'objet.
+
+**Point faible:** leur fonctionnement est relativement lent, il faut environ 1 heure pour fabriquer un cube de 5 cm. C'est une machine parfois capricieuse et il n'existe pas vraiment de machine qui garantissent zéro ratés.
+
+**Idées:** c'est un outil très polyvalent, il permet de développer des projets autour de la modélisation, du DIY (création de porte-clés, bijoux) de la robotique (impression pièces) ou encore de l'architecture (création de maquettes) etc.
+
+**Le stylo 3D**

@@ -8,8 +8,8 @@ https://cyrzbib.net/2020/05/11/le-corolab-de-la-mediatheque/ (+ video inclu)
 To check: Wheeldo fablab mobile
  
 
-Définitions
------------
+Lexique
+-------
 
 - Makerspace
 
@@ -33,7 +33,7 @@ Définitions
 
 - Green Lab
 
-- EC
+- ECN: Espace de Création Numérique
 
 - Fork: un fork (terme anglais signifiant "fourche", "bifurcation", "embranchement") est un nouveau logiciel créé à partir du code source d'un logiciel existant lorsque les droits accordés par les auteurs le permettent: ils doivent autoriser l'utilisation, la modification et la redistribution du code source.
 C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres.
@@ -435,3 +435,89 @@ Ils établissent une fiche de poste, la mission globale est: promouvoir la docum
 Le design au service de la documentation des activités
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- `do•doc <https://latelier-des-chercheurs.fr/outils/dodoc>`_
+
+"Conçu pour documenter et créer des récits à partir d'activités pratiques, do•doc (prononcer doudoc) est un outil composite, libre et modulaire, qui permet de capturer des médias (photos, vidéos, sons et stop-motion), de les éditer, de les mettre en page et de les publier. Son aspect composite permet de le reconfigurer de manière à ce qu'il soit le plus adapté possible à la situation dans laquelle il est déployé."
+
+-------------------------------------------------------
+
+Développer une offre de service et d'atelier
+--------------------------------------------
+
+La recette (magique) pour inventer son Espace de Création Numérique en bibliothèque
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- L'usager est au centre : partir des besoins sur le terrain et des usages observés
+- Ouvrir plus, Pas que les horaires ! Décloisonner les structures et les méthodes
+- Coproduire : faire confiance à l'intelligence collective, lâcher prise
+- L'impact : innover c'est répondre à des problématiques
+
+- Expérimenter différent dispositifs dédiés innovants co-construits : des espaces mobiles, ponctuels ou pérennes
+- Créer une communauté d'intêret : partager sur place et en ligne
+
+Combien ça coûte ?
+^^^^^^^^^^^^^^^^^^
+
+Pour un fablab éducatif l'investissement est de 2000 dollars. Ce fablab spécifique se distingue par ses objectifs pédagogiques visant à amener les gens à apprendre la fabrication numérique.
+
+Fablab Facotry propose un pack pour 5000 euros:
+
+- Imprimante 3D: `Sindoh DP201 <https://3dprinter.sindoh.com/en/product/dp201>`_
+- Découpe vinyl: `Brother ScanNCut sdx 1200 <https://www.lafourmicreative.fr/scanncut/125683-scanncut-sdx1200-brother--4977766792011.html?gclid=CjwKCAjw4MP5BRBtEiwASfwAL9YbSr_OUa1mzkyINQSmWugApHjArUFRf6bOpsIuLQUU5vlqamSnmBoCS5oQAvD_BwE>`_
+- Machine à coudre: `Brother Innov-is 15 <https://www.cdiscount.com/electromenager/repassage-couture/brother-machine-a-coudre-electronique-fs40-40/f-1101502-brotherfs40.html?idOffre=-1&cid=search_pla&cm_mmc=PLA!COR!PEM!CD!1040002306!m102400825_pBROTHERFS40_l9056437_tpla-770416936231_&gclid=CjwKCAjw4MP5BRBtEiwASfwAL_2JoiSIa5Ohub6ERoXiYcN1jmMfrEwSPyjtguOxe_LXoAdxxMedFRoCDoQQAvD_BwE>`_
+- Micro Ordinateur programmable: `Micro:bit <https://microbit.org/>`_
+- Kit Steam: `SAM Labs <https://samlabs.com/us/>`_
+- Kit code and robotique: `Strawbees <https://strawbees.com/?wgu=280085_206617_1597087321366_8d7f380841&wgexpiry=1604863321&source=webgains&siteid=206617>`_
+
+L'équipement des fablabs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Description complète des appareils page 159.
+
+L'imprimante 3D
++++++++++++++++
+
+Une des stars des fablabs et des espace de création numérique en bibliothèque. Les logiciels de modélisation pour débuter son Doodle3D, Tinkercad et Sketchup.
+Il est possible de sauter cette étape en téléchargeant des fichiers 3D sur Thingiverse ou Cults par exemple.
+
+Ensuite un logiciel va procéder au tranchage en générant un fichier Gcode, celui-ci est transféré à l'imprimante par cable USB ou carte SD.
+
+La machine chauffe à environ 200°C afin de faire fondre le filament (ABS, PLA) qui sera déposé couches après couches pour fabriquer l'objet.
+
+**Point faible:** leur fonctionnement est relativement lent, il faut environ 1 heure pour fabriquer un cube de 5 cm. C'est une machine parfois capricieuse et il n'existe pas vraiment de machine qui garantissent zéro ratés.
+
+**Idées:** c'est un outil très polyvalent, il permet de développer des projets autour de la modélisation, du DIY (création de porte-clés, bijoux) de la robotique (impression pièces) ou encore de l'architecture (création de maquettes) etc.
+
+Le stylo 3D
++++++++++++
+
+Les stylos 3D sont un partenaire pour les ateliers d'impressio n3D, ils s'avèrent utiles pour "meubler" en proposant des animation complémentaire pendant l'impression.
+
+**Point faible:** il ne faut pas s'imaginer que les stylos 3D permettent véritablement de dessiner dans les airs. Tout comme l'impression 3D, c'est un outil qui possède ses propres contraintes et nécessite une certaine prise en main.
+
+La découpe laser
+++++++++++++++++
+
+Un adage des fablabs consiste à dire que les usagers se rendent au lab car ils ont entendu parler de l'impression 3D mais utilisent majoritairement la découpe laser. En effet, ces machines sont beaucoup plus rapides et précises que les imprimantes 3D. En effet, ces machines sont beaucoup plus rapides et précises que les imprimantes 3D.
+Les découpeuses laser sont essentiellement utilisées pour découper des plaques de bois et de plexiglas d'épaisseur variable.
+Etant donné son rendement important, la découpeuse est souvent employée dans la réalisation de maquettes ou prototypes. Les pièces découpées sont alors collées ou assemblées ensemble avant d'aboutir au résutlat final.
+
+L'utilisation d'un découpeuse laser débute par un travail de modélisation en deux dimensions (plan en vectoriel). Une fois ce travail de modélisation terminé, le plan est envoyé à la machine qui découpe selon les formes souhaitée.
+La découpeuse laser peut également être utilisée en mode gravure. Cette fonctionnalité permet d'abraser en surface afin de créer des motifs très fins.
+
+**Inconvénients:** ce sont des outils coûteux (de 15 à 40 000 environ), elle sont donc réservés à des ECN de taille critique. De plus, elles nécessitent un entretien relativement rigoureux et parfois complexe. Les fumées issues de la combustion des matériaux implique l'utilisation d'un filtre ce qui pose un certain nombre de contraintes en termes d'espaces et d'installation. L'utilisation de ces machines doit donc être particulièrement encadrée.
+Malgré ces inconvénients, la découpeuse laser reste la reine des fablabs.
+
+** Ressources:**
+
+Le wiki dyu Carrefour Numérique est particulièrement intéressant concernant l'utilisation de la découpe laser dans un ERP.
+
+Plotter de découpe ou découpeuse vinyle
++++++++++++++++++++++++++++++++++++++++
+
+Le principe est le suivant: on modélise une forme en deux dimensions et la machine découpe une plaque de matériau en suivant les tracés définis par l'utilisateur. La technique de découpe est mécanique, c'est à dire qu'une lame est utilisée pour fendre la matière choisie. Les matériaux sont multiples à commencer par le vinyle adhésif, le papier, le carton ou encore le floc, destiné à être transféré sur le textile. Les plotters de découpe permettent ainsi de réaliser des éléments de signalétique, des pop-up, des marques pages ou encore la personnalisation de tote-bags.
+
+CNC
++++
+
+La CNC est dotée d'une fraise qui tourne à une vitesse élevée afin de venir couper ou entamer des matériaux comme le bois ou le métal afin d'obtenir le résultat escompté. Il peut travailler à partir d'un fichier 2D ou 3D en fonction du résultat souhaité.

@@ -508,9 +508,7 @@ La découpeuse laser peut également être utilisée en mode gravure. Cette fonc
 **Inconvénients:** ce sont des outils coûteux (de 15 à 40 000 environ), elle sont donc réservés à des ECN de taille critique. De plus, elles nécessitent un entretien relativement rigoureux et parfois complexe. Les fumées issues de la combustion des matériaux implique l'utilisation d'un filtre ce qui pose un certain nombre de contraintes en termes d'espaces et d'installation. L'utilisation de ces machines doit donc être particulièrement encadrée.
 Malgré ces inconvénients, la découpeuse laser reste la reine des fablabs.
 
-** Ressources:**
-
-Le wiki dyu Carrefour Numérique est particulièrement intéressant concernant l'utilisation de la découpe laser dans un ERP.
+** Ressources:** le wiki dyu Carrefour Numérique est particulièrement intéressant concernant l'utilisation de la découpe laser dans un ERP.
 
 Plotter de découpe ou découpeuse vinyle
 +++++++++++++++++++++++++++++++++++++++
@@ -521,3 +519,14 @@ CNC
 +++
 
 La CNC est dotée d'une fraise qui tourne à une vitesse élevée afin de venir couper ou entamer des matériaux comme le bois ou le métal afin d'obtenir le résultat escompté. Il peut travailler à partir d'un fichier 2D ou 3D en fonction du résultat souhaité.
+
+C'est l'une des rares machine des fablabs qui permettent de travailler à une grande échelle.
+Ce type de machines est très coûteuse, plus de 25 000 euros.
+
+**Inconvénient:** leur utilisation doit faire l'object d'une attention particulière, les mouvements de la fraise et les projections pouvant être dangereux. Un aménagement spécifique est nécessaire de façon à isoler la machine et limiter les désagréments sonores et la dispersion de la poussoières dans l'ECN.
+
+**Ressources:** il est possible de récupérer directement en ligne des plans de fabrication opensource via des plateformes telles qu'OpenDesk.
+
+Thermoformeuse
+++++++++++++++
+

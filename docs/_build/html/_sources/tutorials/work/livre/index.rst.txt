@@ -397,3 +397,21 @@ Le bibliothécaire connaît mieux que quiconque cet enjeu. Le professionnel des 
 Cette documentation une fois partagée est une source d'inspiration pour tous les makers à travers le monde. Des projets bien documentés sont une ressource essentielle pour la reproduction des projets et leur évolution future.
 
 En bibliothèque, cela signifie aller chercher de l'information déjà existante alors qu'en fablab, il faut créer l'information.
+
+La documentation n'est jamais finie. C'est un Work In Progress localement et via les réseaux. Les temps de la documentation sont à prendre en compte aussi. La construction de la documentation pour présenter le lieu, ses ateliers, ses créations, ses projets, sont des temps différents (avant, pendant, après les temps de médiation).
+
+Le wiki est un socle documentaire commun du lieu. En traitant et organisant les données du lieu, il lie et structure l'information, il rend tangible notre intelligence collective à l'oeuvre. Il nous aide à la création de nouveaux savoirs.
+
+Le wiki du `Carrefour Numérique <http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=index>`_ ou celui du fablab de `Copenhague <http://valby.copenhagenfablab.dk/projects>`_ sont des exemplies inspirant.
+
+Vers un modèle: curation (sources), co-création, participation et partage de la documentaion créer à l'issu du projet.
+
+Le fabdocumentatliste est-il le nouveau bibliothécaire ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Au sein des fablabs, les usagers de ce type de lieu ont plutôt tendance à diffuser leurs savoirs et leurs expériences par l'oralité, au cours d'ateliers d'initiation ou d'échanges informels lors de rencontre sur place, que par l'écrit.
+
+Pourtant nous pouvons y voir un paradoe, sachant que les usagers sont, a priori plutôt à l'aise avec le numérique.
+
+- `Projet Wikifab <https://wikifab.org/wiki/Accueil>`_
+

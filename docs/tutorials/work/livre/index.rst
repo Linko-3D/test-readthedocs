@@ -397,3 +397,41 @@ Le bibliothécaire connaît mieux que quiconque cet enjeu. Le professionnel des 
 Cette documentation une fois partagée est une source d'inspiration pour tous les makers à travers le monde. Des projets bien documentés sont une ressource essentielle pour la reproduction des projets et leur évolution future.
 
 En bibliothèque, cela signifie aller chercher de l'information déjà existante alors qu'en fablab, il faut créer l'information.
+
+La documentation n'est jamais finie. C'est un Work In Progress localement et via les réseaux. Les temps de la documentation sont à prendre en compte aussi. La construction de la documentation pour présenter le lieu, ses ateliers, ses créations, ses projets, sont des temps différents (avant, pendant, après les temps de médiation).
+
+Le wiki est un socle documentaire commun du lieu. En traitant et organisant les données du lieu, il lie et structure l'information, il rend tangible notre intelligence collective à l'oeuvre. Il nous aide à la création de nouveaux savoirs.
+
+Le wiki du `Carrefour Numérique <http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=index>`_ ou celui du fablab de `Copenhague <http://valby.copenhagenfablab.dk/projects>`_ sont des exemplies inspirant.
+
+Vers un modèle: curation (sources), co-création, participation et partage de la documentaion créer à l'issu du projet.
+
+Le fabdocumentatliste est-il le nouveau bibliothécaire ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Au sein des fablabs, les usagers de ce type de lieu ont plutôt tendance à diffuser leurs savoirs et leurs expériences par l'oralité, au cours d'ateliers d'initiation ou d'échanges informels lors de rencontre sur place, que par l'écrit.
+
+Pourtant nous pouvons y voir un paradoe, sachant que les usagers sont, a priori plutôt à l'aise avec le numérique.
+
+- `Projet Wikifab <https://wikifab.org/wiki/Accueil>`_
+
+Bien documenter un projet est une activité très interessante mais très chronophage. On constate qu'il faut autant de temps, voir plus que pendant la phrase de fabricatione elle-même
+
+Une documentation bien faite et visible apporte de nombreux avantages:
+
+- permettre de mieux s'accapter et d'approfondir son projet ;
+- faire connaître son projet au plus grand nomnre et donc le valoriser ;
+- promouvoir de façon originale les activités du lieu ;
+- piquer la curiosité des gens, provoquer commentaires et rencontres.
+
+Un poste tournant de documentaliste: fabdocumentaliste.
+Ils établissent une fiche de poste, la mission globale est: promouvoir la documentation et la contribution auprès des usgares du fablab.
+
+- Mission 1: s'informer sur les projets en cours entrepris dans le lieu et à l'extérieur ;
+- Mission 2: accompagner et orienter les usager dans leurs démarches de documentation ;
+- Mission 3: organiser des événements et des actions autour de la documentation ;
+- Mission 4: oraganiser et diffuser la documentation auprès de la communauté locale et des communantés extérieures.
+
+Le design au service de la documentation des activités
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+

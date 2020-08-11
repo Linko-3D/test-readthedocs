@@ -537,3 +537,22 @@ Ces cartes et leurs composants peuvent donc être programmés pour réaliser une
 La Fabrique : un espqce de fabrication numérique intégré au projet de l'établissement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+La fabrique peut accueillir 8 personnes maximum lors des animations. Elle est mise en avant via des ateliers récurrents animés par deux bibliothécaires, formés sur le tas.
+Deux ateliers sont proposés, tous les quinze jours. Un le mardi soir, un le samedi après-midi. Ces ateliers de deux heures se focalisent sur une machine et sur la conception d'un objet. Ils sont à destination d'un public ado-adulte, et son gratuits.
+Des animations ont lieu pendant les vacances scolaires, à destination d'un public jeunesse. De la même façon, chaque atelier se centre sur une machine, mais avec de susgares plus ludiques que pour les adultes.
+
+Les machines sont également accessibles en dehors des temps d'animations. Pour cela, les habitants doivent avoir un Permis Machine. L'obtentin de ces permis se fait en ayant suivi un atelier avec les bibliothécaires, puis en répondant à un questionnaire en ligne: https://madeinlafabrique.wordpress.com/
+Seuls les consomables sont à fournir par l'utilisateur. L'accès se se fait pour le moment sur des créneaux identifiés qui correspondent à des moments de faible et moyenne affluence, où les biliothécaires sont plus disponibles pour accompagner l'utilisateur.
+
+Retour après un an
+++++++++++++++++++
+
+- L'imprimante 3D a créé des vocations et de nombreux utilisateurs ont acheté la leur et partagent des astuces.
+- Le scanner 3D s'est révélé plus délicat à utiliser et n'est que très peu sollicité.
+- La découpeuse a rencontré un vif succès, surtout auprès d'un public de scrapbookers pour qui la pratique du papier découpé est déjà ancrée.
+- La brodeuse est la machine qui a eu le plus de succès, et qui est paradoxalement la plus complexe à utiliser.
+
+Le labo : le projet de laboratoire d'innovation numérique de la future médiathèque communautaire de Sainte-Geneviève-des-Bois
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+

@@ -527,6 +527,13 @@ Ce type de machines est très coûteuse, plus de 25 000 euros.
 
 **Ressources:** il est possible de récupérer directement en ligne des plans de fabrication opensource via des plateformes telles qu'OpenDesk.
 
-Thermoformeuse
+L'électronique
 ++++++++++++++
+
+L'électronique dans les ECN repose fréquemment sur l'utilisation de cartes programambles telle qu'Arduino ou MakeyMakey. A ces cartes s'ajoutent de multiples composants que l'on peut regrouper en deux catégories : les capteurs et les actionneurs. Les capteurs permettent à la carte programmable de recevoir des information de l'extérieur. Il peut s'agir de boutons, de capteurs de son ou de distance. Les actionneurs permettent à la carte programmable d'interagir avec le monde extérieur. Il peut s'agir de moteurs, de led, de buzzer, etc.
+
+Ces cartes et leurs composants peuvent donc être programmés pour réaliser une infinitéde projets plus ou moins technique. Il peut s'agir de fabriquer des robots, un compteur pour la fréquentation de la bibliothèque, une bibliobox etc.
+
+La Fabrique : un espqce de fabrication numérique intégré au projet de l'établissement
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

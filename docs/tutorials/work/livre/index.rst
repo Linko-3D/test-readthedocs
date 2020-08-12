@@ -565,3 +565,14 @@ Notre projet nu;2riaue se décline en quatre axes, qui ont d'emblée été liés
 La Capsule : un espace pédagogique et créatif de la BU du Havre
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Trois zones dans le learning lab:
+
+- une zone atelier: stations assises, debout et permettre des déplacements fréquents :
+- un espace pédagogique pour le travail en groupe, le partage d'information :  tables et chaises sur roulettes pour 25 à 30 personnes ;
+- un espace convivialité pour des postures détendues, du travail informel, des réunions d'équipe pédagogique, des pauses.
+
+Donner un nom (la Capsule) a permis de communiquer sur l'espace et les activités associées, et de définir une identité visuelle avec le graphiste de l'université.
+
+Le bibliofab : faire entrer le monde des makers dans les bibliothèques
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+

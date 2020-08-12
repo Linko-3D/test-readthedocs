@@ -381,7 +381,7 @@ Ce prêt est accompagneé de moments de formation, appelés les Fabriques. Ces f
 Le réseau des Mallapixels s'est constitué en 2015, et nous nous appuyons sur celui-ci pour organiser les Fabriques au sein des médiathèques ou dans les locaux de la Direction de la Culture à Créteil pouvant accueillir entre 10 à 12 personnes.
 Les fabriques permettent de découvrir, de s'initier aux outils et de pouvoir repartir avec pour une durée maximale de trois mois. Cela laisse le temps de s'approprier l'outil et d'organiser une médiation sur plusieurs ateliers.
 
-A ce jour, nous aovns mis en place des Fabriques autour des thématiques suivantes: la table mashup, l'impression 3D, l'escape game, la boîte à histoire (Arduino), la découpeuse vinyle, la réalité augmentée (Aurasma), la réalité virtuelle (casque 3D), Dualo Touch.??
+A ce jour, nous aovns mis en place des Fabriques autour des thématiques suivantes: la table mashup, l'impression 3D, l'escape game, la boîte à histoire (Arduino), la découpeuse vinyle, la réalité augmentée (Aurasma), la réalité virtuelle (casque 3D), Dualo Touch.
 
 Le problème avec la documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -573,6 +573,15 @@ Trois zones dans le learning lab:
 
 Donner un nom (la Capsule) a permis de communiquer sur l'espace et les activités associées, et de définir une identité visuelle avec le graphiste de l'université.
 
+L'espace est prisé pour des enseignements variés, des rencontres associatives, des ateliers Wikipedia organisés entre pairs, des moments de vulgarisation scientifique, de la formation continue, des speeddating entrepreneuriaux, les réunions des bibliothécaires, des escapes games, des cafés pédagogiques en lien avec des MOOCs.
+
 Le bibliofab : faire entrer le monde des makers dans les bibliothèques
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Le BiblioFab répond à trois objectifs : présenter des projets réalisés dans les fablabs ; documenter les techniques de fabrication numérique ; offrir et ressources pour s'initier à la culture maker.
+
+- Atelier: un dispositif permettant aux usagers de comprendre et de s'initier aux techniques de fabrication numérique et notamment de l'impression 3D ;
+- Expo: une sélection documentée d'objets produits dans les fablabs (prothèse de main, bijou connecté, objets d'art, objets upcyclés, etc) ;
+- Ressources: des ouvrages sélectionnés par les bibliothécaires, une tablette présntant une version numérique des tutoriels et des fiches explicatives de l'exposition téléchargeable en WIFI via une Bibliobox sur un nano ordinateur Raspberry Pi.
+
+Une imprimante et un ordinateur sont à disposition des bibliothécaires afin d'animer des ateliers d'impression 3D. Des initiations sont donc proposées aux usagers qui, une fois formés, pourront développer leurs propres projets.

@@ -555,4 +555,13 @@ Retour après un an
 Le labo : le projet de laboratoire d'innovation numérique de la future médiathèque communautaire de Sainte-Geneviève-des-Bois
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Notre projet nu;2riaue se décline en quatre axes, qui ont d'emblée été liés avec les usages que nous retrouvons déjà au desin des bibliothèques :
+
+- Créer: participation aux animations utilisant le numérique: utiliser les consoles de l'esoace Jeu vidéo, apprendre à maîtriser outils et logiciels, créer/fabriquer en groupe des objets avec une imprimante 3D, des robots, mais également des oeuvres de l'esprit (atelier d'écriture, réalisation de vidéos, création de jeux vidéo, création d'images 3D et d'hologrammes, création sonores, graphiques, plastiques, etc).
+- Apprendre:des ateliers réguliers sur l'impression 3D, logiciel de montage vidéo, etc.
+- Echanger: la médiation autour des outils numériques se placera dans un contexte d'échanges et de troc des compétences. Les tournois de jeux vidéo seront l'occasion d'échanges entre passionnés et grands débutants, mais également avec d'autres équipes jouant dans d'autres bibliothèques.
+- Se former: la future médiathèque proposera des formations régulières sur l'utilisation des outils informatiques (création d'une adresse mail, première utilisation d'un ordinateur, d'une tablette) ou sur des compétences plus avancées (formation sur la protection de la vie privée sur internet, logiciels libres, etc).
+
+La Capsule : un espace pédagogique et créatif de la BU du Havre
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

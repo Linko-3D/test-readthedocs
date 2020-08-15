@@ -23,6 +23,10 @@ Lexique
 
 - Hacklab
 
+- Hackerspace
+
+- Biohackerspace
+
 - Gamelab
 
 - Médialab

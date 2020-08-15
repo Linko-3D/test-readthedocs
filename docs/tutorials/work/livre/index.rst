@@ -578,6 +578,14 @@ L'espace est prisé pour des enseignements variés, des rencontres associatives,
 Le bibliofab : faire entrer le monde des makers dans les bibliothèques
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Le BiblioFab est un dispositif mobile dont l'objectif est de rendre accessible l'univers des fablabs au plus grand nombre. Por se faire, le BiblioFap rempli trois fonctions : découvrir, fabriquer et exposer.
+
+- Bibliothèque: des ouvrages sont à disposition pour que chacun puisse découvrir la culture maker et s'initier à la fabrication numérique ;
+- Atelier: comme dans un fablab, des ressoures (machines, tutoriels) permettent de réaliser vos projets individuels et collectifs ;
+- Galerie: des espaces sont prévus pour exposer les créations réalisées et pour insipirer les autres utilisateurs.
+
+
+
 Le BiblioFab répond à trois objectifs : présenter des projets réalisés dans les fablabs ; documenter les techniques de fabrication numérique ; offrir et ressources pour s'initier à la culture maker.
 
 - Atelier: un dispositif permettant aux usagers de comprendre et de s'initier aux techniques de fabrication numérique et notamment de l'impression 3D ;
@@ -585,3 +593,57 @@ Le BiblioFab répond à trois objectifs : présenter des projets réalisés dans
 - Ressources: des ouvrages sélectionnés par les bibliothécaires, une tablette présntant une version numérique des tutoriels et des fiches explicatives de l'exposition téléchargeable en WIFI via une Bibliobox sur un nano ordinateur Raspberry Pi.
 
 Une imprimante et un ordinateur sont à disposition des bibliothécaires afin d'animer des ateliers d'impression 3D. Des initiations sont donc proposées aux usagers qui, une fois formés, pourront développer leurs propres projets.
+
+L'atelier : un laboratoire de création au coeur de la médiathèque
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+En 2015, une personne sur deux entrant à la médiathèque n'y venait plus pour emprunter. Travailler, se former, jouer, cérer, découvrir, étaient devenus des usages légitimes du lieu. Le bâtiment vieilissant, les espaces peu adaptés à leur utilisation réelle, l'évolution des usages, des outils et de l'offre, nécessitait l'écriture d'un projet de service actualisé.
+
+L'Atelier a donc imaginé comme un espace qui permettrait de brasser les cultures, les outils et les techniques dans une double perspective:
+
+- organiser l'éveil aux techniques plurielles de création à travers des outils et la transmission de savoir-faire. Ces techniques de création étant relatives aux collections que nous pouvions par ailleurs proposer ;
+- permettre de porter des projets créatifs aboutis en ouvrant cet espace aux habitants et aux artistes pour mettre à leur disposition des outils de qualité professionnelle.
+
+Création de trois stations de travail:
+
+- une station dédiée au son et à la musique assistée par ordinateur ;
+- une station dédiée à la vidéo et à la photographie ;
+- une station dédiée au graphisme et à la modélisation.
+
+La médiathèque a ainsi pu défendre l'intégration de cete atelier avec tros arguments forts:
+
+- donner gratuitement accès à un espace doté d'outils coûteux permettant de favoriser et d'encourager les projets créatifs sur la ville (des outils ordinaires équipés de logiciels libre n'auraient pas permis de lisser les inégalités d'équipement au sein de la population) ;
+- en investissant dans un tel équipement, la ville se dotait d'un studio de création autonome pour mener à bien toutes sortes de projets créatifs à moindre coût ;
+- un financement important fut atribué sous forme de donations par la DRAC et la région à hauteur de 80% pour la partie numérique.
+
+Matériel:
+
+- station image et vidéo : PC puissant, deux écrans art graphique, imprimante photo A3+, scanner photo, appareil reflex + zoom 24-70 mm, casque VR ;
+- station graphisme et modélisation : ordinateur hybride tablette graphique, plotter de découpe, imprimante 3D, presse à chaud ;
+- station son : PC, clavier midi, platine DJ, enceintes DJ, zoom son, micro ;
+- équipement mobile-interactif : 14 tablettes tactiles, deux chariots de recharge, dix PC portables, un chariot de recharge, des cartes Arduino, Makey Makey, touch board, Raspberry pi.
+
+Animations:
+
+- sept animations hebdomadaires (écriture, photographie, graphisme, dessin vectoriel, vidéo, M.A.O, art du papier, découpe vinyle, flocage, impression 3D, réparation informatique, jeux vidéo, sensibilisation au dévelopement durable, etc) ;
+- un stage de quatre jours toutes les vacances scolaires (exposition photo, construction d'une borne d'arcade, réalisation de courts métrages, etc) ;
+- prestations et interventions extérieures au fil de la saison (plasticiens, illustrateurs, associations de la ville, etc.).
+
+Ce que les bibs apportent aux labs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Besoin des fablabs:
+
+- espace (couvert par les médiathèques)
+- utilisateur (couvert par les médiathèques)
+- outils
+
+Les bibliothèques constituent ainsi un maillage des territoires ruraux et urbains sans équivalent.
+
+De nombreuses bibliothèques permettent la tenue de repoir café à l'occasion desquels un ou plusieurs usagers organisent un atelier dédié à la réparation d'objets cassés.
+
+L'impression 3D ou la robotique sont l'occasion pour les bibliothèques de remplir leur fonction d'accès aux savoir et à la connaissance, mais également de tester l'intérêt du public, tout en commençant à identifier les usagers qui pourraient être moteurs dans l'éventualité où l'établissement souhaiterait développer son offre de service en créant son propre ECN.
+
+Réalisation de robots contrôlables par smartphone et capables de s'affronter les uns les autres dans un combat d'éclatage de ballons de baudruche en se basant sur des kits Open Source JJrobots: https://www.jjrobots.com/
+
+**Quatre années de Fablab en bibliothèque:** initialement créée dans le but de faire découvrir au plus grand  nombre l'impression 3D, Wheeldo s'est très largement appuyé sur les bibliothèques pour remplir sa mission. En s'immergeant dans le milieu de la lecture publique, les membres de l'association ont rencontré un milieu particulièrement propice à la culture maker, résolument tourné vers les pratiques novatrices et surtout, un indispensable prisme de diffusion des savoirs et connaissances. En évoluant aux côtés des bibliothécaires pendant quatre années, les fabmanageurs ont vu évoluer la posture des professionnels et des usagers. Leurs rôles se sont transformés au fur et à mesure que les bibliothécaires et les usagers évoluaient de la découverte d'une technologie semblant inaccessible (tant techniquement que financièrement) vers une prise de conscience de ce que ce type d'outil pourrait apporter à leur quotidien. Les interventions de la micro-usine mobile ont alors commencé à s'éloigner des animations des origines en place d'ECN. Maintenant que les médiathèques et la société en générale semblent davantage prêtes à s'approprier les techniques de fabrication numérique, la mission s'achève? C'est donc vers une nouvelle aventure que se tournent le^s membres de l'association et ses fabmanagers avec la création d'une nouvelle entité, Ici-et-lab, dont la mission sera désormais de "diffuser la culture maker et accompagner la création de fablabs dans les territoires".

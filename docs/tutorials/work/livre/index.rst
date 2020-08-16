@@ -1,62 +1,51 @@
 Synthèse: Espaces de création numérique en bibliothèque
 =======================================================
 
-To share: https://cyrzbib.net/2017/02/04/operation-jaja-box-1ere-partie/
-https://cyrzbib.net/2020/05/11/le-corolab-de-la-mediatheque/ (+ video inclu)
+Projets
+-------
 
-
-To check: Wheeldo fablab mobile
+- Console de jeu https://cyrzbib.net/2017/02/04/operation-jaja-box-1ere-partie/
+- Blog intéressant avec des vidéos: https://cyrzbib.net/2020/05/11/le-corolab-de-la-mediatheque/ (+ vidéos incluses)
+- Wheeldo fablab mobile (n'existe plus): http://wheeldo.eu/
  
-
 Lexique
 -------
 
-- Makerspace
+- Makerspace: Un makerspace est un tiers lieu de type atelier de fabrication numérique, évolution du hackerspace, ouvert au public et mettant à disposition des machines-outils et machines-outils à commande numérique habituellement réservées à des professionnels dans un but de prototypage rapide ou de production à petite échelle. https://fr.wikipedia.org/wiki/Makerspace
 
-- Medialabs
-
-- Techshop
+- Hackerspace/Hacklab: Un hackerspace ou Hacker house est un tiers-lieu où des gens avec un intérêt commun (souvent autour de l'informatique, de la technologie, des sciences, des arts...) peuvent se rencontrer et collaborer. Les Hackerspaces peuvent être vus comme des laboratoires communautaires ouverts où des gens (les hackers) peuvent partager ressources et savoir. https://fr.wikipedia.org/wiki/Hackerspace
 
 - Tiers lieu: cadre public informel, qui permet de créer une communauté vivante, qui favoris un sentiment d'appartenance.
 
-- Fablab (Fabrication Laboratory): lieu ouvert au public, met à disposition des outils notament des machines-outils pilotées par ordinateur pour la conception et la réalisation d'objets.
+- Fablab (Fabrication Laboratory): lieu ouvert au public, met à disposition des outils notamment des machines-outils pilotées par ordinateur pour la conception et la réalisation d'objets.
 
-- Hacklab
+- Biohackerspace: La biologie participative désigne une approche de la biologie contributive, indépendante ou collaborative avec des laboratoires académiques ou industriels. Il s'agit d'individus (néophytes, amateurs, ou expérimentés), d'associations ou de petites entreprises dont les visées sont souvent non lucratives, dans une démarche de science ouverte ou éducative, ou lucratives. https://fr.wikipedia.org/wiki/Biologie_participative
 
-- Hackerspace
+- Livinglab: Le living lab est une méthodologie où citoyens, habitants, usagers sont considérés comme des acteurs clés des processus de recherche et d’innovation. https://fr.wikipedia.org/wiki/Living_lab
 
-- Biohackerspace
+- Learning lab: Les learning labs sont des lieux d'expérimentation en innovation pédagogique. Souvent soutenus par des entreprises ou regroupement d'universités et centres de formation, leur développement s'inscrit dans le mouvement des moocs, de l'intelligence collective et du web 2.0. https://fr.wikipedia.org/wiki/Learning_lab
 
-- Gamelab
 
-- Médialab
+- Scrapbooking: Le scrapbooking, ou créacollage, collimage (francisations principalement utilisées au Québec), est une forme de loisir créatif consistant à introduire des photographies dans un décor en rapport avec le thème abordé, dans le but de les mettre en valeur par une présentation plus originale qu'un simple album photo. https://fr.wikipedia.org/wiki/Scrapbooking
 
-- Livinglab
-
-- Teaching lab
-
-- Green Lab
-
-- Scrapbooking
-
-- do-doc
+- do•doc: Conçu pour documenter et créer des récits à partir d'activités pratiques. https://latelier-des-chercheurs.fr/outils/dodoc
 
 - ECN: Espace de Création Numérique
 
 - Fork: un fork (terme anglais signifiant "fourche", "bifurcation", "embranchement") est un nouveau logiciel créé à partir du code source d'un logiciel existant lorsque les droits accordés par les auteurs le permettent: ils doivent autoriser l'utilisation, la modification et la redistribution du code source.
 C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres.
 
-- Littératie numérique
+- Littératie numérique: La littératie numérique résulte de la juxtaposition des termes « littératie » et « numérique ». Elle se définit en deux temps. La littératie, est définie par l’OCDE comme étant « l’aptitude à comprendre et à utiliser l’information écrite dans la vie courante, à la maison, au travail et dans la collectivité en vue d’atteindre des buts personnels et d’étendre ses connaissances et ses capacités »1. Le terme « numérique » est un terme polysémique. Il recouvre plusieurs notions : l’informatique, la technologie, l’information, le visuel et la communication. La littératie numérique s’apprécie comme la capacité d’un individu à participer à une société qui utilise les technologies de communication numériques dans tous ses domaines d’activité. https://fr.wikipedia.org/wiki/Litt%C3%A9ratie_num%C3%A9rique
 
 -DIWO: Do It With Other
 
-- Design Thinking
+- Design Thinking: Le design thinking (littéralement « penser le design »), en français démarche design ou conception créative, est une méthode de gestion de l'innovation. Il se veut une synthèse entre pensée analytique et pensée intuitive. Il fait partie d'une démarche globale appelée design collaboratif. Il s'appuie en grande partie sur un processus de co-créativité impliquant des retours de l'utilisateur final. Contrairement à la pensée analytique, le design thinking est un ensemble d’espaces qui s’entrecroisent plutôt qu’un processus linéaire ayant un début et une fin. https://fr.wikipedia.org/wiki/Design_thinking
 
 Pour être fablab la charte du MIT doit être respectée.
 
 - Espace HOMAGO: HO (Hang-Out), MA (Mess Arround), GO (Geek Out)
 
-- Repair Goûter:
+- Repair Café/Repair Goûté: Un repair café (littéralement café de réparation) est un atelier consacré à la réparation d'objets et organisé à un niveau local sous forme de tiers lieu, entre des personnes qui habitent ou fréquentent un même endroit (un quartier ou un village, par exemple). https://fr.wikipedia.org/wiki/Repair_Caf%C3%A9
 
 DIY: Do It Yourself (faire par soi-même)
 
@@ -69,8 +58,8 @@ Lifelong Learning: l'éducation tout au long de la vie
 Préface
 -------
 
-Fablabs et innovation sociale : de quoi parle-t-on ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Fablabs et innovation sociale : de quoi parle-t-on ? (p. 13)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - l'initiative des Fablabs vient de Neil Gershenfeld un professeur américain du MIT
 
@@ -103,8 +92,8 @@ Fablabs et innovation sociale : de quoi parle-t-on ?
 Introduction
 ------------
 
-Espace de Création Numérique (ECN) en médiathèque: devenir bibliomaker ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Espace de Création Numérique (ECN) en médiathèque: devenir bibliomaker ? (p. 19)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le mouvement maker c'est aussi l'apprentissage convivial.
 
@@ -119,8 +108,8 @@ Les valeurs sont communes avec les médiathèques:
 S'inspirer : que nous apprennent les makers ?
 --------------------------------------------
 
-De quels lieux parle-t-on ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+De quels lieux parle-t-on ? (p. 25)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Voir les définitions.
 
@@ -135,8 +124,8 @@ Les caractéristiques d'un Fablab c'est:
 - apprentissage informel
 - expérimentation, innovation, pratique, autonomie
 
-SimplonLab, le fablab social
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SimplonLab, le fablab social (p.29)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Les activités:
 
@@ -164,48 +153,48 @@ Puis:
 
 .. important:: Il est important de construire des relations qualitatives et durables avec un petit nombre de structures
 
-Pot au fab : un fablab solidaire
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pot au fab : un fablab solidaire (p. 35)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - mêle la fabrication numérique avec des savoir-faire plus traditionnels comme la cuisine afin de favoriser rencontre et convivialité et d'offrir un point d'entrée bien identifiable pour les futurs stagiaires
 
-.. important: L'accompagnement demande une aisance technique et relationnelle.
 
-Encourager l'inclusion du public féminin en fablabs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Encourager l'inclusion du public féminin en fablabs (p. 39)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - "Les fablabs se donnent pour objectif d'être des lieux ouverts à tous, où chacun peut venir apprendre et partager ses connaissances dans une ambiance conviviale".
 - "[...] favoriser l'égalité et la cohésion sociale"
 - Les fablabs donnent un accès gratuit à des machines de haute technologie proposées à un coût élevé dans le commerce, ont pour but de procéder à l'empowerment du grand public".
-- Les fablabs remettent en question la notion de hiérarchie [...], tout le monde, même un débutant est capable de proposer des idées et connaissances" = atmosphere de solidarité
+- Les fablabs remettent en question la notion de hiérarchie [...], tout le monde, même un débutant est capable de proposer des idées et connaissances" = atmosphère de solidarité
 - "L"univers des makers, du moins en Europe, est encore largement dominé par une population masculine" 15% femmes et 85% d'hommes
 - Plus les propositions d'ateliers seront diverses, plus le public le sera aussi.
 - Une fois sur place ils et elles ont pu s'initier à d'autres activités.
 - On peut demander au public ce qu'ils aimeraient voir et faire avec un sondage en ligne.
 
-Le fablab de la Cité des Sciences  et de l'Industrie et son wiki
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le fablab de la Cité des Sciences  et de l'Industrie et son wiki (p. 45)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - utilisation de docuwiki pour documenter les projets (do-ocratie)
 - l'une des tâches des médiateurs et médiatrices est l'intermédiation pour faciliter l'apprentissage par les pairs
 - préconise l'usage du Creative Commons, l'auteur-e reste auteur-e de plein droit
 
-From bits to atoms
-^^^^^^^^^^^^^^^^^^
+From bits to atoms (p. 51)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. important:: TODO
+...  note:: Pas d'information à retenir.
 
 -------------------------------------------------
 
 Fabriquer à la bibliothèque
 ---------------------------
 
-Pourquoi installer un Espace de Création Numérique à la bibliothèque ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pourquoi installer un Espace de Création Numérique à la bibliothèque ? (p. 59)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - "Lorsque le territoire est déjà doté d'un vrai fablab, il ne s'agit pas d'offrir des services redondants, mais surtout d'être complémentaire.
 - "Bad Librariebuild collections. Good librarie build services. Great libraries build Communities" - David Lankes
-- Les mauvaises bibliothèques construisent des collections, les bonnes bibliothèques construisent des services, les super bibliothèques construisent des communauté. (page 62)
+- Les mauvaises bibliothèques construisent des collections, les bonnes bibliothèques construisent des services, les super bibliothèques construisent des communautés. (page 62)
 - Certains dispositifs ponctuels permettent de faire découvrir au plus grand nombre ce qui se joue dans les fablabs à travers un événement festif et ludique après la découverte et l'initiation, tout semble en place pour que dans un 3e temps les usagers puissent développer leurs propres projets [...].
 - Il sera temps de passer la main au fablab de quartier ou de la ville.
 
@@ -222,27 +211,27 @@ On apprend mieux quand:
 - nous nous donnons le droit de nous tromper
 - quand le lieu est convivial
 
-Des CDI aux tiers lieux : l'évolution des fonctions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Des CDI aux tiers lieux : l'évolution des fonctions (p. 67)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Premier lieu: chez soi
 - Second lieu: travail
 - Troisième lieu: un lieu qui permet aux habitants d'une collectivité de se réunir de façon conviviale
 - Tiers lieu: ajoute une dimension de création, un processus de conception partagé
 
-Une pratique clé identifiée dans les tiers lieux : celle de la documentation. Documenter pour faire un patrimoine d'informationcomun qui permette à la population qui ne peut pas venir dans le tiers lieu de se réapproprier ce qui y est conçu.
+Une pratique clé identifiée dans les tiers lieux : celle de la documentation. Documenter pour faire un patrimoine d'informations en commun qui permette à la population qui ne peut pas venir dans le tiers lieu de se réapproprier ce qui y est conçu.
 
 L'esprit de collaboration et l'horizontalité y sont maîtres, les élèves qui maîtrisent une technique sont encouragés à la transmettre à leurs camarades et aux professeurs, ce qui redonne confiance aux élèves en difficulté.
 
 Les élèves n'ont souvent, pas envie de passer de la manipulation à l'écrit et de se mettre à la place des autres utilisateurs ayant besoin d'information. L'éducation des élèves et usagers à une culture et une philosophie maker est aussi destinée à leur faire percevoir l'intérêt de la constitution d'un fonds commun, et donc à motiver leurs pratiques de documentation.
 
-Des lieux de création à l'université ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Des lieux de création à l'université ? (p. 75)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le gamelab à l'université de Paris 5 est un laboratoire ouvert étudiant les usages ludiques et concevant à la fois des serious games, des escape games ou des jeux de plateau.
 
-BibLab : promouvoir la création numérique en ruralité
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BibLab : promouvoir la création numérique en ruralité (p. 81)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Depuis 2016 la Direction de la Lecture Publique (DLP) du Loir-et-Cher organise le `Festival numérique Vagabondag(e)s <http://lecture41.culture41.fr/bib-41/festival-numerique-vagabondag-e-s/1104-vagabondag-e-s-edition-2019>`_.
 
@@ -273,8 +262,8 @@ Ainsi, en plus des formations thématiques proposées dans son programme annuel,
 
 Chaque fois les ateliers sont préparés et animés en coordination avec les bibliothèques et avec les partenaires locaux tels que les maisons des jeunes, les centres sociaux, les associations et bien sûr les fablabs. Le tout dans une ambiance toujours conviviale autour par exemple d'un *petit-déjeuner numérique*.
 
-L'impression 3D à la médiathèque-ludothèque de Chassieu
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+L'impression 3D à la médiathèque-ludothèque de Chassieu (p. 87)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 En novembre 2015, le projet d'acquisition d'une imprimante 3D voit le jour [...] L'achat doit en théorie permettre de proposer des animations autour de la modélisation et de l'impression 3D, mais elle est également considérée au quotidien comme un outil internet pour toute l'équipe : le remplacement des pièces de jeu abîmées de la ludothèque, l'impression de matériel pour les tablettes (fixation, pieds...) ou l'utilisation de l'impression 3D en support d'autres animations (impression de trophées).
 Le chois se porte sur une imprimante fabriquée en France, qui bénéficie d'un bon service après-vente, et dont le coût est abordable (400 euros).
@@ -284,7 +273,7 @@ Au départ l'équipe n'était pas familière avec l'impression 3D ni avec la mod
 
 il faut absolument avoir la motivation pour dépanner la machine. Nous avons parfois pu passer plusieurs heures sur une buse bouchée ou un plateau déréglé.
 
-- `Le carnet de Marguerite (Journal de la prise en main de l’imprimante 3d Dagoma DiscoEasy) <https://mediathequemargueriteduras.wordpress.com/2017/08/09/journal-de-la-prise-en-main-de-limprimante-3d-dagoma-discoeasy/`_.
+- `Le carnet de Marguerite (Journal de la prise en main de l’imprimante 3d Dagoma DiscoEasy) <https://mediathequemargueriteduras.wordpress.com/2017/08/09/journal-de-la-prise-en-main-de-limprimante-3d-dagoma-discoeasy/>`_
 
 Le premier atelier: modélisation 3D et impression, sur une thématique choisie.
 Les premiers ateliers étaient destinés à tous et toutes, mais les premier-ères inscrit-es étaient majoritairement des enfants. En pratique, leurs parents étaient extrêmement curieux du fonctionnement.
@@ -302,8 +291,8 @@ L'objectif est de permettre à tous-tes de s'approprier ce nouveau service, en m
 
 Dès septembre 2019, nous proposerons régulièrement des ateliers de modélisation, des projets scolaires à envisager autour de création de jeu avec la ludothèque, un partenariat avec le centre de loisirs pendant les vacances scolaires, des projets communs à envisager en partenariat avec d'autres services de la mairie.
 
-Le collège, la médiathèque et le fablab
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le collège, la médiathèque et le fablab (p. 93)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La question numérique est aujourd'hui au coeur de la vie des citoyens : généralisation des démarches administratives en ligne pour des structures socio-économiques (CAF, pôle-emploi, sécurité sociale), intégration dans les programmes scolaires de la programmation, du coding, du coding et de la robotique, multiplication des outils numériques comme les smartphones, tablettes ou outils robotisés (voitures, maisons, appareils connectés).
 
@@ -319,8 +308,8 @@ La bibliothèque trouve dans le makerspace une nouvelle expression de la diffusi
 - Création de jeux vidéo. Utilisation du logiciel de programmation utilisé en grande partie dans l'éducation nationale (Scratch) et d'une plateforme de tutoriels (Google CS first). Des ateliers de création vidéo (dessins, interactivité, musique, bruitages, scénario, etc), en utilisant tous les logiciels, gratuits (Blender, Gimp, Audacityà ;
 - Découpe vinyle. Réalisation de productions plastiques grâce à la technique du Scrapbooking, création de magnets ou de tatouages.
 
-Le fablab de la médiathèque Brossard (Québec, CA)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le fablab de la médiathèque Brossard (Québec, CA) (p. 103)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il y a un immense potentiel de collaboration entre l'équipe fablab et médiathèque, mais l'absence d'objectifs communs explicités, une division des tâches stricte et la faiblesse des liens de communication déployés créent deux mondes quasi hermétiques au niveau organisationnel.
 
@@ -331,8 +320,8 @@ L'essence participative et collaborative des fablabs est parfois difficile à sa
 Repenser notre posture professionnelle
 --------------------------------------
 
-Et le bibliothécaire dans tout ça ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Et le bibliothécaire dans tout ça ? (p. 109)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La question de la présence d'espaces créatifs numérique en bibliothèque change-t-elle la nature même de nos établissements ? La question peut paraître légitime (le bibliothécaire argue qu'il n'a pas été formé pour ça) est en droit de se demander si TOUT cela a bien sa place en bibliothèque.
 On peut lui répondre que les bibliothèques sont depuis toujours le lieu des savoirs (littéraires, théorique et livresques), mais également celui des apprentissages.
@@ -351,8 +340,8 @@ http://www.abf.asso.fr/4/139/434/ABF/commission-fablab-presentation?p=2 (p. 113)
 
 Un des projets, la borne de rétrogaming: https://cyrzbib.net/2017/02/04/operation-jaja-box-1ere-partie/
 
-Une bibliothécaire formée au fablab
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Une bibliothécaire formée au fablab (p. 117)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le Fablab propose deux formations diplômantes: initiation à la fabrication numérique et facilitateur permettant de devenir fabmanager-euse.
 
@@ -377,8 +366,8 @@ L'esprit Lab:
 - La pensée réseau (s'appuyer sur une communauté)
 - L'ouverture (accueil du public dans toute sa diversité, l'ouverture d'esprit, la recherche du dialogue, l'écoute active, l'attention portée à autrui)
 
-Les Mallapixels : un dispositif mobile de formation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les Mallapixels : un dispositif mobile de formation (p. 125)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le Mallapixels est un laboratoire de fabrication itinérant et artistique à destination des acteurs culturels du Val-de-Marne, principalement les établissements de lecture publique, qui leur permet de s'initier puis de développer leur créativité numérique.
 Chaque outil/matériel mis à disposition est toujours associé à une intention artistique.
@@ -391,8 +380,8 @@ Les fabriques permettent de découvrir, de s'initier aux outils et de pouvoir re
 
 À ce jour, nous avons mis en place des Fabriques autour des thématiques suivantes: la table mashup, l'impression 3D, l'escape game, la boîte à histoire (Arduino), la découpeuse vinyle, la réalité augmentée (Aurasma), la réalité virtuelle (casque 3D), Dualo Touch.
 
-Le problème avec la documentation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le problème avec la documentation (p. 129)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Les points communs entre les fablabs et bibliothèques: partage - savoir - documentation.
 
@@ -414,8 +403,8 @@ Le wiki du `Carrefour Numérique <http://carrefour-numerique.cite-sciences.fr/fa
 
 Vers un modèle: curation (sources), co-création, participation et partage de la documentation créer à l'issue du projet.
 
-Le fabdocumentatliste est-il le nouveau bibliothécaire ?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le fabdocumentatliste est-il le nouveau bibliothécaire ? (p. 135)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Au sein des fablabs, les usagers de ce type de lieu ont plutôt tendance à diffuser leurs savoirs et leurs expériences par l'oralité, au cours d'ateliers d'initiation ou d'échanges informels lors de rencontre sur place, que par l'écrit.
 
@@ -440,8 +429,8 @@ Ils établissent une fiche de poste, la mission globale est: promouvoir la docum
 - Mission 3: organiser des événements et des actions autour de la documentation ;
 - Mission 4: organiser et diffuser la documentation auprès de la communauté locale et des communautés extérieures.
 
-Le design au service de la documentation des activités
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le design au service de la documentation des activités (p. 141)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `do•doc <https://latelier-des-chercheurs.fr/outils/dodoc>`_
 
@@ -452,8 +441,8 @@ Le design au service de la documentation des activités
 Développer une offre de service et d'atelier
 --------------------------------------------
 
-La recette (magique) pour inventer son Espace de Création Numérique en bibliothèque
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La recette (magique) pour inventer son Espace de Création Numérique en bibliothèque (p. 151)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - L'usager est au centre : partir des besoins sur le terrain et des usages observés
 - Ouvrir plus, pas que les horaires ! Décloisonner les structures et les méthodes.
@@ -463,8 +452,8 @@ La recette (magique) pour inventer son Espace de Création Numérique en bibliot
 - Expérimenter différents dispositifs dédiés innovants co-construits : des espaces mobiles, ponctuels ou pérennes
 - Créer une communauté d'intérêts : partager sur place et en ligne
 
-Combien ça coûte ?
-^^^^^^^^^^^^^^^^^^
+Combien ça coûte ? (p. 155)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Pour un fablab éducatif, l'investissement est de 2000 dollars. Ce fablab spécifique se distingue par ses objectifs pédagogiques visant à amener les gens à apprendre la fabrication numérique.
 
@@ -477,8 +466,8 @@ Fablab Facotry propose un pack pour 5000 euros:
 - Kit Steam: `SAM Labs <https://samlabs.com/us/>`_
 - Kit code and robotique: `Strawbees <https://strawbees.com/?wgu=280085_206617_1597087321366_8d7f380841&wgexpiry=1604863321&source=webgains&siteid=206617>`_
 
-L'équipement des fablabs
-^^^^^^^^^^^^^^^^^^^^^^^^
+L'équipement des fablabs (p. 159)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Description complète des appareils page 159.
 
@@ -516,7 +505,7 @@ La découpeuse laser peut également être utilisée en mode gravure. Cette fonc
 **Inconvénients:** ce sont des outils coûteux (de 15 à 40 000 environ), elles sont donc réservées à des ECN de taille critique. De plus, elles nécessitent un entretien relativement rigoureux et parfois complexe. Les fumées issues de la combustion des matériaux impliquent l'utilisation d'un filtre ce qui pose un certain nombre de contraintes en termes d'espaces et d'installation. L'utilisation de ces machines doit donc être particulièrement encadrée.
 Malgré ces inconvénients, la découpeuse laser reste la reine des fablabs.
 
-** Ressources:** le wiki dyu Carrefour Numérique est particulièrement intéressant concernant l'utilisation de la découpe laser dans un ERP.
+**Ressources:** le wiki du Carrefour Numérique est particulièrement intéressant concernant l'utilisation de la découpe laser dans un ERP.
 
 Plotter de découpe ou découpeuse vinyle
 +++++++++++++++++++++++++++++++++++++++
@@ -542,15 +531,15 @@ L'électronique dans les ECN repose fréquemment sur l'utilisation de cartes pro
 
 Ces cartes et leurs composants peuvent donc être programmés pour réaliser une infinité de projets plus ou moins technique. Il peut s'agir de fabriquer des robots, un compteur pour la fréquentation de la bibliothèque, une bibliobox, etc.
 
-La Fabrique : un espace de fabrication numérique intégré au projet de l'établissement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La Fabrique : un espace de fabrication numérique intégré au projet de l'établissement (p. 173)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La fabrique peut accueillir 8 personnes maximum lors des animations. Elle est mise en avant via des ateliers récurrents animés par deux bibliothécaires, formés sur le tas.
+La fabrique peut accueillir huit personnes maximum lors des animations. Elle est mise en avant via des ateliers récurrents animés par deux bibliothécaires, formés sur le tas.
 Deux ateliers sont proposés, tous les quinze jours. Un le mardi soir, un le samedi après-midi. Ces ateliers de deux heures se focalisent sur une machine et sur la conception d'un objet. Ils sont à destination d'un public ado-adulte, et son gratuit.
-Des animations ont lieu pendant les vacances scolaires, à destination d'un public jeunesse. De la même façon, chaque atelier se centre sur une machine, mais avec de susgares plus ludiques que pour les adultes.
+Des animations ont lieu pendant les vacances scolaires, à destination d'un public jeunesse. De la même façon, chaque atelier se centre sur une machine, mais avec des usages plus ludiques que pour les adultes.
 
 Les machines sont également accessibles en dehors des temps d'animations. Pour cela, les habitants doivent avoir un Permis Machine. L'obtention de ces permis se fait en ayant suivi un atelier avec les bibliothécaires, puis en répondant à un questionnaire en ligne: https://madeinlafabrique.wordpress.com/
-Seuls les consommables sont à fournir par l'utilisateur. L'accès se fait pour le moment sur des créneaux identifiés qui correspondent à des moments de faible et moyenne affluence, où les bibliothécaires sont plus disponibles pour accompagner l'utilisateur.
+seuls les consommables sont à fournir par l'utilisateur. L'accès se fait pour le moment sur des créneaux identifiés qui correspondent à des moments de faible et moyenne affluence, où les bibliothécaires sont plus disponibles pour accompagner l'utilisateur.
 
 Retour après un an
 ++++++++++++++++++
@@ -560,8 +549,8 @@ Retour après un an
 - La découpeuse a rencontré un vif succès, surtout auprès d'un public de scrapbookers pour qui la pratique du papier découpé est déjà ancrée.
 - La brodeuse est la machine qui a eu le plus de succès, et qui est paradoxalement la plus complexe à utiliser.
 
-Le labo : le projet de laboratoire d'innovation numérique de la future médiathèque communautaire de Sainte-Geneviève-des-Bois
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le labo : le projet de laboratoire d'innovation numérique de la future médiathèque communautaire de Sainte-Geneviève-des-Bois (p. 177)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Notre projet nu;2riaue se décline en quatre axes, qui ont d'emblée été liés avec les usages que nous retrouvons déjà au dessin des bibliothèques :
 
@@ -570,8 +559,8 @@ Notre projet nu;2riaue se décline en quatre axes, qui ont d'emblée été liés
 - Échanger: la médiation autour des outils numériques se placera dans un contexte d'échanges et de troc des compétences. Les tournois de jeux vidéo seront l'occasion d'échanges entre passionnés et grands débutants, mais également avec d'autres équipes jouant dans d'autres bibliothèques.
 - Se former: la future médiathèque proposera des formations régulières sur l'utilisation des outils informatiques (création d'une adresse mail, première utilisation d'un ordinateur, d'une tablette) ou sur des compétences plus avancées (formation sur la protection de la vie privée sur internet, logiciels libres, etc).
 
-La Capsule : un espace pédagogique et créatif de la BU du Havre
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+La Capsule : un espace pédagogique et créatif de la BU du Havre (p. 185)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Trois zones dans le learning lab:
 
@@ -583,8 +572,8 @@ Donner un nom (la Capsule) a permis de communiquer sur l'espace et les activité
 
 L'espace est prisé pour des enseignements variés, des rencontres associatives, des ateliers Wikipedia organisés entre pairs, des moments de vulgarisation scientifique, de la formation continue, des speeddating entrepreneuriaux, les réunions des bibliothécaires, des escapes games, des cafés pédagogiques en lien avec des MOOCs.
 
-Le bibliofab : faire entrer le monde des makers dans les bibliothèques
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le bibliofab : faire entrer le monde des makers dans les bibliothèques (p. 193)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le BiblioFab est un dispositif mobile dont l'objectif est de rendre accessible l'univers des fablabs au plus grand nombre. Por se faire, le BiblioFap rempli trois fonctions : découvrir, fabriquer et exposer.
 
@@ -602,8 +591,8 @@ Le BiblioFab répond à trois objectifs : présenter des projets réalisés dans
 
 Une imprimante et un ordinateur sont à disposition des bibliothécaires afin d'animer des ateliers d'impression 3D. Des initiations sont donc proposées aux usagers qui, une fois formés, pourront développer leurs propres projets.
 
-L'atelier : un laboratoire de création au coeur de la médiathèque
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+L'atelier : un laboratoire de création au coeur de la médiathèque (p. 199)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 En 2015, une personne sur deux entrant à la médiathèque n'y venait plus pour emprunter. Travailler, se former, jouer, créer, découvrir était devenue des usages légitimes du lieu. Le bâtiment vieillissant, les espaces peu adaptés à leur utilisation réelle, l'évolution des usages, des outils et de l'offre nécessitaient l'écriture d'un projet de service actualisé.
 
@@ -637,8 +626,8 @@ Animations:
 - un stage de quatre jours toutes les vacances scolaires (exposition photo, construction d'une borne d'arcade, réalisation de courts métrages, etc) ;
 - prestations et interventions extérieures au fil de la saison (plasticiens, illustrateurs, associations de la ville, etc.).
 
-Ce que les bibs apportent aux labs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ce que les bibs apportent aux labs (p. 207)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Besoin des fablabs:
 

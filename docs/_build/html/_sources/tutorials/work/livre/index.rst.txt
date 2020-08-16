@@ -182,7 +182,7 @@ Le fablab de la Cité des Sciences  et de l'Industrie et son wiki (p. 45)
 From bits to atoms (p. 51)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-...  note:: Pas d'information à retenir.
+..  note:: Pas d'information à retenir.
 
 -------------------------------------------------
 

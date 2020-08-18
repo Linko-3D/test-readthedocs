@@ -1,8 +1,8 @@
 Veille technologique été 2020 - Danyl
 =====================================
 
-Logiciels
----------
+Logiciels/développement
+------------------------
 
 - ZBrushCoreMini logiciel gratuit avec tous les outils essentiels pour la sculpture, il sera utilisé en sculpture organique.
 
@@ -10,7 +10,7 @@ Logiciels
 
 .. image:: zbrush.jpg
 
-- Godot 4.0 supportera cette année avec des avancés notable sur le rendu graphique. Il utilise Python. Le moteur pourrait être utilisé pour créer des jeux 3D: https://youtu.be/MbCVixMSDvo
+- Godot 4.0 apporte des avancés notables sur le rendu graphique. Il utilise un langage proche de Python. Le moteur pourrait être utilisé pour créer des jeux 3D: https://youtu.be/MbCVixMSDvo
 
 .. note:: Gratuit: https://godotengine.org/
 
@@ -58,7 +58,7 @@ Simulation
 
 .. image:: f-gt_lite.png
 
-- Alternative à la VR pour le simulateur, Samsung C49HG90DMU FreeSync (dalle incurvée): https://youtu.be/BPaL_Mp9HK4
+- Alternative à la VR pour le simulateur et d'autres jeux en immersion, Samsung C49HG90DMU FreeSync (dalle incurvée): https://youtu.be/BPaL_Mp9HK4
 
 .. note:: Prix 899 euros: https://www.topachat.com/pages/detail2_cat_est_peripheriques_puis_rubrique_est_w_moni_puis_ref_est_in10111427.html
 
@@ -67,7 +67,7 @@ Simulation
 Si évolution du projet du simulateur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- AccuForce Pro V2: Le meilleur rapport qualité prix pour un volant à technologie Direct Drive, seul problème il est bruyant (attendre pour une version au dessus): https://youtu.be/g-XCq4fMekc
+- AccuForce Pro V2: Le meilleur rapport qualité prix pour un volant à technologie Direct Drive, seul problème il est bruyant (attendre pour une version au-dessus): https://youtu.be/g-XCq4fMekc
 
 .. note:: Prix 999 dollars https://simxperience.com/products/accessories/accuforcesteering/accuforcepro.aspx
 

@@ -32,12 +32,9 @@ Lexique
 
 - ECN: Espace de Création Numérique
 
-- Fork: un fork (terme anglais signifiant "fourche", "bifurcation", "embranchement") est un nouveau logiciel créé à partir du code source d'un logiciel existant lorsque les droits accordés par les auteurs le permettent: ils doivent autoriser l'utilisation, la modification et la redistribution du code source.
-C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres.
+- Fork: un fork (terme anglais signifiant "fourche", "bifurcation", "embranchement") est un nouveau logiciel créé à partir du code source d'un logiciel existant lorsque les droits accordés par les auteurs le permettent: ils doivent autoriser l'utilisation, la modification et la redistribution du code source. C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres.
 
 - Littératie numérique: La littératie numérique résulte de la juxtaposition des termes « littératie » et « numérique ». Elle se définit en deux temps. La littératie, est définie par l’OCDE comme étant « l’aptitude à comprendre et à utiliser l’information écrite dans la vie courante, à la maison, au travail et dans la collectivité en vue d’atteindre des buts personnels et d’étendre ses connaissances et ses capacités »1. Le terme « numérique » est un terme polysémique. Il recouvre plusieurs notions : l’informatique, la technologie, l’information, le visuel et la communication. La littératie numérique s’apprécie comme la capacité d’un individu à participer à une société qui utilise les technologies de communication numériques dans tous ses domaines d’activité. https://fr.wikipedia.org/wiki/Litt%C3%A9ratie_num%C3%A9rique
-
--DIWO: Do It With Other
 
 - Design Thinking: Le design thinking (littéralement « penser le design »), en français démarche design ou conception créative, est une méthode de gestion de l'innovation. Il se veut une synthèse entre pensée analytique et pensée intuitive. Il fait partie d'une démarche globale appelée design collaboratif. Il s'appuie en grande partie sur un processus de co-créativité impliquant des retours de l'utilisateur final. Contrairement à la pensée analytique, le design thinking est un ensemble d’espaces qui s’entrecroisent plutôt qu’un processus linéaire ayant un début et une fin. https://fr.wikipedia.org/wiki/Design_thinking
 
@@ -47,11 +44,13 @@ Pour être fablab la charte du MIT doit être respectée.
 
 - Repair Café/Repair Goûté: Un repair café (littéralement café de réparation) est un atelier consacré à la réparation d'objets et organisé à un niveau local sous forme de tiers lieu, entre des personnes qui habitent ou fréquentent un même endroit (un quartier ou un village, par exemple). https://fr.wikipedia.org/wiki/Repair_Caf%C3%A9
 
-DIY: Do It Yourself (faire par soi-même)
+- DIY: Do It Yourself (faire par soi-même)
 
-Learning-by-doing: Apprendre en faisant
+- DIWO: Do It With Other
 
-Lifelong Learning: l'éducation tout au long de la vie
+- Learning-by-doing: Apprendre en faisant
+
+- Lifelong Learning: l'éducation tout au long de la vie
 
 -----------------------------------
 

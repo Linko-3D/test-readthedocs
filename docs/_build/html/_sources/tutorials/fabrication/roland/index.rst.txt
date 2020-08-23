@@ -1,6 +1,8 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
+.. important:: Le logiciel n'est pas compatible avc le format .SVG.
+
 Todo page a3
 
 Support type piece = feuille
@@ -26,6 +28,13 @@ https://youtu.be/rDKMNXHu_D4
 Tuto fr: https://youtu.be/5QEwoK2yzP0
 
 Lame la moitié de la longueur d'une carte de crédit, soit environ 2 mm.
+
+
+.. important:: Utiliser 3 mm de profondeur pour la lame.
+
+Le levier doit être vers le haut pour que les rouleaux touchent le vinyle.
+
+
 Clockwise extends blade
 Counterclockwise retracts blade
 

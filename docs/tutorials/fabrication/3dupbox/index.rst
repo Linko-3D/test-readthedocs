@@ -33,7 +33,7 @@ Liens
 - `Site officiel <https://www.tiertime.com/up-box-plus/>`_
 - `Vidéo démarrage rapide <https://youtu.be/QgTA9QPbbdM>`_
 - `Documentation officielle <https://3dprintingsystems.com/download/UP_BOX+_Manual_4.8_EN.pdf>`_
-- `Forum officiel <https://forum.tiertime.com/c/up-box-up-box/15`_
+- `Forum officiel <https://forum.tiertime.com/c/up-box-up-box/15>`_
 - `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
 
 Matériel

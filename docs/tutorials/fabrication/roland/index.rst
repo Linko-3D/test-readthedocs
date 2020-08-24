@@ -1,6 +1,8 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
+
+
 .. important:: Le logiciel n'est pas compatible avc le format .SVG.
 
 Todo page a3
@@ -50,6 +52,7 @@ Logiciels
 ---------
 
 - `Driver <https://startup.rolanddg.com/RDG_DataFiles/CAMM1/Roland_CAMM-1_Driver.zip>`_
+- 
 
 Utilisation
 -----------
@@ -58,7 +61,6 @@ Utilisation
 .. image:: a4.png
 
 
-.. important:: Ne pas brancher la machine au PC si le driver n'est pas installé, sinon il sera plus possible de l'utiliser.
 
 .. note:: Pour régler la langue maintenez le bouton menu et pressez le bouton d'allumage.
 

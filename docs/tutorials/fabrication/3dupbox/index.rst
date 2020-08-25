@@ -36,6 +36,9 @@ Liens
 - `Forum officiel <https://forum.tiertime.com/c/up-box-up-box/15>`_
 - `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
 
+
+
+
 Matériel
 --------
 
@@ -53,7 +56,6 @@ Récupérer un modèle sur internet
 
 .. note:: Les fichiers sont généralement compressés dans un fichier au format .zip, pour utiliser son contenu double-cliquez dessus puis glissez les fichiers à l'intérieur dans un dossier préalablement créé dans l'ordinateur.
    Vous pouvez ne décompresser que les fichiers .stl, ce sont les modèles 3D.
-
 
 Utilisation
 -----------

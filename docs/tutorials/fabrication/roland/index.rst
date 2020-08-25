@@ -1,8 +1,6 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
-
-
 .. important:: Le logiciel n'est pas compatible avc le format .SVG.
 
 Todo page a3
@@ -11,7 +9,7 @@ Support type piece = feuille
 
 Maintenir le bouton Origin pour indiquer le point d'origine (le coin)
 
-Mettre force à 80
+Mettre force 100-120 g/f, pas plus sinon trou au travers le vinyle
 Vitesse à 35 cm/s
 Régler dans Menu, puis Condition
 
@@ -52,15 +50,16 @@ Logiciels
 ---------
 
 - `Driver <https://startup.rolanddg.com/RDG_DataFiles/CAMM1/Roland_CAMM-1_Driver.zip>`_
-- 
 
 Utilisation
 -----------
 
+Pour éditer une forme, sélectionnez là puis faits clic droit > Convertir en polyligne.
+
+Pour ajouter de l'épaisseur aux lignes (offset), sélectionner la forme puis faire Objet > Décalage..., choisir entre Intérieur et Extérieur.
+La valeur d'intérieur est limitée pour éviter les croisements.
 
 .. image:: a4.png
-
-
 
 .. note:: Pour régler la langue maintenez le bouton menu et pressez le bouton d'allumage.
 

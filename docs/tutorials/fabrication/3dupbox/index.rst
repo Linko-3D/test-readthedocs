@@ -36,9 +36,6 @@ Liens
 - `Forum officiel <https://forum.tiertime.com/c/up-box-up-box/15>`_
 - `FAQ <https://www.a4.fr/wiki/index.php?title=FAQ_Imprimantes_3D_TIERTIME>`_
 
-
-
-
 Matériel
 --------
 

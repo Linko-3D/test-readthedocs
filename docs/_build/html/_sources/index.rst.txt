@@ -8,13 +8,6 @@ Documentation du matériel numérique de la Médiathèque Départementale de l'E
 
 16907
 
-- **18 juin point dossier Danyl de 10h à 12h (achats et proposition mise en avant du lab sur le site de la MDE)**
-- 19 juin 10h à 12h réunion secteur numérique sur les grands dossiers et priorités de chacun
-- 22 juin réunion de service toute la médiathèque 9h 30 à 12h
-
-- congé lundi 13 juillet
-
-   - Validation autres congés
    
 - 25/09 9h 30 à 17h Ateliers Lab semi-ruralité 9h 30 à 12h30 et grande ruralité 14h à 17h à Chamarande - Tout de la Gruue Jaune
 
@@ -90,6 +83,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/work/reunion/index.rst
    /tutorials/work/livre/index.rst
    /tutorials/work/veille/index.rst
+   /tutorials/work/semaine_numerique/index.rst
 	
 .. toctree::
    :maxdepth: 2

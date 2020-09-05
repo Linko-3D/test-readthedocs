@@ -1,5 +1,5 @@
-Questions
-=========
+Bases du fonctionnement du Lab itinérant
+========================================
 
 - "Des outils en fabrication numériques seront prêtés" et "un accompagnement sera réalisé" (page 28). Une compétence pédagogique secondaire qui devra être détenue par ceux qui animeront les cours.
 

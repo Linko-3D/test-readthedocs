@@ -1,10 +1,16 @@
 _____Stylo 3D: 3Doodler Start
 =============================
 
+Fonction
+--------
+
+Le 3Doodler est un stylo faisant fondre du plastique. Il est possible avec de dessiner des formes à plat et en 3 dimensions.
+
+Liens
+-----
+
 - `Site officiel <https://learn.the3doodler.com/getting-started/start/>`_ 
 - `Idées de projets <https://learn.the3doodler.com/resources/>`_ 
-
-Le 3Doodler est un stylo qui fait fondre du plastique pendant avec lequel vous effectuez des gestes avec afin de créer des motifs à plat ou en 3 dimensions.
 
 Matériel
 --------
@@ -19,34 +25,50 @@ Aucun logiciel n'est requis.
 Utilisation
 -----------
 
-Rechargez le 3Doodler en le branchant par USB à un ordinateur ou à la prise d'un chargeur de smartphone. La diode clignote en orange pendant la recharge et reste allumée en orange quand une fois le stylo chargé.
+Préparation du matériel
+^^^^^^^^^^^^^^^^^^^^^^^
 
-.. note:: Il faut compter environ 2h à 2h 30 pour recharger le 3Doodler Start.
+Rechargez le 3Doodler en le branchant par USB à un ordinateur ou à la prise d'un chargeur de smartphone.
 
-Débranchez le 3Doodler et mettez l'interrupteur sur On. La diode sera allumée en rouge pendant la chaufffre, une fois à température elle sera verte.
+
+.. note:: - La diode clignote en orange pendant la recharge et reste allumée en orange une fois chargée.
+ - Il faut compter environ 2h à 2h 30 pour recharger le 3Doodler Start.
+
+.. important:: Il faut anticiper la recharge avant les ateliers.
+
+Pour l'utiliser, débranchez le 3Doodler et mettez l'interrupteur sur On. La diode sera allumée en rouge pendant la chauffe. Une fois à température la lumière sera verte.
+
 Le stylo prêt:
 
 .. image:: pret.png
 
-Mettez un filament spécialement conçu pour le 3Doodler.
+Insérez le filament spécialement conçu pour le 3Doodler (en forme de petites pailles).
 
-.. attention:: Le stylo ne fonctionne pas avec le filament d'imprimantes 3D car la température du 3Doodler n'est pas assez élevé pour le faire fondre.
+.. attention:: - Le stylo ne fonctionne pas avec le filament d'imprimantes 3D, car la température du 3Doodler n'est pas assez élevée pour le faire fondre.
+ - Le plastique se consomme très rapidement et est onéreux. Réfléchissez d'abord à votre création avant de la commencer.
+ - Il sera important de donner l'appareil qu'après avoir expliqué son fonctionnement, de surveiller son utilisation et de distribuer soit même le filament.
 
-.. attention:: Le plastique se consomme très rapidement et est onéreux. Il sera important de ne donner l'appareil qu'après avoir expliqué son fonctionnement, de surveillé son utilisation et de distribuer soit même le filament.
+Créez avec le stylo
+^^^^^^^^^^^^^^^^^^^
 
-Appuyez une fois sur le bouton orange pour pousser le plastique, une autre fois pour arrêter.
+Appuyez une fois sur le bouton orange pour pousser le plastique et une autre fois pour l'arrêter.
 
 Extrusion du plastique: .. image:: extrusion.png
 
 Appuyez deux fois pour retirer le plastique.
+Appuyez deux fois pour retirer le plastique.
 
-Quelques conseils
------------------
+Conseils
+--------
 
-- si le plastique ne sort pas, vous pouvez le pousser au début avec une tige métallique.
+- pour les formes en volume, réaliser plutôt le patron à plat puis plier et renforcer les bords pour créer du volume.
+- pour créer votre forme directement en volume tracez votre création lentement, il faut compter environ 35 secondes pour que le plastique devienne solide.
+
+Maintenance
+-----------
+
+- si le plastique n'est pas extrudé (ne sors pas par l'embout du stylo), vous pouvez le pousser au début avec une tige métallique.
 
 .. image:: pousser_filament.png
 
-- le plastique est difficile à retirer, il vous faudra peut être secouer le stylo pour le faire tomber.
-- Pour créer des formes en volume il faut compter environ 35 secondes pour que le plastique devienne solide.
-- Pour les formes en volumes, réalisés plutôt le patron à plat et plier les fores pour créer du volume.
+- si le plastique est difficile à retirer, il vous faudra peut être secouer le stylo pour le faire tomber.

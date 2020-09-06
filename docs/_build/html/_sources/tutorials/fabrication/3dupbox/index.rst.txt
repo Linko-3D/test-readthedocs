@@ -185,7 +185,7 @@ Maintenance et messages d'erreur
 
 **Error: Insufficient Material**
 
-Si l'imprimante indique qu'il n'y a pas assez de filaments lorsque vous cliquez sur Print, modifiez manuellement la quantité de filaments. L'imprimante calcule le filament consommé, mais ne prend pas en compte le changement de bobine.
+Si l'imprimante indique qu'il n'y a pas assez de filaments lorsque vous cliquez sur Print, modifiez manuellement la quantité de filament. L'imprimante calcule le filament consommé, mais ne prend pas en compte le changement de bobine.
 
 .. image:: error_material.png
 

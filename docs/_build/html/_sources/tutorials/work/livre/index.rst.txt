@@ -98,14 +98,14 @@ Le mouvement maker c'est aussi l'apprentissage convivial.
 
 Les valeurs sont communes avec les médiathèques:
 
- - accès au savoir
+- accès au savoir
 - partage de connaissances
 - développement de l'imagination et créativité
 
 -----------------------------------------------------
 
 S'inspirer : que nous apprennent les makers ?
---------------------------------------------
+---------------------------------------------
 
 De quels lieux parle-t-on ? (p. 25)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

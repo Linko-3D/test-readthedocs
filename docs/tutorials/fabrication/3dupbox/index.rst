@@ -1,7 +1,9 @@
-Imprimante 3D: 3D UP BOX+
-========================
+_____Imprimante 3D: 3D UP BOX+
+==============================
 
-TODO paramètres optimaux
+- TODO paramètres optimaux
+- TODO vérifier si 350 microns d'épaisseur des couches existes.
+- TODO dans éditer le filament vérifier comment créer un nouveau filament et s'il y a trois points pour ouvrir le menu de sauvegarde
 
 Fonction
 --------
@@ -44,7 +46,7 @@ Récupérer un modèle sur internet
 - `Thingiverse <https://www.thingiverse.com/>`_
 
 .. note:: Les fichiers sont généralement compressés dans un fichier au format .zip. Pour utiliser son contenu, double-cliquez dessus pour l'ouvrir puis glissez les fichiers à l'intérieur dans un dossier préalablement créé.
-	Vous pouvez ne décompresser que les fichiers .stl, ce sont les modèles 3D. S'il n'y a pas de ``STL`` utilisez les ``OBJ``.
+ Vous pouvez ne décompresser que les fichiers ``STL``, ce sont les modèles 3D. S'il n'y a pas de ``STL`` utilisez les ``OBJ``.
 
 Utilisation
 -----------
@@ -68,23 +70,11 @@ Vous pouvez voir sur l'image ci-dessous l'orientation de la bobine dans le sens 
 
 Remettez le couvercle magnétique en place.
 
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-TODO Utiliser plus tard pour la mise en place du filament.
-
-
-
-*Le filament ressort par le guide-fil et va dans l'extrudeur:*
-
-.. image:: guide-fil.png
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 Reliez l'imprimante en USB à l'ordinateur, branchez l'alimentation. Appuyez sur le bouton pour le mettre sur On (symbole du trait).
 
 .. image:: branchements.png
 
-Restez appuyez sur le bouton d'allumage sur le côté plusieurs secondes pour la démarrer.
+Restez appuyé sur le bouton d'allumage sur le côté plusieurs secondes pour la démarrer.
 
 .. image:: power.png
 
@@ -106,14 +96,16 @@ Allez dans maintenance et vérifiez que dans Material type le matériau soit cor
 
 .. image:: pla.png
 
-Pour mettre en place le filament dans la tête d'impression, dans le menu maintenance cliquez sur ``Extrude``. L'imprimante va chauffer jusqu'à atteindre la température configuré. Vous pouvez suivre la température actuel en haut de l'interface du logiciel. Une fois la température atteinte, la valeur sera écrite en rouge et l'imprimante émettra un son (bip sonore). Poussez le filament dans la tête d'impression. Pour retirer le filament et le changer cliquez sur ``Withdraw``.
+Pour mettre en place le filament dans la tête d'impression, dans le menu maintenance cliquez sur ``Extrude``. L'imprimante va chauffer jusqu'à atteindre la température configurée. Vous pouvez suivre la température actuelle en haut de l'interface du logiciel. Une fois la température atteinte, la valeur sera écrite en rouge et l'imprimante émettra un son (bip sonore). Poussez le filament dans la tête d'impression. Pour retirer le filament et le changer cliquez sur ``Withdraw``.
+
+.. image:: guide-fil.png
 
 Préparer une impression sur UP Studio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Changer le modèle en cliquant sur le bouton + ou glissez le fichier contenant le modèle 3D dans l'interface. Pour rappel les formats supportés sont le ``STL`` (recommandé) et ``OBJ``.
 
-Les raccourcies pour vous déplacer dans la vue 3D:
+Les raccourcis pour vous déplacer dans la vue 3D:
 
 - le ``clic gauche`` permet de tourner dans la vue 3D
 - la ``molette`` sert à avancer ou reculer
@@ -123,7 +115,7 @@ Pour manipuler le modèle 3D, la roue en haut à droite sert à orienter, dépla
 
 .. image:: roue.png
 
-Le bouton ``Auto Place`` représenté par l'icône d'une croix palce le modèle à la hauteur du plateau.
+Le bouton ``Auto Place`` représenté par l'icône d'une croix place le modèle à la hauteur du plateau.
 
 .. note:: Le modèle touche le plateau par défaut à son importation, mais il peut arriver qu'il ne soit plus en contact avec une rotation.
 
@@ -134,14 +126,48 @@ Pour doubler l'échelle, cliquez sur l'icône Scale (échelle) puis sur le numé
 .. image:: doublescale.png
 
 .. attention:: Lorsque vous faites une mise à l'échelle les dimensions sont changées sur 3 axes, en doublant l'échelle vous multipliez le temps d'impression par 2 sur l'axe X, par 2 sur l'axe Y et par 2 sur l'axe Z, vous augmenterez le temps de 2x2x2 donc l'impression prendra 8 fois plus de temps. Une impression qui prenait 1 heure en prendra 8.
-Et inversement, en cliquant sur 0.5 vous divisez par 8 le temps d'impression. L'échelle est donc le paramètre qui aura le plus d'incidence sur la durée de l'impression.
+ Et inversement, en cliquant sur 0.5 vous divisez par 8 le temps d'impression. **L'échelle est donc le paramètre qui aura le plus d'incidence sur la durée de l'impression.**
 
---------------------------------------------------------------------
+Lancer une impression
+^^^^^^^^^^^^^^^^^^^^^
+
+Cliquez sur l'icône Print, des options s'afficheront avant de lancer l'impression.
+
+.. image:: printsettings.png
+
+- Layer Thickness: c'est l'épaisseur des couches d'impression. 100-200 microns servent aux impressions détaillées comme les figurines et 200 à 350 microns pour les pièces mécaniques. Plus l'impression est épaisse moins elle prendra de temps à s'imprimer.
+- Infil: c'est le remplissage de la pièce, la valeur de 15% est la plus souvent utilisée, elle offre une bonne solidité tout en économisant du filament et temps d'impression. Les pièces soumises à des forces comme les engrenages ont besoin d'une valeur de remplissage plus élevée.
+- Quality: c'est la vitesse de déplacement de la buse, elle affecte la précision des trajectoires de l'imprimante.
+- Nozzle Offset: ce paramètre ajuste la hauteur de la buse, si cette dernière se bouche malgré la calibration, vous pouvez rapprocher la buse du plateau avec ce paramètre.
+- Unsolid Model: le logiciel ferme un modèle s'il comporte des trous. Il est recommandé de toujours l'activer.
+- No Raft: si l'option est cochée cela désactive le support sous l'impression 3D pour renforcer l'adhérence. Une pièce fine et cylindrique par exemple aura besoin d'un raft. Raft se traduit par radeau. Il est recommandé de décocher cette case pour avoir un raft.
+- No Support: désactive les supports. Il est recommandé de décocher cette case pour toujours avoir des supports surtout sur une impression qui prend du temps. La forme du modèle est son orientation vous permettent d'avoir besoin de moins de supports ou même de ne pas en avoir besoin (voir plus bas les conseils). Les supports peuvent prendre du temps à retirer et nécessiter du ponçage ensuite.
+
+Cliquez sur Preview (prévisualiser) pour voir le temps d'impression et les supports. Si l'impression est trop longue, réduisez l'échelle.
+
+Cliquez sur Print (imprimer) pour démarrer l'impression.
+
+Fonctions avancées
+------------------
+
+**Paramétrer son propre filament**
+
+Allez dans le menu ``Maintenance``, à ``Material`` > ``Types:``, sélectionnez ``Customized``.
+
+.. image:: customize.png
 
 
+Dans la fenêtre qui s'ouvre, cliquez sur ``Edit`` (vous pouvez utiliser cette fenêtre pour vérifier les différentes températures de filament et de plateau).
+
+.. image:: bouton_edit.png
+
+Cliquez en haut à gauche pour ajouter un nouveau filament, éditez ses paramètres en cliquant sur le l'icône de crayon. N'oubliez pas de sauvegarder avant de fermer la fenêtre en cliquant sur les trois petits points en haut à droite puis ``Save``.
+
+.. image:: parameters.png
 
 
-
+Conseils
+--------
 
 L'orientation va permettre d'éviter l'utilisation de supports, donc d'imprimer plus rapidement et de passer moins de temps à poncer le modèle pour lisser les surfaces.
 
@@ -150,50 +176,17 @@ Celui de droite est orienté pour que l'arrière du crâne touche le plateau ain
 
 .. image:: orientation.png
 
-Un autre exemple, sur l'image de gauche le modèle n'a besoin d'aucun support et les surfaces seront plus lisses. Sur l'image de droite, beaucoup de supports seront nécessaire et la surface sera en "escaliers". 
+Un autre exemple, sur l'image de gauche le modèle n'a besoin d'aucun support et les surfaces seront plus lisses. Sur l'image de droite, beaucoup de supports seront nécessaires et la surface sera en "escaliers". 
 
 .. image:: orientation2.png
 
-Lancer une impression
-^^^^^^^^^^^^^^^^^^^^^
+Maintenance et messages d'erreur
+--------------------------------
 
-- Preview dans printing pour voir les supports et temps. Les suports disparaissent quand on oriente le modèle (bug).
+**Error: Insufficient Material**
 
-
-
-Cliquez sur l'icône Print, des options s'afficheront avant l'impression:
-
-.. image:: printsettings.png
-
-- Layer Thickness: c'est l'épaisseur des couches d'impression, 100 microns servent aux impressions détaillées comme les figurines et 200 pour les pièces mécaniques. Plus l'impression est épaisse moins elle prendra de temps à imprimer.
-- Infill: c'est le remplissage, les pièces remplies sont celles qui sont soumises à des forces comme des engrenages.
-- Quality: c'est la vitesse de déplacement de la buse, cela affecte la précision du modèle.
-- Nozzle offset:
-- Unsolid Model: ferme un modèle s'il comporte des trous.
-- No Raft: si l'option est cochée cela désactive le support sous l'impression 3D pour renforcer l'adhérence. Une pièce fine et cylindrique par exemple aura besoin d'un raft. Raft se traduire par radeau.
-- No Support: désactive les supports. Concevoir et/ou orienter un modèle qui ne nécessite pas de support permet de gagner du temps pendant l'impression et après (découpe des supports, ponçage).
-
-.. attention:: TODO: chercher Nozzle offset et Unsolid Model.
-
-.. attention:: une fois que cela fonctionnera, parler du mode preview, chercher si indicateur de durée.
-
-Cliquez sur Print (imprimer) pour démarrer l'impression.
-
-Fonctions avancés
------------------
-
-- Montrer filament custom et comment sauvegarder
-
-.. image:: customize.png
-
-.. image:: bouton_edit.png
-
-.. image:: parameters.png
+Si l'imprimante indique qu'il n'y a pas assez de filaments lorsque vous cliquez sur Print, modifiez manuellement la quantité de filaments. L'imprimante calcule le filament consommé, mais ne prend pas en compte le changement de bobine.
 
 .. image:: error_material.png
-
-
-Maintenance
------------
 
 .. image:: remaining.png

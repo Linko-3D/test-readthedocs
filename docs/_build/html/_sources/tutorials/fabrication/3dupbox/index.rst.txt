@@ -1,7 +1,6 @@
 _____Imprimante 3D: 3D UP BOX+
 ==============================
 
-- TODO paramètres optimaux
 - TODO vérifier si 350 microns d'épaisseur des couches existes.
 - TODO dans éditer le filament vérifier comment créer un nouveau filament et s'il y a trois points pour ouvrir le menu de sauvegarde
 
@@ -38,7 +37,7 @@ Paramètres optimaux
 - Qualité: normal
 - Infill (remplissage): 15%
 - No Raft (pas de première couche d'aide à l'adhérence): décoché
-- Not Support (pas de supports): décoché
+- No Support (pas de supports): décoché
 
 Récupérer un modèle sur internet
 --------------------------------

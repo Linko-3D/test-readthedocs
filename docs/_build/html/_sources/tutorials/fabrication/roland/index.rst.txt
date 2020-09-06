@@ -1,7 +1,7 @@
 Découpeuse vinyle: Roland GS-24
 ===============================
 
-.. important:: Le logiciel n'est pas compatible avc le format .SVG.
+.. important:: Le logiciel n'est pas compatible avec le format ``SVG`` et ``AI``.
 
 Todo page a3
 

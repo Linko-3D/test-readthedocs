@@ -117,6 +117,13 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/immersion/drones/index.rst
    /tutorials/immersion/aerien/index.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Godot:
+
+   /tutorials/godot/network/index.rst
+
+
 Informations pratiques
 ----------------------
 

@@ -37,7 +37,7 @@
     
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Recherche" href="../../../search.html" />
-    <link rel="prev" title="Simulateur: Aerien" href="../../immersion/aerien/index.html" /> 
+    <link rel="prev" title="FPS" href="../fps/index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -124,6 +124,7 @@
 </ul>
 <p class="caption"><span class="caption-text">Godot:</span></p>
 <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../fps/index.html">FPS</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Network</a></li>
 </ul>
 
@@ -200,6 +201,7 @@
 
 <span class="n">func</span> <span class="n">_ready</span><span class="p">():</span>
         <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">&quot;network_peer_connected&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="p">,</span> <span class="s2">&quot;_on_network_peer_connected&quot;</span><span class="p">)</span>
+        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">&quot;network_peer_disconnected&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="p">,</span> <span class="s2">&quot;_on_network_peer_disconnected&quot;</span><span class="p">)</span>
 
 <span class="n">func</span> <span class="n">create_server</span><span class="p">():</span>
         <span class="n">var</span> <span class="n">peer</span> <span class="o">=</span> <span class="n">NetworkedMultiplayerENet</span><span class="o">.</span><span class="n">new</span><span class="p">()</span>
@@ -228,20 +230,38 @@
 
 <span class="n">func</span> <span class="n">_on_network_peer_connected</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
         <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
+
+<span class="n">func</span> <span class="n">_on_network_peer_disconnected</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
+        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">find_node</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="nb">id</span><span class="p">),</span> <span class="n">true</span><span class="p">,</span> <span class="n">false</span><span class="p">)</span><span class="o">.</span><span class="n">queue_free</span><span class="p">()</span>
 </pre></div>
 </div>
 <p>Player.gd</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">extends</span> <span class="n">KinematicBody2D</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>extends KinematicBody2D
 
-<span class="n">puppet</span> <span class="n">var</span> <span class="n">puppet_transform</span> <span class="o">=</span> <span class="n">transform</span>
+puppet var puppet_transform = transform
 
-<span class="n">func</span> <span class="n">_physics_process</span><span class="p">(</span><span class="n">delta</span><span class="p">):</span>
-        <span class="k">if</span> <span class="n">is_network_master</span><span class="p">():</span>
-                <span class="k">if</span> <span class="n">Input</span><span class="o">.</span><span class="n">is_action_pressed</span><span class="p">(</span><span class="s2">&quot;ui_right&quot;</span><span class="p">):</span>
-                        <span class="n">position</span><span class="o">.</span><span class="n">x</span> <span class="o">+=</span> <span class="mi">10</span>
-                <span class="n">rset_unreliable</span><span class="p">(</span><span class="s2">&quot;puppet_transform&quot;</span><span class="p">,</span> <span class="n">transform</span><span class="p">)</span>
-        <span class="k">else</span><span class="p">:</span>
-                <span class="n">transform</span> <span class="o">=</span> <span class="n">puppet_transform</span>
+func _ready():
+        get_tree().connect(&quot;network_peer_connected&quot;, self, &quot;_on_network_peer_connected&quot;)
+
+func _physics_process(delta):
+        if is_network_master():
+                if Input.is_action_pressed(&quot;ui_right&quot;):
+                        position.x += 10
+                rset_unreliable(&quot;puppet_transform&quot;, transform)
+                if Input.is_action_just_pressed(&quot;ui_accept&quot;):
+                        rpc(&quot;toggle_visiblity&quot;, visible)
+        else:
+                transform = puppet_transform
+
+remotesync func toggle_visiblity(status):
+        visible = !status
+
+remotesync func visiblity(status):
+        visible = status
+
+func _on_network_peer_connected(id):
+        if is_network_master():
+                rpc(&quot;visiblity&quot;, visible)
 </pre></div>
 </div>
 </div>
@@ -255,7 +275,7 @@
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
       
-        <a href="../../immersion/aerien/index.html" class="btn btn-neutral float-left" title="Simulateur: Aerien" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../fps/index.html" class="btn btn-neutral float-left" title="FPS" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   

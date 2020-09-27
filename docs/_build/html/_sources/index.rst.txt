@@ -121,6 +121,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    :maxdepth: 2
    :caption: Godot:
 
+   /tutorials/godot/fps/index.rst
    /tutorials/godot/network/index.rst
 
 

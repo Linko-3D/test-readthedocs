@@ -12,6 +12,7 @@ NETWORK.gd
 
 	func _ready():
 		get_tree().connect("network_peer_connected", self, "_on_network_peer_connected")
+		get_tree().connect("network_peer_disconnected", self, "_on_network_peer_disconnected")
 
 	func create_server():
 		var peer = NetworkedMultiplayerENet.new()
@@ -41,6 +42,10 @@ NETWORK.gd
 	func _on_network_peer_connected(id):
 		spawn_player(id)
 
+	func _on_network_peer_disconnected(id):
+		get_tree().get_root().find_node(str(id), true, false).queue_free()
+
+
 Player.gd
 
 ::
@@ -49,10 +54,25 @@ Player.gd
 
 	puppet var puppet_transform = transform
 
+	func _ready():
+		get_tree().connect("network_peer_connected", self, "_on_network_peer_connected")
+
 	func _physics_process(delta):
 		if is_network_master():
 			if Input.is_action_pressed("ui_right"):
 				position.x += 10
 			rset_unreliable("puppet_transform", transform)
+			if Input.is_action_just_pressed("ui_accept"):
+				rpc("toggle_visiblity", visible)
 		else:
 			transform = puppet_transform
+
+	remotesync func toggle_visiblity(status):
+		visible = !status
+
+	remotesync func visiblity(status):
+		visible = status
+
+	func _on_network_peer_connected(id):
+		if is_network_master():
+			rpc("visiblity", visible)

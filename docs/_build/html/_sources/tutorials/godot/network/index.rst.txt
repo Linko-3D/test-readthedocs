@@ -1,86 +1,58 @@
 Network
 =======
 
+NETWORK.gd
 
 ::
 
 	extends Node
 
-	const SERVER_IP = "127.0.0.1"
-	const SERVER_PORT = 4242
-	const MAX_PLAYERS = 32
-
-	var map_scene = "res://scenes/Map.tscn"
-	var player_scene = "res://scenes/Player2D.tscn"
-	var lobby_scene = "res://scenes/Lobby.tscn"
-
-	var spawn_node = null
+	var player = "res://Player.tscn"
+	var map = "res://Map.tscn"
 
 	func _ready():
 		get_tree().connect("network_peer_connected", self, "_on_network_peer_connected")
-		get_tree().connect("network_peer_disconnected", self, "_on_network_peer_disconnected")
-		get_tree().connect("server_disconnected", self, "_on_server_disconnected")
 
 	func create_server():
 		var peer = NetworkedMultiplayerENet.new()
-		peer.create_server(SERVER_PORT, MAX_PLAYERS)
+		peer.create_server(4242, 32)
 		get_tree().set_network_peer(peer)
-		
+
 		load_game()
 
 	func join_server():
 		var peer = NetworkedMultiplayerENet.new()
-		peer.create_client(SERVER_IP, SERVER_PORT)
+		peer.create_client("127.0.0.1", 4242)
 		get_tree().set_network_peer(peer)
-		
+
 		load_game()
 
 	func load_game():
-		get_tree().change_scene(map_scene)
-
-		# Wait for the map to load, then search for the Spawn node
-		yield(get_tree().create_timer(0.01), "timeout")
-		spawn_node = get_tree().get_root().find_node("SpawnPoint", true, false)
-
-		# If this is not the host, spawn the player locally
-		if not get_tree().is_network_server():
-			spawn_player( get_tree().get_network_unique_id() )
-
+		get_tree().change_scene(map)
+		
+		spawn_player(get_tree().get_network_unique_id())
+		
 	func spawn_player(id):
-		var player_instance = load(player_scene).instance()
-		player_instance.name = str(id) # The node name is now the id
-		spawn_node.add_child(player_instance)
+		var player_instance = load(player).instance()
+		get_tree().get_root().add_child(player_instance)
+		player_instance.name = str(id)
+		player_instance.set_network_master(id)
 
 	func _on_network_peer_connected(id):
-		if id != 1: # Do not spawn from the signal of the host connected (id = 1)
-			spawn_player(id)
+		spawn_player(id)
 
-	func _on_network_peer_disconnected(id):
-		get_tree().get_root().find_node(str(id), true, false).queue_free()
-
-	func _on_server_disconnected():
-		get_tree().set_network_peer(null) # Sends a network_peer_disconnected signal
-		Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
-		get_tree().change_scene(lobby_scene)
+Player.gd
 
 ::
 
-	extends Sprite
+	extends KinematicBody2D
 
-	func _ready():
-		# Check if the name is the same as the id to allow local control:
-		var is_me = name == str( get_tree().get_network_unique_id() )
-		set_physics_process(is_me) # Keyboard inputs settings allowed or not
-		
-		# Data sent remotely:
-		rset_config("position", MultiplayerAPI.RPC_MODE_REMOTE)
+	puppet var puppet_transform = transform
 
 	func _physics_process(delta):
-		if Input.is_action_pressed("left"):
-			position.x -= 10
-		
-		if Input.is_action_pressed("right"):
-			position.x += 10
-		
-		# The data to send each frame:
-		rset_unreliable("position", position)
+		if is_network_master():
+			if Input.is_action_pressed("ui_right"):
+				position.x += 10
+			rset_unreliable("puppet_transform", transform)
+		else:
+			transform = puppet_transform

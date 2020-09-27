@@ -192,85 +192,56 @@
             
   <div class="section" id="network">
 <h1>Network<a class="headerlink" href="#network" title="Lien permanent vers ce titre">¶</a></h1>
+<p>NETWORK.gd</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">extends</span> <span class="n">Node</span>
 
-<span class="n">const</span> <span class="n">SERVER_IP</span> <span class="o">=</span> <span class="s2">&quot;127.0.0.1&quot;</span>
-<span class="n">const</span> <span class="n">SERVER_PORT</span> <span class="o">=</span> <span class="mi">4242</span>
-<span class="n">const</span> <span class="n">MAX_PLAYERS</span> <span class="o">=</span> <span class="mi">32</span>
-
-<span class="n">var</span> <span class="n">map_scene</span> <span class="o">=</span> <span class="s2">&quot;res://scenes/Map.tscn&quot;</span>
-<span class="n">var</span> <span class="n">player_scene</span> <span class="o">=</span> <span class="s2">&quot;res://scenes/Player2D.tscn&quot;</span>
-<span class="n">var</span> <span class="n">lobby_scene</span> <span class="o">=</span> <span class="s2">&quot;res://scenes/Lobby.tscn&quot;</span>
-
-<span class="n">var</span> <span class="n">spawn_node</span> <span class="o">=</span> <span class="n">null</span>
+<span class="n">var</span> <span class="n">player</span> <span class="o">=</span> <span class="s2">&quot;res://Player.tscn&quot;</span>
+<span class="n">var</span> <span class="nb">map</span> <span class="o">=</span> <span class="s2">&quot;res://Map.tscn&quot;</span>
 
 <span class="n">func</span> <span class="n">_ready</span><span class="p">():</span>
         <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">&quot;network_peer_connected&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="p">,</span> <span class="s2">&quot;_on_network_peer_connected&quot;</span><span class="p">)</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">&quot;network_peer_disconnected&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="p">,</span> <span class="s2">&quot;_on_network_peer_disconnected&quot;</span><span class="p">)</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">&quot;server_disconnected&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="p">,</span> <span class="s2">&quot;_on_server_disconnected&quot;</span><span class="p">)</span>
 
 <span class="n">func</span> <span class="n">create_server</span><span class="p">():</span>
         <span class="n">var</span> <span class="n">peer</span> <span class="o">=</span> <span class="n">NetworkedMultiplayerENet</span><span class="o">.</span><span class="n">new</span><span class="p">()</span>
-        <span class="n">peer</span><span class="o">.</span><span class="n">create_server</span><span class="p">(</span><span class="n">SERVER_PORT</span><span class="p">,</span> <span class="n">MAX_PLAYERS</span><span class="p">)</span>
+        <span class="n">peer</span><span class="o">.</span><span class="n">create_server</span><span class="p">(</span><span class="mi">4242</span><span class="p">,</span> <span class="mi">32</span><span class="p">)</span>
         <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">set_network_peer</span><span class="p">(</span><span class="n">peer</span><span class="p">)</span>
 
         <span class="n">load_game</span><span class="p">()</span>
 
 <span class="n">func</span> <span class="n">join_server</span><span class="p">():</span>
         <span class="n">var</span> <span class="n">peer</span> <span class="o">=</span> <span class="n">NetworkedMultiplayerENet</span><span class="o">.</span><span class="n">new</span><span class="p">()</span>
-        <span class="n">peer</span><span class="o">.</span><span class="n">create_client</span><span class="p">(</span><span class="n">SERVER_IP</span><span class="p">,</span> <span class="n">SERVER_PORT</span><span class="p">)</span>
+        <span class="n">peer</span><span class="o">.</span><span class="n">create_client</span><span class="p">(</span><span class="s2">&quot;127.0.0.1&quot;</span><span class="p">,</span> <span class="mi">4242</span><span class="p">)</span>
         <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">set_network_peer</span><span class="p">(</span><span class="n">peer</span><span class="p">)</span>
 
         <span class="n">load_game</span><span class="p">()</span>
 
 <span class="n">func</span> <span class="n">load_game</span><span class="p">():</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">change_scene</span><span class="p">(</span><span class="n">map_scene</span><span class="p">)</span>
+        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">change_scene</span><span class="p">(</span><span class="nb">map</span><span class="p">)</span>
 
-        <span class="c1"># Wait for the map to load, then search for the Spawn node</span>
-        <span class="k">yield</span><span class="p">(</span><span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">create_timer</span><span class="p">(</span><span class="mf">0.01</span><span class="p">),</span> <span class="s2">&quot;timeout&quot;</span><span class="p">)</span>
-        <span class="n">spawn_node</span> <span class="o">=</span> <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">find_node</span><span class="p">(</span><span class="s2">&quot;SpawnPoint&quot;</span><span class="p">,</span> <span class="n">true</span><span class="p">,</span> <span class="n">false</span><span class="p">)</span>
-
-        <span class="c1"># If this is not the host, spawn the player locally</span>
-        <span class="k">if</span> <span class="ow">not</span> <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">is_network_server</span><span class="p">():</span>
-                <span class="n">spawn_player</span><span class="p">(</span> <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_network_unique_id</span><span class="p">()</span> <span class="p">)</span>
+        <span class="n">spawn_player</span><span class="p">(</span><span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_network_unique_id</span><span class="p">())</span>
 
 <span class="n">func</span> <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
-        <span class="n">var</span> <span class="n">player_instance</span> <span class="o">=</span> <span class="n">load</span><span class="p">(</span><span class="n">player_scene</span><span class="p">)</span><span class="o">.</span><span class="n">instance</span><span class="p">()</span>
-        <span class="n">player_instance</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span> <span class="c1"># The node name is now the id</span>
-        <span class="n">spawn_node</span><span class="o">.</span><span class="n">add_child</span><span class="p">(</span><span class="n">player_instance</span><span class="p">)</span>
+        <span class="n">var</span> <span class="n">player_instance</span> <span class="o">=</span> <span class="n">load</span><span class="p">(</span><span class="n">player</span><span class="p">)</span><span class="o">.</span><span class="n">instance</span><span class="p">()</span>
+        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">add_child</span><span class="p">(</span><span class="n">player_instance</span><span class="p">)</span>
+        <span class="n">player_instance</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
+        <span class="n">player_instance</span><span class="o">.</span><span class="n">set_network_master</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
 
 <span class="n">func</span> <span class="n">_on_network_peer_connected</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
-        <span class="k">if</span> <span class="nb">id</span> <span class="o">!=</span> <span class="mi">1</span><span class="p">:</span> <span class="c1"># Do not spawn from the signal of the host connected (id = 1)</span>
-                <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
-
-<span class="n">func</span> <span class="n">_on_network_peer_disconnected</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">find_node</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="nb">id</span><span class="p">),</span> <span class="n">true</span><span class="p">,</span> <span class="n">false</span><span class="p">)</span><span class="o">.</span><span class="n">queue_free</span><span class="p">()</span>
-
-<span class="n">func</span> <span class="n">_on_server_disconnected</span><span class="p">():</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">set_network_peer</span><span class="p">(</span><span class="n">null</span><span class="p">)</span> <span class="c1"># Sends a network_peer_disconnected signal</span>
-        <span class="n">Input</span><span class="o">.</span><span class="n">set_mouse_mode</span><span class="p">(</span><span class="n">Input</span><span class="o">.</span><span class="n">MOUSE_MODE_VISIBLE</span><span class="p">)</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">change_scene</span><span class="p">(</span><span class="n">lobby_scene</span><span class="p">)</span>
+        <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
 </pre></div>
 </div>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">extends</span> <span class="n">Sprite</span>
+<p>Player.gd</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">extends</span> <span class="n">KinematicBody2D</span>
 
-<span class="n">func</span> <span class="n">_ready</span><span class="p">():</span>
-        <span class="c1"># Check if the name is the same as the id to allow local control:</span>
-        <span class="n">var</span> <span class="n">is_me</span> <span class="o">=</span> <span class="n">name</span> <span class="o">==</span> <span class="nb">str</span><span class="p">(</span> <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_network_unique_id</span><span class="p">()</span> <span class="p">)</span>
-        <span class="n">set_physics_process</span><span class="p">(</span><span class="n">is_me</span><span class="p">)</span> <span class="c1"># Keyboard inputs settings allowed or not</span>
-
-        <span class="c1"># Data sent remotely:</span>
-        <span class="n">rset_config</span><span class="p">(</span><span class="s2">&quot;position&quot;</span><span class="p">,</span> <span class="n">MultiplayerAPI</span><span class="o">.</span><span class="n">RPC_MODE_REMOTE</span><span class="p">)</span>
+<span class="n">puppet</span> <span class="n">var</span> <span class="n">puppet_transform</span> <span class="o">=</span> <span class="n">transform</span>
 
 <span class="n">func</span> <span class="n">_physics_process</span><span class="p">(</span><span class="n">delta</span><span class="p">):</span>
-        <span class="k">if</span> <span class="n">Input</span><span class="o">.</span><span class="n">is_action_pressed</span><span class="p">(</span><span class="s2">&quot;left&quot;</span><span class="p">):</span>
-                <span class="n">position</span><span class="o">.</span><span class="n">x</span> <span class="o">-=</span> <span class="mi">10</span>
-
-        <span class="k">if</span> <span class="n">Input</span><span class="o">.</span><span class="n">is_action_pressed</span><span class="p">(</span><span class="s2">&quot;right&quot;</span><span class="p">):</span>
-                <span class="n">position</span><span class="o">.</span><span class="n">x</span> <span class="o">+=</span> <span class="mi">10</span>
-
-        <span class="c1"># The data to send each frame:</span>
-        <span class="n">rset_unreliable</span><span class="p">(</span><span class="s2">&quot;position&quot;</span><span class="p">,</span> <span class="n">position</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">is_network_master</span><span class="p">():</span>
+                <span class="k">if</span> <span class="n">Input</span><span class="o">.</span><span class="n">is_action_pressed</span><span class="p">(</span><span class="s2">&quot;ui_right&quot;</span><span class="p">):</span>
+                        <span class="n">position</span><span class="o">.</span><span class="n">x</span> <span class="o">+=</span> <span class="mi">10</span>
+                <span class="n">rset_unreliable</span><span class="p">(</span><span class="s2">&quot;puppet_transform&quot;</span><span class="p">,</span> <span class="n">transform</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+                <span class="n">transform</span> <span class="o">=</span> <span class="n">puppet_transform</span>
 </pre></div>
 </div>
 </div>

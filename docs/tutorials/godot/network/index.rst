@@ -20,7 +20,7 @@ NETWORK.gd
 		get_tree().set_network_peer(peer)
 
 		load_game()
-
+		
 	func join_server():
 		var peer = NetworkedMultiplayerENet.new()
 		peer.create_client("127.0.0.1", 4242)
@@ -31,13 +31,15 @@ NETWORK.gd
 	func load_game():
 		get_tree().change_scene(map)
 		
-		spawn_player(get_tree().get_network_unique_id())
+		yield(get_tree(), "idle_frame")
 		
+		spawn_player(get_tree().get_network_unique_id())
+
 	func spawn_player(id):
-		var player_instance = load(player).instance()
-		get_tree().get_root().add_child(player_instance)
+		var player_instance = player.instance()
 		player_instance.name = str(id)
 		player_instance.set_network_master(id)
+		get_tree().get_root().find_node("Spawn", true, false).add_child(player_instance)
 
 	func _on_network_peer_connected(id):
 		spawn_player(id)

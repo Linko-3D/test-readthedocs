@@ -193,7 +193,17 @@
             
   <div class="section" id="network">
 <h1>Network<a class="headerlink" href="#network" title="Lien permanent vers ce titre">¶</a></h1>
-<p>NETWORK.gd</p>
+<p>Lobby.gd:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">extends</span> <span class="n">Control</span>
+
+<span class="n">func</span> <span class="n">_on_Host_pressed</span><span class="p">():</span>
+        <span class="n">NETWORK</span><span class="o">.</span><span class="n">create_server</span><span class="p">()</span>
+
+<span class="n">func</span> <span class="n">_on_Join_pressed</span><span class="p">():</span>
+        <span class="n">NETWORK</span><span class="o">.</span><span class="n">join_server</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>NETWORK.gd (singleton):</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">extends</span> <span class="n">Node</span>
 
 <span class="n">var</span> <span class="n">player</span> <span class="o">=</span> <span class="s2">&quot;res://Player.tscn&quot;</span>
@@ -219,49 +229,58 @@
 
 <span class="n">func</span> <span class="n">load_game</span><span class="p">():</span>
         <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">change_scene</span><span class="p">(</span><span class="nb">map</span><span class="p">)</span>
-
-        <span class="n">spawn_player</span><span class="p">(</span><span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_network_unique_id</span><span class="p">())</span>
+        <span class="k">if</span> <span class="ow">not</span> <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">is_network_server</span><span class="p">():</span>
+                <span class="k">yield</span><span class="p">(</span><span class="n">get_tree</span><span class="p">(),</span> <span class="s2">&quot;idle_frame&quot;</span><span class="p">)</span> <span class="c1"># To have the time to load the Spawn node we wait one frame</span>
+                <span class="n">spawn_player</span><span class="p">(</span><span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_network_unique_id</span><span class="p">())</span>
 
 <span class="n">func</span> <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
         <span class="n">var</span> <span class="n">player_instance</span> <span class="o">=</span> <span class="n">load</span><span class="p">(</span><span class="n">player</span><span class="p">)</span><span class="o">.</span><span class="n">instance</span><span class="p">()</span>
-        <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">add_child</span><span class="p">(</span><span class="n">player_instance</span><span class="p">)</span>
+        <span class="n">var</span> <span class="n">spawn</span> <span class="o">=</span> <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">find_node</span><span class="p">(</span><span class="s2">&quot;Spawn&quot;</span><span class="p">,</span> <span class="n">true</span><span class="p">,</span> <span class="n">false</span><span class="p">)</span>
+        <span class="n">spawn</span><span class="o">.</span><span class="n">add_child</span><span class="p">(</span><span class="n">player_instance</span><span class="p">)</span>
         <span class="n">player_instance</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
         <span class="n">player_instance</span><span class="o">.</span><span class="n">set_network_master</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
 
 <span class="n">func</span> <span class="n">_on_network_peer_connected</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
-        <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
+        <span class="k">if</span> <span class="nb">id</span> <span class="o">!=</span> <span class="mi">1</span><span class="p">:</span> <span class="c1"># 1 is the server, we don&#39;t want to spawn a player from it</span>
+                <span class="n">spawn_player</span><span class="p">(</span><span class="nb">id</span><span class="p">)</span>
 
 <span class="n">func</span> <span class="n">_on_network_peer_disconnected</span><span class="p">(</span><span class="nb">id</span><span class="p">):</span>
         <span class="n">get_tree</span><span class="p">()</span><span class="o">.</span><span class="n">get_root</span><span class="p">()</span><span class="o">.</span><span class="n">find_node</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="nb">id</span><span class="p">),</span> <span class="n">true</span><span class="p">,</span> <span class="n">false</span><span class="p">)</span><span class="o">.</span><span class="n">queue_free</span><span class="p">()</span>
 </pre></div>
 </div>
-<p>Player.gd</p>
+<p>Player.gd:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>extends KinematicBody2D
 
-puppet var puppet_transform = transform
+var direction = Vector2()
 
 func _ready():
         get_tree().connect(&quot;network_peer_connected&quot;, self, &quot;_on_network_peer_connected&quot;)
+        yield(get_tree(), &quot;idle_frame&quot;) # Wait one frame before checking if we are the master of this node
+        set_physics_process(is_network_master())
+        $Status.visible = is_network_master() # If we are the master, make the Label node visible
 
 func _physics_process(delta):
-        if is_network_master():
-                if Input.is_action_pressed(&quot;ui_right&quot;):
-                        position.x += 10
-                rset_unreliable(&quot;puppet_transform&quot;, transform)
-                if Input.is_action_just_pressed(&quot;ui_accept&quot;):
-                        rpc(&quot;toggle_visiblity&quot;, visible)
-        else:
-                transform = puppet_transform
+        direction.x = -Input.get_action_strength(&quot;ui_left&quot;) + Input.get_action_strength(&quot;ui_right&quot;)
+        direction.y = -Input.get_action_strength(&quot;ui_up&quot;) + Input.get_action_strength(&quot;ui_down&quot;)
+        direction.normalized()
+        move_and_slide(direction * 500)
 
-remotesync func toggle_visiblity(status):
-        visible = !status
+        if direction != Vector2(): # If we are moving the character sends rpc call
+                rpc_unreliable(&quot;transform_data&quot;, transform)
 
-remotesync func visiblity(status):
-        visible = status
+        if Input.is_action_just_pressed(&quot;ui_accept&quot;):
+                rpc(&quot;visibility&quot;, !visible)
+
+remote func transform_data(data):
+        transform = data
+
+remotesync func visibility(data):
+        visible = data
 
 func _on_network_peer_connected(id):
         if is_network_master():
-                rpc(&quot;visiblity&quot;, visible)
+                rpc(&quot;transform_data&quot;, transform)
+                rpc(&quot;visibility&quot;, visible)
 </pre></div>
 </div>
 </div>

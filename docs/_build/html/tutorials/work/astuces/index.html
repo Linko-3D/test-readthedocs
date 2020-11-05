@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Semaine du numérique - propositions Danyl &mdash; Documentation MDE LAB </title>
+  <title>Astuces &mdash; Documentation MDE LAB </title>
   
 
   
@@ -37,8 +37,8 @@
     
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Recherche" href="../../../search.html" />
-    <link rel="next" title="Astuces" href="../astuces/index.html" />
-    <link rel="prev" title="Veille technologique été 2020 - Danyl" href="../veille/index.html" /> 
+    <link rel="next" title="_____Imprimante 3D: 3D UP BOX+" href="../../fabrication/3dupbox/index.html" />
+    <link rel="prev" title="Semaine du numérique - propositions Danyl" href="../semaine_numerique/index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -95,21 +95,17 @@
 <li class="toctree-l1"><a class="reference internal" href="../reunion/index.html#reunion-2">Reunion 2</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../livre/index.html">Synthèse: Espaces de création numérique en bibliothèque</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../veille/index.html">Veille technologique été 2020 - Danyl</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Semaine du numérique - propositions Danyl</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#danyl">Danyl</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#ressources">Ressources</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#demonstrations">Démonstrations</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#participations">Participations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../semaine_numerique/index.html">Semaine du numérique - propositions Danyl</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Astuces</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#impression-3d">Impression 3D</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#preparation-du-modele-3d">Préparation du modèle 3D:</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#le-slicer">Le slicer</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="#julien-charlie-ahmed-et-d-autres">Julien, Charlie, Ahmed et d’autres</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#id1">Démonstrations</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#id2">Participations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#decoupeuse-vinyle">Découpeuse vinyle</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#brodeuse">Brodeuse</a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../astuces/index.html">Astuces</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Fabrication:</span></p>
 <ul>
@@ -187,13 +183,13 @@
     
       <li><a href="../../../index.html" class="icon icon-home"></a> &raquo;</li>
         
-      <li>Semaine du numérique - propositions Danyl</li>
+      <li>Astuces</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
-            <a href="../../../_sources/tutorials/work/semaine_numerique/index.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../../../_sources/tutorials/work/astuces/index.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -206,57 +202,66 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="semaine-du-numerique-propositions-danyl">
-<h1>Semaine du numérique - propositions Danyl<a class="headerlink" href="#semaine-du-numerique-propositions-danyl" title="Lien permanent vers ce titre">¶</a></h1>
-<p>Samedi 21 novembre à Saint Germain Lès Arpajons.
-Proposition de venir le vendredi 20 novembre pour déployer les machines.</p>
-<div class="section" id="danyl">
-<h2>Danyl<a class="headerlink" href="#danyl" title="Lien permanent vers ce titre">¶</a></h2>
-<div class="section" id="ressources">
-<h3>Ressources<a class="headerlink" href="#ressources" title="Lien permanent vers ce titre">¶</a></h3>
+  <div class="section" id="astuces">
+<h1>Astuces<a class="headerlink" href="#astuces" title="Lien permanent vers ce titre">¶</a></h1>
+<div class="section" id="impression-3d">
+<h2>Impression 3D<a class="headerlink" href="#impression-3d" title="Lien permanent vers ce titre">¶</a></h2>
+<div class="section" id="preparation-du-modele-3d">
+<h3>Préparation du modèle 3D:<a class="headerlink" href="#preparation-du-modele-3d" title="Lien permanent vers ce titre">¶</a></h3>
 <ul class="simple">
-<li><p>voir s’il est possible de préparer des flyiers et kakemono pour promouvoir le lab itinérant</p></li>
-<li><p>Ramener des livres sur la fabrication numérique et jeux vidéo. Exposition(s).</p></li>
+<li><p>le format de fichier recommandé pour les modèles 3D est le .STL. Le format .OBJ peut générer des erreurs dans le slicer si le modèle est complexe.</p></li>
 </ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Si le fichier n’est pas au format .STL, vous pouvez l’importer dans le logiciel Blender et le convertir en faisant File &gt; Export &gt; Stl (.stl).</p>
 </div>
-<div class="section" id="demonstrations">
-<h3>Démonstrations<a class="headerlink" href="#demonstrations" title="Lien permanent vers ce titre">¶</a></h3>
+</div>
+<div class="section" id="le-slicer">
+<h3>Le slicer<a class="headerlink" href="#le-slicer" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Dans le logiciel de slicing les supports sont nécessaires que si la pièce est soumise à la gravité. Parfois orienter la pièce différent permet d’éviter d’en utiliser.</p>
+</div>
+</div>
+<div class="section" id="decoupeuse-vinyle">
+<h2>Découpeuse vinyle<a class="headerlink" href="#decoupeuse-vinyle" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Silhouette Curio:</p>
 <ul class="simple">
-<li><p>impression(s) 3D en continues avec des PCs disponibles pour la sculpture sous <a class="reference external" href="https://youtu.be/gxyMejEA0PE">ZBrushCoreMini</a>. Les créations peuvent être sauvegardées pour éventuellement les mettre en avant (turntable en ligne)</p></li>
-<li><p>découpeuse Roland (voir ce qu’il est possible de faire)</p></li>
+<li><p>le format d’image recommandé est le .PNG. Le format .SVG pour le vectoriel n’est pas supporté.</p></li>
 </ul>
-<blockquote>
-<div><ul class="simple">
-<li><p>éventuellement: Silhouette Curio</p></li>
-<li><p>éventuellement: photogrammétrie avec son smartphone et MeshRoom, puis nettoyage sur MeshLab</p></li>
-</ul>
-</div></blockquote>
-</div>
-<div class="section" id="participations">
-<h3>Participations<a class="headerlink" href="#participations" title="Lien permanent vers ce titre">¶</a></h3>
-<ul class="simple">
-<li><p>Simulateur de conduite, vidéoprojecteur et PC gamer</p></li>
-<li><p>Nintendo Switch</p></li>
-</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>le fichier vectoriel peut être convertis avec le logiciel gratuit InkScape.</p>
 </div>
 </div>
-<div class="section" id="julien-charlie-ahmed-et-d-autres">
-<h2>Julien, Charlie, Ahmed et d’autres<a class="headerlink" href="#julien-charlie-ahmed-et-d-autres" title="Lien permanent vers ce titre">¶</a></h2>
-<div class="section" id="id1">
-<h3>Démonstrations<a class="headerlink" href="#id1" title="Lien permanent vers ce titre">¶</a></h3>
-<ul class="simple">
-<li><p>Robotique</p></li>
-</ul>
-</div>
-<div class="section" id="id2">
-<h3>Participations<a class="headerlink" href="#id2" title="Lien permanent vers ce titre">¶</a></h3>
-<ul class="simple">
-<li><p>3 bartops</p></li>
-<li><p>Kinect et Wii</p></li>
-</ul>
-<p>Début d’après midi jusqu’à 19h.</p>
-<p>Adresse perso: <a class="reference external" href="mailto:dbekhouc&#37;&#52;&#48;gmail&#46;com">dbekhouc<span>&#64;</span>gmail<span>&#46;</span>com</a></p>
-</div>
+<div class="section" id="brodeuse">
+<h2>Brodeuse<a class="headerlink" href="#brodeuse" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Entretien: soufler souvent un grand coup et brossez la machine au niveau du pied-de-biche, de la canette et des griffes d’entrainement pour dégager poussières et peluches.</p>
+<p>Coton
+Lainage
+Jerey
+Organdi
+Stretch
+Jean</p>
+<p>Ajout:
+Plaid
+Toile de lin parme (nappe)
+drap de bain
+boutis</p>
+<p>Entretien: soufler souvent un grand coup et brossez la machine au niveau du pied-de-biche, de la canette et des griffes d’entrainement pour dégager poussières et peluches.</p>
+<p>Voir thermocoller et stabilisateur
+Voir floquer (+ orthographe)
+fonction piqué libre</p>
+<p>popeline de coton
+patchwork
+matelassage
+jersey de coton à rayures
+surjeteuse
+fil peluchent, cassent ou rétrécissent au lavage
+wax
+serviette de table</p>
+<p>Une aiguille de numéro ou de marque différents du modèle de votre machine peut pertuber les réglages notamment ceux de la tension de fil et rendre la couture ou la broderie irrégulières.</p>
+<p>voir le tournevis pour changer d’aiguilles (normalemnt on a ou pas besoin)</p>
+<p>broderie richelieu p.84</p>
+<p>chute de feutre</p>
 </div>
 </div>
 
@@ -268,10 +273,10 @@ Proposition de venir le vendredi 20 novembre pour déployer les machines.</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../astuces/index.html" class="btn btn-neutral float-right" title="Astuces" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../../fabrication/3dupbox/index.html" class="btn btn-neutral float-right" title="_____Imprimante 3D: 3D UP BOX+" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../veille/index.html" class="btn btn-neutral float-left" title="Veille technologique été 2020 - Danyl" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../semaine_numerique/index.html" class="btn btn-neutral float-left" title="Semaine du numérique - propositions Danyl" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   

@@ -84,6 +84,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    /tutorials/work/livre/index.rst
    /tutorials/work/veille/index.rst
    /tutorials/work/semaine_numerique/index.rst
+   /tutorials/work/astuces/index.rst
 	
 .. toctree::
    :maxdepth: 2

@@ -11,7 +11,7 @@ Visière COVID-19 Low Tech
 Petit projets
 ^^^^^^^^^^^^^
 
-- `TETRIS puzzle <https://wikifab.org/wiki/Vid%C3%A9oprojecteur_pour_smartphone>`_
+- `TETRIS puzzle <https://wikifab.org/wiki/TETRIS_puzzle>`_
 - `Vidéoprojecteur pour smartphone <https://wikifab.org/wiki/Vid%C3%A9oprojecteur_pour_smartphone>`_
 - `Thermoformage <https://wikifab.org/wiki/Thermoformage>`_
 

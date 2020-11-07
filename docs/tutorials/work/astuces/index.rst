@@ -136,6 +136,8 @@ To check:
 - fil peluchent, cassent ou rétrécissent au lavage
 - wax
 - serviette de table
+- molleton
+- épingle de nourrice
 
 
 Perso:

@@ -1,10 +1,20 @@
-Veille technologique année 2020 - Suivi des tendances et nouveautés - Danyl
-===========================================================================
+Veille technologique - Suivi des tendances 2021 - Danyl
+=======================================================
 
-Evolution des tendances numérique
+Évolution des tendances numérique
 +++++++++++++++++++++++++++++++++
 
-Ci-dessous sont indiqués l'évolution des tendances des machines du Lab, d'autres outils et logiciels, les statistiques des recherches Google sont utilisées. Elles ont été obtenues avec Google Trends. L'objectif est de donner des indications pour le secteur numérique.
+Pour cette nouvelle année 2021 j'ai réalisé un suivi des tendances par machines du Labs et de certains outils et logiciels. Les statistiques sont issues de l'évolution des recherches sur Google à travers le monde durant les 5 dernières années. Elles ont été obtenues grâce à Google Trends. L'objectif et de nous permettre de bien orienter le secteur numérique en fonction des évolutions des attentes et peut être prévoir les prochaines attentes.
+
+.. note:: La liste n'est pas exhaustive, j'ai pu passer à côté de tendances numériques actuelles et à venir.
+
+J'ai organisé cette veille en plusieurs étapes:
+
+- les tendances actuelles: ce sont les tendances en cours et qui pour la plupart continuent à s'accroitre ;
+- les tendances éducatives: ce sont les outils populaires dans les écoles, mais pas auprès des hobbyistes. Il faut aussi faire attention, si les ateliers sont basés sur le volontariat il pourrait y avoir peu de participants ;
+- les tendances possibles: c'est l'arrivée de possibles tendances dans le domaine du numérique ;
+- les retours en tendance incertaine: d'anciennes tendances qui connaissent un regain en popularité, mais qui à cause d’historiques risque de baisser en popularité à nouveau ;
+- pas été en tendance: les outils qui n'ont jamais été en tendance. Comme elles sont limitées à des tâches bien précises qui n'évoluent pas, la possibilité de les voir en tendance n'est pas garantie.
 
 Les tendances actuelles
 #######################
@@ -14,11 +24,40 @@ Création de jeux vidéo
 
 .. note:: Il s'agit ici de la plus forte progression.
 
-Le moteur de jeu vidéo Godot connait une très forte croissance, le logiciel a été très utilisé pendant le confinement et vacance d'été. Il a baissé durant la rentrée scolaire, car beaucoup d'étudiants l'utilisent. La création de jeux vidéo intéresse de plus en plus.
+Le moteur de jeu vidéo Godot connait une très forte croissance, le logiciel a été très utilisé pendant le confinement et vacances d'été. Il a baissé durant la rentrée scolaire, car beaucoup d'étudiants l'utilisent. La création de jeux vidéo intéresse de plus en plus.
 
 `Godot 2020 Year in Review: New Features for Godot 4.0 and 3.2.x <https://youtu.be/3lm-veva15g>`_
 
 .. image:: godot.png
+
+Tendances éducatives
+####################
+
+Scratch
+-------
+
+.. note:: Il s'agit de la plus forte variation.
+
+On peut voir sur le graphique que le logiciel est très utilisé à l'école, mais presque pas en dehors. C'est donc une tendance auprès des professeurs uniquement pour enseigner la programmation, mais que les enfants n'aiment pas rester dessus.
+
+.. image:: scratch.png
+
+Arduino
+-------
+
+La carte a toujours été en tendance dans les écoles d'ingénieur pour apprendre la théorie de l'électronique, mais pas pour les hobbyistes.
+
+.. image:: arduino.png
+
+Micro::bit
+----------
+
+Comme pour Arduino la carte est utilisée dans le milieu scolaire et peut en dehors des cours. La courbe confirme cela, elle est élevée en période scolaire et baisse à chaque vacance d'été. Cela veut donc dire que les professeurs s'en servent pour l'enseignement et que c'est une bonne carte d'initiation à la programmation. On en déduit aussi que le public et jeune, car peu de recherche sont effectués sur internet en dehors des cours.
+
+.. image:: micro_bit
+
+Les tendances possibles
+#######################
 
 Simulation de conduite
 ----------------------
@@ -27,104 +66,83 @@ Simulation de conduite
 
 En suivant les statistiques du volant le plus vendu le Logitech G29 pourtant sorti il y a plusieurs années, la progression en 2 ans est de 2.8 fois plus populaires, dans cette statistique il faut noter que cela reste un marché de niche.
 
-Une forte hausse est à prévoir en 2021 avec la sortie de `Gran Turismo 7 sur PS5 <https://youtu.be/oz-O74SmTSQ>`_, le `développement de l'e-sport <https://youtu.be/IDBBRn7dXeU?t=7607>`_ et `streaming <https://youtu.be/SMrhjEc_cgc?t=755>`_. Le domaine devient concurrentiel avec de nouveaux produits et marques (Virtual Racing School, Simagic, etc), une forte baisse des prix est à prévoir (pour l'instant les marges sont importantes) et donc hausse des utilisateurs.
+Une forte hausse est à prévoir en 2021 avec la sortie de `Gran Turismo 7 sur PS5 <https://youtu.be/oz-O74SmTSQ>`_, le `développement de l'e-sport <https://youtu.be/IDBBRn7dXeU?t=7607>`_ et `streaming <https://youtu.be/SMrhjEc_cgc?t=755>`_. Le domaine devient concurrentiel avec de nouveaux produits et marques (`Virtual Racing School <https://virtualracingschool.com/dfp/>`_, Simagic, etc), une forte baisse des prix est à prévoir (pour l'instant les marges sont importantes) et donc hausse des utilisateurs.
 
 On peut imaginer à l'avenir l'arrivée de matériel et logiciels grand public dédiés à l'apprentissage de la conduite.
 
 .. image:: sim_racing.png
 
-Le nouvel écosystème par Virtual Racing School par exemple:
-
-.. image:: vrs.png
-
-Les tendances incertaines
-#########################
+Les retours en tendances incertaines
+###################################
 
 L'impression 3D
 ---------------
 
-L'impression 3D a gagné temporairement beaucoup en visibilité durant le premier confinement pour ensuite retomber un peu au-dessus de là où elle était. Il y a une progression habituelle autour de Noël, additionné avec le second confinement. La courbe de ces 5 dernières années n'a subi qu'une très légère hausse. On voit cependant que les recherches ont été importantes pour le Black Friday et Noël, mais au vu des chutes précédentes des utilisateurs déçus, ont peu supposé que la courbe descendra à nouveau.
+L'impression 3D a gagné temporairement beaucoup en visibilité durant le premier confinement pour ensuite retomber un peu au-dessus de là où elle était. Il y a une progression habituelle autour de Noël, additionné avec le second confinement. La courbe de ces 5 dernières années n'a subi qu'une très légère hausse. On voit cependant que les recherches ont été importantes pour le Black Friday et Noël, mais au vu des chutes précédentes des utilisateurs déçus, on peu supposer que la courbe descendra à nouveau, à suivre.
 
 .. image:: 3D_printing.png
 
-Côté investissements ils restent très faibles, au même niveau que lorsqu'elles étaient peu connues du grand public. C'est la courbe la plus importante, car sans investissements pas d'évolutions, un mauvais signe pour une technologie qui reste en l'état inexploitable en production et contraignante pour les hobbyistes. Certaines entreprises d'impression 3D ont dû licencier depuis la chute importante durant l'année 2015 et à cause de la concurrence chinoise (qui en plus investissent peu, ils utilisent les technologies Open Source existantes).
+Côté investissements ils restent malheureusement très faibles, au même niveau que lorsqu'elles étaient peu connues du grand public. C'est la courbe la plus importante, car sans investissements pas d'évolutions, un mauvais signe pour une technologie qui reste en l'état inexploitable en production, plutôt utilisée pour du prototypage dans des startups.
+L'arrive de la concurrence chinoise n'investit pas, ils se basent sur les technologies Open Source existantes, il y a donc des améliorations par le bas uniquement (baisse des prix).
 
-Note: Stratasys (courbe bleue ci-dessous) est l'inventeur de l'impression 3D en FDM, le brevet fut déposé de 1989 à 2009. Avec la concurrence apparue en 2012 et la "hype" créées par les médias elle a beaucoup investi jusqu'à la déception et mauvais retour des utilisateurs courant 2015.
+.. note:: Stratasys (courbe bleue ci-dessous) est l'inventeur de l'impression 3D en FDM, le brevet fut déposé de 1989 à 2009. Avec la concurrence apparue en 2012 et la "hype" créées par les médias elle a beaucoup investi jusqu'à la déception et mauvais retour des utilisateurs courant 2015.
 
 
 .. image:: evo_3d_printing.png
 
-Les anciennes tendances
-#######################
+La réalité virtuelle
+--------------------
 
-.. attention:: Les anciennes tendances peuvent le devenir à nouveau à l'avenir.
+On peut voir dans le graphique que la "hype" était fin 2016 avant de redescendre brutalement. Au fil du temps l'attrait déjà faible n'a fait que baisser légèrement avec des petites hausses autour de Noël. On note quelques recherches autour durant le premier confinement puis une nouvelle baisse.
 
-La réalité virtuel
-------------------
-
-On peut voir dans le graphique que la "hype" était fin 2016 avant de redescendre brutalement (coûteux, images floues, pixélisées, nausées pouvant être très fortes, effet sur le développement des yeux encore méconnus, peu de jeux l'utilisent et très peu de triples A, un ordinateur très puissant est nécessaire, etc). Au fil du temps l'attrait déjà faible n'a fait que baisser légèrement avec des petites hausses autour de Noël. On note quelques recherches autour durant le premier confinement puis une nouvelle baisse.
-
-L'arrivée du PSVR 2 sur PS5 et la progression de la simulation de conduite pourrait permettre à la technologie de gagner un peu plus d'utilisateurs.
+Toutefois le casque pourrait peut-être revenir en tendance avec l'arrivée du PSVR 2 sur PS5 et la progression de la simulation de conduite de plus en plus immersive (et si le problème de nausé est réglé mais c'est incertain).
 
 .. image:: vr.png
 
-Jamais été en tendance
+Pas été en tendance
 ######################
 
 La découpeuse laser
 --------------------
 
-La découpeuse laser n'a connu aucune évolution en popularité ces 5 dernières années, les coûts trop importants et contraintes ont peu changé:
-
-.. image:: laser_cutter.png
-
-Il est cependant à noter qu'autour de la "hype" de l'impression 3D l'attrait a progressé et n'est pas redescendu contrairement à cette dernière. La machine reste trop limitée, elle ne travaille qu'avec des épaisseurs fines et est donc inutilisable pour un menuisier.
+Bien que la découpeuse laser n'ait pas connu d'évolution en popularité durant ces 5 dernières années (pas d'évolution du prix et sécurité, toujours limité à des épaisseurs fines donc un menuisier ne peut s'en servir), il est à noter qu'autour de la "hype" de l'impression 3D, l'attrait a progressé et n'est pas redescendu contrairement à cette dernière ce qui veut dire que les labs en ont trouvé une meilleure utilité et/ou moins contraignante.
 
 .. image:: laser_cutter_2004.png
 
 La couture
 ----------
 
-La couture a connu une très forte progression durant le premier confinement pour ensuite redescendre et se retrouver un peu au-dessus de là où elle était auparavant. La hausse risque de ne pas perdurer après la crise du Covid, car une grande partie des nouveaux utilisateurs ne s'y intéressent que pour la fabrication des masques. Il n'y a pas eu de hausse durant la deuxième vague.
+La couture a connu une très forte progression durant le premier confinement pour ensuite redescendre et se retrouver un peu au-dessus de là où elle était auparavant. La hausse était due à l'effort commun pour la fabrication des masques lorsqu'il en manquait, on peut voir que durant la deuxième vague épidémique avec le problème de masques résolu, la courbe n'a pas bougé.
 
-Il faut aussi noter que la hausse de la statistique est principalement autour de la couture réalisée à la main et non de l'achat d'une machine à coudre, les personnes investissent peu en matériel, on peut supposer qu'elles s'y mettre temporairement pour aider.
+Comme la hausse était temporaire, beaucoup ont peu investi, et ont réalisé de la couture à la main et non avec une machine à coudre, ce n'est donc pas un hobby qui s'est développé. Le public est plutôt âgé.
 
 .. image:: sewing.png
 
 La broderie
 -----------
 
-La broderie n'a connu aucune évolution ces 5 dernières années et le confinement n'a rien changé. Elle reste un bien plus petit marché que la couture, les utilisateurs n'en ont pas les besoins et la croissance de Primark et des vêtements à motifs qu'ils vendent pour suivre la mode n'arrangent pas les choses: vêtements avec le logo PlayStation pour la sortie de la PS5, de films, séries, manga, foot pour quelques euros.
+La broderie reste un bien plus petit marché que la couture et n'a pas connu d'évolution des recherches durant ces 5 dernières années. De plus l'arrivée de vêtements à motifs qui suivent les tendances (logo PS5, mangas, etc) et à prix cassés (Primark, etc) n'arrangent pas les choses.
 
-Les personnes qui réalisent des broderies par passion préfèrent pour la plupart les réaliser manuellement.
+Il est aussi à noter que la plupart des personnes réalisant de la broderie par passion le font manuellement et sont plutôt un public âgé.
 
 .. image:: embroidery.png
 
 Le plotter de découpe
 ---------------------
 
+.. note:: Il s'agit de la plus forte baisse dans la durée.
+
 La tendance n'a pas évolué ces 5 dernières années et elle a fortement régressé depuis 2004, l'intérêt pour la machine a été divisé par 4 malgré ses évolutions. En cause d'autres machines plus polyvalentes et moins contraignantes permettant de faire de la signalétique et affiches pour les professionnels (premières cibles de ce genre de machines).
 
-Les petites machines à destination du grand public n'ont pas intéressé comme le montre le graphique.
+L'arrivée des petites machines à destination du grand public n'a pas eu d'impact sur la courbe des recherches.
 
 .. image:: plotter.png
 
 Nintendo Labo
 -------------
 
-Des recherches ont été faites par curiosité durant quelques jours mais n'a intéressé personne.
+.. note:: Il s'agit de la plus forte baisse.
+
+Des recherches ont été faites par curiosité à son annonce, mais n'a intéressé personne comme le montre le graphique.
 
 .. image:: nintendo.png
-
-
-
-Nouveautés
-++++++++++
-
-Flax Engine
------------
-
-La version 1.0 du moteur de jeu est sortie, le logiciel s'inspire d'Unreal Engine 4 et du Visual Scripting:
-
-https://youtu.be/_KCl_m1IGp4
-

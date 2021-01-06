@@ -4,17 +4,17 @@ Veille technologique - Suivi des tendances 2021 - Danyl
 Évolution des tendances numérique
 +++++++++++++++++++++++++++++++++
 
-Pour cette nouvelle année 2021 j'ai réalisé un suivi des tendances par machines du Labs et de certains outils et logiciels. Les statistiques sont issues de l'évolution des recherches sur Google à travers le monde durant les 5 dernières années. Elles ont été obtenues grâce à Google Trends. L'objectif et de nous permettre de bien orienter le secteur numérique en fonction des évolutions des attentes et peut être prévoir les prochaines attentes.
+Pour ce début d'année, j'ai réalisé un suivi des tendances par machines du Lab et de certains outils et logiciels. Les statistiques sont issues de l'évolution des recherches sur Google à travers le monde durant les 5 dernières années. Elles ont été obtenues grâce à Google Trends. L'objectif et de nous permettre de bien orienter le secteur numérique en fonction des évolutions des attentes et peut être prévoir les prochaines attentes afin de satisfaire le plus de public possible.
 
-.. note:: La liste n'est pas exhaustive, j'ai pu passer à côté de tendances numériques actuelles et à venir.
+J'ai organisé cette veille en plusieurs catégories:
 
-J'ai organisé cette veille en plusieurs étapes:
-
-- les tendances actuelles: ce sont les tendances en cours et qui pour la plupart continuent à s'accroitre ;
+- les tendances actuelles: ce sont les tendances en cours et qui pour la plupart continuent à progresser ;
 - les tendances éducatives: ce sont les outils populaires dans les écoles, mais pas auprès des hobbyistes. Il faut aussi faire attention, si les ateliers sont basés sur le volontariat il pourrait y avoir peu de participants ;
 - les tendances possibles: c'est l'arrivée de possibles tendances dans le domaine du numérique ;
 - les retours en tendance incertaine: d'anciennes tendances qui connaissent un regain en popularité, mais qui à cause d’historiques risque de baisser en popularité à nouveau ;
 - pas été en tendance: les outils qui n'ont jamais été en tendance. Comme elles sont limitées à des tâches bien précises qui n'évoluent pas, la possibilité de les voir en tendance n'est pas garantie.
+
+.. note:: La liste n'est pas exhaustive, j'ai pu passer à côté de tendances numériques actuelles et à venir.
 
 Les tendances actuelles
 #######################
@@ -26,7 +26,7 @@ Création de jeux vidéo
 
 Le moteur de jeu vidéo Godot connait une très forte croissance, le logiciel a été très utilisé pendant le confinement et vacances d'été. Il a baissé durant la rentrée scolaire, car beaucoup d'étudiants l'utilisent. La création de jeux vidéo intéresse de plus en plus.
 
-`Godot 2020 Year in Review: New Features for Godot 4.0 and 3.2.x <https://youtu.be/3lm-veva15g>`_
+- `Godot Engine Desktop/Console Games Showcase | April 2020 <https://youtu.be/UEDEIksGEjQ>`_
 
 .. image:: godot.png
 
@@ -45,16 +45,16 @@ On peut voir sur le graphique que le logiciel est très utilisé à l'école, ma
 Arduino
 -------
 
-La carte a toujours été en tendance dans les écoles d'ingénieur pour apprendre la théorie de l'électronique, mais pas pour les hobbyistes.
+La carte a toujours été en tendance dans les écoles d'ingénieur pour apprendre la théorie de l'électronique, mais connaît moins d'hobbyistes.
 
 .. image:: arduino.png
 
 Micro::bit
 ----------
 
-Comme pour Arduino la carte est utilisée dans le milieu scolaire et peut en dehors des cours. La courbe confirme cela, elle est élevée en période scolaire et baisse à chaque vacance d'été. Cela veut donc dire que les professeurs s'en servent pour l'enseignement et que c'est une bonne carte d'initiation à la programmation. On en déduit aussi que le public et jeune, car peu de recherche sont effectués sur internet en dehors des cours.
+Comme pour Arduino la carte est utilisée dans le milieu scolaire et peu en dehors des cours. La courbe confirme cela, elle est élevée en période scolaire et baisse à chaque vacance d'été. Cela veut donc dire que les professeurs s'en servent pour l'enseignement et que c'est une bonne carte d'initiation à la programmation. On en déduit aussi que le public est jeune, car peu de recherche sont effectués sur internet en dehors des cours.
 
-.. image:: micro_bit
+.. image:: micro_bit.png
 
 Les tendances possibles
 #######################
@@ -64,7 +64,7 @@ Simulation de conduite
 
 .. note:: Dédié à l'initiation à la conduite dans le cadre de la MDE.
 
-En suivant les statistiques du volant le plus vendu le Logitech G29 pourtant sorti il y a plusieurs années, la progression en 2 ans est de 2.8 fois plus populaires, dans cette statistique il faut noter que cela reste un marché de niche.
+En suivant les statistiques du volant le plus vendu le Logitech G29 pourtant sorti il y a plusieurs années, la progression en 2 ans est de 2.8 fois plus populaires, dans cette statistique il faut noter que cela reste un marché de niche et qu'il y a beaucoup de variations avec des fortes hausses autour des vacances d'été, du black friday et de Noël.
 
 Une forte hausse est à prévoir en 2021 avec la sortie de `Gran Turismo 7 sur PS5 <https://youtu.be/oz-O74SmTSQ>`_, le `développement de l'e-sport <https://youtu.be/IDBBRn7dXeU?t=7607>`_ et `streaming <https://youtu.be/SMrhjEc_cgc?t=755>`_. Le domaine devient concurrentiel avec de nouveaux produits et marques (`Virtual Racing School <https://virtualracingschool.com/dfp/>`_, Simagic, etc), une forte baisse des prix est à prévoir (pour l'instant les marges sont importantes) et donc hausse des utilisateurs.
 

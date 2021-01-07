@@ -107,6 +107,7 @@ Best Free Alternatives To Adobe Creative Suite: https://www.youtube.com/watch?v=
    :maxdepth: 2
    :caption: Programmation:
 
+   /tutorials/programmation/samlabs/index.rst
    /tutorials/programmation/arduino/index.rst
    /tutorials/programmation/microbit/index.rst
    /tutorials/programmation/makeymakey/index.rst

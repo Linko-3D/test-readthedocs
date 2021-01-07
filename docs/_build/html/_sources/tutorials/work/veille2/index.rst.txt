@@ -9,12 +9,20 @@ Pour ce début d'année, j'ai réalisé un suivi des tendances par machines du L
 J'ai organisé cette veille en plusieurs catégories:
 
 - les tendances actuelles: ce sont les tendances en cours et qui pour la plupart continuent à progresser ;
-- les tendances éducatives: ce sont les outils populaires dans les écoles, mais pas auprès des hobbyistes. Il faut aussi faire attention, si les ateliers sont basés sur le volontariat il pourrait y avoir peu de participants ;
+- les tendances scolaires: ce sont les outils populaires dans les écoles, mais pas auprès des hobbyistes. Il faut aussi faire attention, si les ateliers sont basés sur le volontariat il pourrait y avoir peu de participants ;
+- les anciennes tendances scolaires: ici sont regroupés les outils qui étaient utilisés par les écoles qui connaissent une décroissance en popularité ;
 - les tendances possibles à l'avenir: c'est l'arrivée de possibles tendances dans le domaine du numérique ;
 - les retours en tendance incertaine: d'anciennes tendances qui connaissent un regain en popularité, mais qui à cause de leur précédente chute risquent de baisser en popularité à nouveau ;
 - pas été en tendance: les outils qui n'ont jamais été en tendance. Comme elles sont limitées à des tâches bien précises donc n'évoluent pas ou très peu, la possibilité de les voir en tendance n'est pas garantie.
 
 .. note:: La liste n'est pas exhaustive, j'ai pu passer à côté de tendances numériques actuelles et à venir.
+
+Évolution des recherches autour du mot "Fab lab"
+################################################
+
+Le nombre de recherches pour "Fab lab" sur Google a atteint son point le plus haut en mars 2016 avant de baisser fortement. Cela signifie que les médias ont beaucoup communiqué autour durant cette période (cela coïncide à la popularité des imprimantes 3D qui étaient importantes) et que les recherches ont été réalisées principalement pour se renseigner et comprendre ce que c'est. Il ne faut donc pas prendre la courbe comme indice de popularité direct, mais elle reflète quelque peu la communication autour qui est en déclin en particulier durant l'année 2020.
+
+.. image:: fablab.png
 
 Les tendances actuelles
 #######################
@@ -30,8 +38,8 @@ Le moteur de jeu vidéo Godot connait une très forte croissance, le logiciel a 
 
 .. image:: godot.png
 
-Tendances éducatives
-####################
+Tendances scolaires
+###################
 
 Scratch
 -------
@@ -55,6 +63,16 @@ Micro::bit
 Comme pour Arduino la carte est utilisée dans le milieu scolaire et peu en dehors des cours. La courbe confirme cela, elle est élevée en période scolaire et baisse à chaque vacance d'été. Cela veut donc dire que les professeurs s'en servent pour l'enseignement et que c'est une bonne carte d'initiation à la programmation. On en déduit aussi que le public est jeune, car peu de recherches sont effectuées sur internet en dehors des cours.
 
 .. image:: micro_bit.png
+
+Les anciennes tendances scolaires
+#################################
+
+Lego Mindstorms
+---------------
+
+Lego Mindstorms était une tendance scolaire, on peut voir qu'ils étaient moins utilisés durant les vacances scolaires. Chaque année leur utilisation a baissé jusqu'à être divisée par deux sur les mêmes périodes en 5 ans.
+
+.. image:: mindstorms.png
 
 Les tendances possibles à l'avenir
 ##################################
@@ -100,12 +118,12 @@ Toutefois le casque pourrait peut-être revenir en tendance et plus durablement 
 .. image:: vr.png
 
 Pas été en tendance
-######################
+###################
 
 La découpeuse laser
 --------------------
 
-Bien que la découpeuse laser n'ait pas connu d'évolution en popularité durant ces 5 dernières années (pas d'évolution du prix et sécurité, toujours limité à des épaisseurs fines donc un menuisier ne peut s'en servir), il est à noter qu'autour de la "hype" de l'impression 3D, l'attrait a progressé et n'est pas redescendu contrairement à cette dernière ce qui veut dire que les labs en ont trouvé une meilleure utilité et/ou moins contraignante.
+Bien que la découpeuse laser n'ait pas connu d'évolution en popularité durant ces 5 dernières années (pas d'évolution du prix et sécurité, toujours limité à des épaisseurs fines donc un menuisier ne peut s'en servir), il est à noter qu'autour de la "hype" de l'impression 3D, l'attrait a beaucoup progressé et n'est pas redescendu contrairement à cette dernière ce qui veut dire que les labs en ont trouvé une meilleure utilité et/ou moins contraignante à l'usage.
 
 .. image:: laser_cutter_2004.png
 

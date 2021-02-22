@@ -1,0 +1,605 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="fr" >
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Ateliers Sam Labs &mdash; Documentation MDE LAB </title>
+  
+
+  
+  <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+
+  
+  
+  
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../../" src="../../../_static/documentation_options.js"></script>
+        <script src="../../../_static/jquery.js"></script>
+        <script src="../../../_static/underscore.js"></script>
+        <script src="../../../_static/doctools.js"></script>
+        <script src="../../../_static/language_data.js"></script>
+        <script src="../../../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Recherche" href="../../../search.html" />
+    <link rel="next" title="_____Imprimante 3D: 3D UP BOX+" href="../../fabrication/3dupbox/index.html" />
+    <link rel="prev" title="Astuces" href="../astuces/index.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../../index.html" class="icon icon-home" alt="Documentation Home"> MDE LAB
+          
+
+          
+            
+            <img src="../../../_static/license.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Work:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../bilan/index.html">Feuille de route Lab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ideas/index.html">Idées d’ateliers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../achats/index.html">Achats</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../analyse/index.html">Bases du fonctionnement du Lab itinérant</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../reunion/index.html">Réunion 19/06</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../reunion/index.html#reunion-2">Reunion 2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../livre/index.html">Synthèse: Espaces de création numérique en bibliothèque</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../veille/index.html">Veille technologique été 2020 - Danyl</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../veille2/index.html">Veille technologique - Suivi des tendances 2021 - Danyl</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../semaine_numerique/index.html">Semaine du numérique - propositions Danyl</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../astuces/index.html">Astuces</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Ateliers Sam Labs</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#quest-ce-que-sam-labs">Qu’est-ce que Sam Labs ?</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#avantages">Avantages:</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#inconvenients">Inconvénients</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#fonctionnement">Fonctionnement</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#la-connexion">La connexion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#les-systemes-logiques">Les systèmes logiques</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#module-de-lego-et-voiture">Module de LEGO et voiture</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#compatibilite">Compatibilité</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#projets">Projets</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#prerequis">Prérequis:</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#introduction-a-sam-studio">Introduction à Sam Studio</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">Projets</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#vehicule-lego">Véhicule LEGO</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#composants-necessaires-par-projet">Composants nécessaires par projet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#nombre-de-participants">Nombre de participants</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#temps-necessaire">Temps nécessaire</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#exemple-de-code-a-realiser">Exemple de code à réaliser</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#vehicule-autonome-lego">Véhicule autonome LEGO</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id4">Composants nécessaires par projet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id5">Nombre de participants</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id6">Temps nécessaire</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id7">Exemple de code à réaliser</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#feux-de-signalisation-automatique">Feux de signalisation automatique</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id8">Composants nécessaires par projet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id9">Nombre de participants</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id10">Temps nécessaire</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id11">Exemple de code à réaliser</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#alarme-de-presence">Alarme de présence</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id12">Composants nécessaires par projet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id13">Nombre de participants</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id14">Temps nécessaire</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id15">Exemple de code à réaliser</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#lumiere-automatique">Lumière automatique</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id16">Composants nécessaires par projet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id17">Nombre de participants</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id18">Temps nécessaire</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id19">Exemple de code à réaliser</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#un-chronometre">Un chronomètre</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#id20">Composants nécessaires par projet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id21">Nombre de participants</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id22">Temps nécessaire</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#id23">Exemple de code à réaliser</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">Fabrication:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/3dupbox/index.html">_____Imprimante 3D: 3D UP BOX+</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/dagoma/index.html">Imprimante 3D: Dagoma Neva Magis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/sense/index.html">Photogrammétrie: Sense 3D V2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/smartphone/index.html">Photogramétrie: Smartphone</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/3doodler/index.html">_____Stylo 3D: 3Doodler Start</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/curio/index.html">Découpeuse vinyle: Silhouette Curio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/roland/index.html">Découpeuse vinyle: Roland GS-24</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/papercraft/index.html">Papercraft: Logiciel Blender</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/bernina/index.html">Brodeuse: Bernina 500 E</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fabrication/epson/index.html">Imprimante: Epson SC-P600</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Programmation:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/samlabs/index.html">Carte: Sam Labs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/arduino/index.html">Carte: Arduino</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/microbit/index.html">Carte: Micro:Bit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programmation/makeymakey/index.html">Carte: Makey Makey</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Immersion:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/occulus/index.html">VR: Occulus Rift</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/conduite/index.html">Simulateur: Conduite</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/drones/index.html">Simulateur: Drones</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../immersion/aerien/index.html">Simulateur: Aerien</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Godot:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../godot/fps/index.html">FPS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../godot/network/index.html">Network</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../index.html">MDE LAB</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Ateliers Sam Labs</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../../_sources/tutorials/work/samlabs/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="ateliers-sam-labs">
+<h1>Ateliers Sam Labs<a class="headerlink" href="#ateliers-sam-labs" title="Lien permanent vers ce titre">¶</a></h1>
+<div class="section" id="quest-ce-que-sam-labs">
+<h2>Qu’est-ce que Sam Labs ?<a class="headerlink" href="#quest-ce-que-sam-labs" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Sam Labs est un ensemble de blocs de programmation pour les 6 à 11 ans ayant chacun une fonction spécifique. Ils permettent d’apprendre les bases de la programmation en créant un circuit logique entre ceux-ci.</p>
+<p>Les blocs sont disponibles en kit, ici est utilisé le <strong>Steam Kit</strong>.</p>
+<img alt="../../../_images/steam_kit.jpg" src="../../../_images/steam_kit.jpg" />
+<p>Les blocs sont en deux catégories:</p>
+<ul class="simple">
+<li><p>Entrés:</p></li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li><p>Bouton</p></li>
+<li><p>Capteur de lumière</p></li>
+<li><p>Curseur</p></li>
+<li><p>Gyroscope</p></li>
+<li><p>Proximité</p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>Sorties:</p></li>
+</ul>
+<blockquote>
+<div><ul>
+<li><p>LED RVB</p></li>
+<li><p>Moteur DC</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Sonnette</p></li>
+<li><p>Servo-moteur</p></li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div></blockquote>
+<p>Sur le site officiel, on trouve des cours (uniquement en anglais): <a class="reference external" href="https://samlabs.com/us/content/steam">https://samlabs.com/us/content/steam</a></p>
+<div class="section" id="avantages">
+<h3>Avantages:<a class="headerlink" href="#avantages" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Il n’y a pas de connectique par câbles, les bloques fonctionnent en bluetooth. Les branchements sont effectués virtuellement sur ordinateur (qui doit avoir le bluetooth c’est un inconvénient) sur le logiciel en ligne ou hors ligne Sam Studio: <a class="reference external" href="https://studio.samlabs.com/">https://studio.samlabs.com/</a>
+C’est pratique pour la voiture télécommandée, mais aussi pour expérimenter, il n’y a pas besoin de câbles à brancher et débrancher physiquement et cela permet d’ajouter des systèmes logiques intermédiaires. Par exemple si la luminosité est inférieure à 50 alors la LED RGB s’allume. On peut aussi ajouter des entrées depuis le clavier de l’ordinateur pour contrôler la voiture avec les flèches.</p>
+</div>
+<div class="section" id="inconvenients">
+<h3>Inconvénients<a class="headerlink" href="#inconvenients" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Avoir un ordinateur avec le bluetooth, mais aussi recharger les blocs (45 minutes nécessaire), ils contiennent une batterie. Ils se rechargent en mini USB, il y a 3 câbles USB avec chacun 5 embouts mini USB permettant d’en recharger 15 en même temps. Quand le LED du bloc est allumée en rouge il se recharge, en bleu il est chargé.
+Pour le pairer (synchroniser) avec l’ordinateur, il faut appuyer sur le bouton sur le côte qui est difficile à presser. Il y a un gros inconvénient, ça ne marche pas toujours, il y a de nombreux blocs que je n’arrivais pas à pairer. Une fois pairé on le voit apparaitre dans l’interface Sam Lab, on peut le glisser dans l’espace de travail, il disparait alors de l’interface des outils disponibles pour éviter d’importer plusieurs fois le même. On peut aussi importer une infinité de blocs virtuels afin de les tester.
+Une fois la connexion établie entre les blocs sur ordinateur les appareils réagissent directement, il n’y a pas de bouton start sur lequel presser, la compilation est effectuée en temps réel.</p>
+</div>
+</div>
+<div class="section" id="fonctionnement">
+<h2>Fonctionnement<a class="headerlink" href="#fonctionnement" title="Lien permanent vers ce titre">¶</a></h2>
+<div class="section" id="la-connexion">
+<h3>La connexion<a class="headerlink" href="#la-connexion" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Les blocs sont <a class="reference external" href="https://youtu.be/htgxcF5wTes">connectés entre eux par bluetooth</a>, une interface sur ordinateur appelé <a class="reference external" href="https://studio.samlabs.com/">Sam Studio</a> permet d’établir les connections.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>L’ordinateur doit avoir une connexion bluetooth.</p>
+</div>
+<p>Après chaque branchement virtuel, les blocs Samlabs réagissent instantanément, il n’y a pas de compilation à effectuer. On peut aussi utiliser des blocs virtuels pour effectuer les tests puis utiliser ceux connectés en bluetooth.
+Voici par exemple le branchement du bouton pour allumer une LED avec deux blocs virtuel:</p>
+<img alt="../../../_images/connexion.png" src="../../../_images/connexion.png" />
+<p>On peut virtuellement appuyer sur le bouton en cliquant sur le cercle bleu au-dessus du bloc, on voit que le LED s’allume en jaune:</p>
+<img alt="../../../_images/light_on1.png" src="../../../_images/light_on1.png" />
+<p>Certains blocs de sortie et noeuds logiques (montré plus bas) sont parfois réglables, il faut cliquer dessus puis sur l’icône de l’engrenage. Pour le LED on peut changer sa couleur:</p>
+<img alt="../../../_images/options.png" src="../../../_images/options.png" />
+<p>Pour supprimer un bloc on le fait glisser en bas de l’interface en maintenant le bouton gauche enfoncé où on le sélectionne puis clic sur la croix.</p>
+</div>
+<div class="section" id="les-systemes-logiques">
+<h3>Les systèmes logiques<a class="headerlink" href="#les-systemes-logiques" title="Lien permanent vers ce titre">¶</a></h3>
+<p>On peut entre la connectique des blocs ajouter des conditions logiques. Par exemple avec une logique « inverser » la LED s’allume lorsque le bouton n’est pas pressé:</p>
+<img alt="../../../_images/invert1.png" src="../../../_images/invert1.png" />
+<p>Un autre exemple, on peut allumer une lumière si la luminosité est faible en utilisant un capteur de lumière et une condition si la valeur est inférieure à un nombre défini puis le connecter à la LED RVB.</p>
+<img alt="../../../_images/bellow.png" src="../../../_images/bellow.png" />
+<p>Note: La condition envoie un vraie (1) ou faux (0) donc va allumer la lumière à sa luminosité maximale ou complètement l’éteindre.</p>
+</div>
+<div class="section" id="module-de-lego-et-voiture">
+<h3>Module de LEGO et voiture<a class="headerlink" href="#module-de-lego-et-voiture" title="Lien permanent vers ce titre">¶</a></h3>
+<p>On peut mettre les blocs dans des modules de LEGO et ainsi les fixer dans des constructions LEGO. Un exemple de réalisation.
+On peut utiliser l’un des deux modules de voiture pour y fixer deux blocs DC Moteur sur chacun avec des roues et programmer les commandes de celles-ci.</p>
+</div>
+<div class="section" id="compatibilite">
+<h3>Compatibilité<a class="headerlink" href="#compatibilite" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Le système est compatible avec les Micro:bit mais seulement en mode blocks (fonctionnement proche de Scratch). On peut par exemple utiliser le bouton du SamLabs pour afficher un message sur la Micro:bit.</p>
+</div>
+<div class="section" id="projets">
+<h3>Projets<a class="headerlink" href="#projets" title="Lien permanent vers ce titre">¶</a></h3>
+<p>La documentation donne des idées de projets avec le Steam kit, mais ils sont rédigés en anglais. Il y a des projets inspirants sur YouTube également avec les compétitions.</p>
+</div>
+</div>
+<div class="section" id="prerequis">
+<h2>Prérequis:<a class="headerlink" href="#prerequis" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Un des deux:</p>
+<ul class="simple">
+<li><p>ordinateur portable avec une connexion internet au site <a class="reference external" href="https://studio.samlabs.com/">Sam Studio</a> et le bluetooth activé</p></li>
+<li><p>tablette avec le bluetooth activé avecf le logiciel Sam Studio installé (disponible sur le Play Store)</p></li>
+<li><p>Des blocs Sam Labs chargés (la recharge prend environ 45 minutes)</p></li>
+</ul>
+</div>
+<div class="section" id="introduction-a-sam-studio">
+<h2>Introduction à Sam Studio<a class="headerlink" href="#introduction-a-sam-studio" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Depuis un ordinateur connecté il faut aller sur le site <a class="reference external" href="https://studio.samlabs.com/">Sam Studio</a> ou lancer l’application sur une tablette.</p>
+<p>Pour créer un projet, il faut cliquer sur le + en haut à gauche, ensuite il faut choisir Sam Space (Sam Blockly va ouvrir une version avec des briques de code similaire à Scratch, cette version est plus difficile à utiliser.</p>
+<p>L’interface de Sam Studio va apparaitre. Au centre il y a l’espace de travail où seront affichés les blocs Sam Labs et les différentes connexions qui permettront d’établir la logique du système.</p>
+<p>En dessous sont affichées 3 catégories, il faudra faire un glisser-déposer de leur contenu dans l’espace de travail pour les ajouter.</p>
+<p>Les catégories sont:</p>
+<ul class="simple">
+<li><p>Entrées: les blocs qui permettent de déclencher des interactions</p></li>
+<li><p>Sorties: les blocs qui sont la résultante de l’interaction</p></li>
+<li><p>Comportement: des outils permettant de déterminer plus en détail l’interaction (si la luminosité est inférieure à un niveau donné alors, interagir)</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Vous pouvez avoir des détails sur ce que font les blocs en mettant la souris par-dessus.</p>
+</div>
+<img alt="../../../_images/interface.png" src="../../../_images/interface.png" />
+<p>Les blocs d’entrées et sorties sont des blocs virtuels, ils ne permettent pas de faire fonctionner les blocs physiques Sam Labs. Pour qu’ils fonctionnent cliquez en bas à gauche sur le cercle avec le + avec écrit en dessous « Connect ». Dans la fenêtre qui s’ouvre, cliquez sur « Connecter appareil ». Vous devez allumer un bloc Sam Labs, appuyez 3 secondes sur le bouton d’allumage dessus, il sera alors allumé en rouge pour indiquer qu’il n’est pas associé à Sam Studio. Dans Sam Studio cliquez sur Associer un appareil, vous devriez le voir apparaitre, sélectionnez-le puis cliquez sur « Associer ».</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Vous pouvez associer jusqu’à 6 blocs par projet.</p>
+</div>
+<p>Vous verrez le bloc apparaitre dans l’interface après quelques secondes. Pourle reconnaitre, il sera affiché tout à gauche dans la liste des boutons disponibles, avec des ombres dessus contrairement aux autres icônes. Si le bloc n’est pas visible, vérifiez que vous êtes dans la bonne catégorie entre Entrées et Sorties.</p>
+<p>Vous pouvez le glisser dans l’espace de travail, il disparait ensuite des blocs disponibles, cela vous évite d’utiliser plusieurs fois le même bloc. Les blocs physiques sont automatiquement synchronisés. Si vous avez utilisé une entrée, vous devriez voir sa valeur changer, par exemple si vous avez utilisé un bouton, vous verrez dans l’interface lorsque vous appuyez dessus physiquement.</p>
+<p>Associer un bloc de sortie comme un moteur DC par exemple et glissez-le dans l’espace de travail. Pour établir une connexion, reliez les points à côté des blocs. En reliant le bouton au moteur, il se mettra à tourner lorsque vous appuierez sur le bouton.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Le bouton alterne entre une valeur 0 (quand vous n’appuyez pas) et 100 (quand vous appuyez). Avec une entrée de type Curseur vous pourrez utiliser les valeurs intermédiaires et moduler la vitesse à laquelle moteur tourne.</p>
+</div>
+<p>Dans Comportement vous pouvez ajouter une logique. Par exemple avec une connexion entre un bouton et LED RVB il faut rester appuyé sur le bouton pour que celle-ci s’allume. Pour faire fonctionner le bouton comme un interrupteur allez dans Comportements, dans Interrupteurs puis faites glisser le bouton Interrupteur au milieu de la connexion:</p>
+<img alt="../../../_images/Interrupteur.png" src="../../../_images/Interrupteur.png" />
+<p>Les blocs ou comportements ont parfois des options, pour y accéder sélectionnez-le puis cliquez sur l’icône représentant un engrenage. S’il n’y pas d’engrenage c’est qu’il n’y a pas d’option de disponible. Pour la LED RVB vous pouvez changer sa couleur.</p>
+</div>
+<div class="section" id="id3">
+<h2>Projets<a class="headerlink" href="#id3" title="Lien permanent vers ce titre">¶</a></h2>
+<div class="section" id="vehicule-lego">
+<h3>Véhicule LEGO<a class="headerlink" href="#vehicule-lego" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Réalisation d’un véhicule en LEGO contrôlable avec les touches de clavier de l’ordinateur.</p>
+<div class="section" id="composants-necessaires-par-projet">
+<h4>Composants nécessaires par projet<a class="headerlink" href="#composants-necessaires-par-projet" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>2 moteurs DC</p></li>
+<li><p>2 roues</p></li>
+<li><p>1 sonnette</p></li>
+<li><p>Des briques LEGO</p></li>
+</ul>
+</div>
+<div class="section" id="nombre-de-participants">
+<h4>Nombre de participants<a class="headerlink" href="#nombre-de-participants" title="Lien permanent vers ce titre">¶</a></h4>
+<p>2 groupes de 2 à 4 personnes (limité aux 4 moteurs du Steam Kit, donc 2 moteurs par groupe)</p>
+</div>
+<div class="section" id="temps-necessaire">
+<h4>Temps nécessaire<a class="headerlink" href="#temps-necessaire" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>30 minutes (5 si le véhicule est déjà prêt)</p></li>
+</ul>
+<p>La partie programmation ne nécessite que 3 paramètres, le temps est surtout alloué à l’assemblage de la voiture, camion, formule 1, tricycle en LEGO.</p>
+</div>
+<div class="section" id="exemple-de-code-a-realiser">
+<h4>Exemple de code à réaliser<a class="headerlink" href="#exemple-de-code-a-realiser" title="Lien permanent vers ce titre">¶</a></h4>
+<p>Pour réaliser le véhicule LEGO on peut utiliser le Comportements &gt; Mouvement &gt; Contrôleur de véhicule. On le relie à 2 moteurs DC. Sur les moteurs il faut placer les roues SamLabs et les utiliser de préférence à l’avant du véhicule et à l’arrière les roues LEGO. Les flèches du clavier permettront de diriger la voiture. Si la voiture recule en appuyant sur flèche du haut, on peut inverser leur sens de rotation par défaut dans leurs options en cliquant dessus puis sur l’icône d’engrenage.</p>
+<img alt="../../../_images/rc_car.png" src="../../../_images/rc_car.png" />
+</div>
+</div>
+<div class="section" id="vehicule-autonome-lego">
+<h3>Véhicule autonome LEGO<a class="headerlink" href="#vehicule-autonome-lego" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Réalisation d’un véhicule en LEGO qui avance en permanence et s’arrête lorsqu’il détecte un obstacle.</p>
+<div class="section" id="id4">
+<h4>Composants nécessaires par projet<a class="headerlink" href="#id4" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>2 moteurs DC</p></li>
+<li><p>2 roues</p></li>
+<li><p>1 détecteur de proximité</p></li>
+<li><p>Des briques LEGO</p></li>
+</ul>
+</div>
+<div class="section" id="id5">
+<h4>Nombre de participants<a class="headerlink" href="#id5" title="Lien permanent vers ce titre">¶</a></h4>
+<p>2 groupes de 2 à 4 personnes (limité aux 4 moteurs Sam Labs dont 2 par groupe)</p>
+</div>
+<div class="section" id="id6">
+<h4>Temps nécessaire<a class="headerlink" href="#id6" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>30 minutes (5 si le véhicule est déjà prêt)</p></li>
+</ul>
+<p>La partie programmation ne nécessite que 3 paramètres, le temps est surtout alloué à l’assemblage de la voiture, camion, formule 1, tricycle en LEGO.</p>
+</div>
+<div class="section" id="id7">
+<h4>Exemple de code à réaliser<a class="headerlink" href="#id7" title="Lien permanent vers ce titre">¶</a></h4>
+<p>L’entrée est un détecteur de proximité, le nombre augmente quand un obstacle se rapproche. Il faut utiliser une comparaison tant que le nombre et faible, que l’obstacle est éloigné les deux moteurs peuvent tourner, sinon ils s’arrêtent.</p>
+<p>Le détecteur de proximité doit être monté à l’avant du véhicule est orienté à 90 degrés vers l’avant.</p>
+<img alt="../../../_images/autonomous.png" src="../../../_images/autonomous.png" />
+</div>
+</div>
+<div class="section" id="feux-de-signalisation-automatique">
+<h3>Feux de signalisation automatique<a class="headerlink" href="#feux-de-signalisation-automatique" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Création d’un feu de signalisation qui alterne entre le vert, orange et rouge.</p>
+<div class="section" id="id8">
+<h4>Composants nécessaires par projet<a class="headerlink" href="#id8" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>1 LED RVB</p></li>
+</ul>
+</div>
+<div class="section" id="id9">
+<h4>Nombre de participants<a class="headerlink" href="#id9" title="Lien permanent vers ce titre">¶</a></h4>
+<p>2 groupes de 4 (2 LED RVB disponibles)</p>
+</div>
+<div class="section" id="id10">
+<h4>Temps nécessaire<a class="headerlink" href="#id10" title="Lien permanent vers ce titre">¶</a></h4>
+<p>40 minutes, le code peut être assez complexe pour un débutant.</p>
+</div>
+<div class="section" id="id11">
+<h4>Exemple de code à réaliser<a class="headerlink" href="#id11" title="Lien permanent vers ce titre">¶</a></h4>
+<p>On place un bouton virtuel puis un Comportements &gt; Interrupteurs &gt; Interrupteur, une appuie une fois sur le bouton virtuel pour mettre l’interrupteur sur On, puis on peut supprimé le bouton. On le connecte à un Comportements &gt; Heure &gt; Intervale, on peut régler le temps de chaque intervalle qui est par défaut à 1. Pour alterner entre les différentes couleurs, on utilise un compteur qui va aller de 0 à 2, chaque nombre sera comparé pour assigner une couleur. Le couleur se trouve dans Comportements &gt; Nombres &gt; Compteur, dans ses paramètres il doit être réglé de 0 à 2. On utilise trois comparaisons dans Comportements &gt; Nombres &gt; Comparer. Lorsque c’est égal à 0 on assigne la couleur verte dans Comportements &gt; Couleurs &gt; Couleur. Pour 1 le orange et pour 2 le rouge. On relie les trois bloques d’assignation de la couleur au bloc RVB.</p>
+<img alt="../../../_images/signalisation.png" src="../../../_images/signalisation.png" />
+</div>
+</div>
+<div class="section" id="alarme-de-presence">
+<h3>Alarme de présence<a class="headerlink" href="#alarme-de-presence" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Active une sonnette lorsqu’un obstacle est à proximité.</p>
+<div class="section" id="id12">
+<h4>Composants nécessaires par projet<a class="headerlink" href="#id12" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>1 détecteur de proximité</p></li>
+<li><p>1 sonnette</p></li>
+</ul>
+</div>
+<div class="section" id="id13">
+<h4>Nombre de participants<a class="headerlink" href="#id13" title="Lien permanent vers ce titre">¶</a></h4>
+<p>2 groupes de 2 personnes</p>
+</div>
+<div class="section" id="id14">
+<h4>Temps nécessaire<a class="headerlink" href="#id14" title="Lien permanent vers ce titre">¶</a></h4>
+<p>5 minutes.</p>
+</div>
+<div class="section" id="id15">
+<h4>Exemple de code à réaliser<a class="headerlink" href="#id15" title="Lien permanent vers ce titre">¶</a></h4>
+<p>En entrée il y a un détecteur de proximité puis un comparateur si l’obstacle est suffisamment proche, par exemple au-dessus de la valeur 60, alors la sonnette se mettra à sonner.</p>
+<img alt="../../../_images/alarm.png" src="../../../_images/alarm.png" />
+</div>
+</div>
+<div class="section" id="lumiere-automatique">
+<h3>Lumière automatique<a class="headerlink" href="#lumiere-automatique" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Une lumière qui s’allume automatiquement lorsque l’éclairage est sombre.</p>
+<div class="section" id="id16">
+<h4>Composants nécessaires par projet<a class="headerlink" href="#id16" title="Lien permanent vers ce titre">¶</a></h4>
+<ul class="simple">
+<li><p>1 capteur de lumière</p></li>
+<li><p>1 LED RVB</p></li>
+</ul>
+</div>
+<div class="section" id="id17">
+<h4>Nombre de participants<a class="headerlink" href="#id17" title="Lien permanent vers ce titre">¶</a></h4>
+<p>2 groupes de 2 personnes</p>
+</div>
+<div class="section" id="id18">
+<h4>Temps nécessaire<a class="headerlink" href="#id18" title="Lien permanent vers ce titre">¶</a></h4>
+<p>5 minutes.</p>
+</div>
+<div class="section" id="id19">
+<h4>Exemple de code à réaliser<a class="headerlink" href="#id19" title="Lien permanent vers ce titre">¶</a></h4>
+<p>L’entrée est un capteur de lumière, dessus est utilisé un comparateur pour allumer la lumière une fois que l’éclairage est suffisamment sombre (la nuit) donc inférieur à 20 par exemple alors la LED RVB s’allume.</p>
+<img alt="../../../_images/automatic_light.png" src="../../../_images/automatic_light.png" />
+</div>
+</div>
+<div class="section" id="un-chronometre">
+<h3>Un chronomètre<a class="headerlink" href="#un-chronometre" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Un chronomètre qui s’enclenche avec la touche espace du clavier et qui affiche les secondes qui s’incrémentent.</p>
+<div class="section" id="id20">
+<h4>Composants nécessaires par projet<a class="headerlink" href="#id20" title="Lien permanent vers ce titre">¶</a></h4>
+<p>Aucun</p>
+</div>
+<div class="section" id="id21">
+<h4>Nombre de participants<a class="headerlink" href="#id21" title="Lien permanent vers ce titre">¶</a></h4>
+<p>6 maximum.</p>
+</div>
+<div class="section" id="id22">
+<h4>Temps nécessaire<a class="headerlink" href="#id22" title="Lien permanent vers ce titre">¶</a></h4>
+<p>10 minutes.</p>
+</div>
+<div class="section" id="id23">
+<h4>Exemple de code à réaliser<a class="headerlink" href="#id23" title="Lien permanent vers ce titre">¶</a></h4>
+<p>En entré on utilise la barre d’espace puis un Comportements &gt; Interrupteurs &gt; Interrupteur pour lancer ou mettre en pause le chronomètre. On connecte un Comportements &gt; Heure &gt; Intervale configuré à 1 seconde (c’est le paramètre par défaut). On le connecte à un Comportements &gt; Nombre &gt; Compteur. Pour remettre le chronomètre à 0 il faut mettre en pause celui-ci est dans compteur ouvrir ses paramètres et cliquer sur « Réinitialiser ».</p>
+<img alt="../../../_images/stopwatch.png" src="../../../_images/stopwatch.png" />
+</div>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../fabrication/3dupbox/index.html" class="btn btn-neutral float-right" title="_____Imprimante 3D: 3D UP BOX+" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../astuces/index.html" class="btn btn-neutral float-left" title="Astuces" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        
+        &copy; Copyright CC BY-NC-SA 4.0, Bekhoucha Danyl (dbekhouc@gmail.com)
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

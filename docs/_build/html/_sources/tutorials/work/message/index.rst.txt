@@ -1,10 +1,11 @@
-Réunion 19/06
-=============
+The End
+=======
 
 Bonjour,
 
-Comme j'arrive à la fin de mon contrat je voulais vous indiquer pourquoi il m'a été difficile d'avancer sur les projets durant 1 an alors que d'habitude je suis beaucoup plus performant. En autodidacte j'aurais pu apprendre l'équivalent de toutes mes connaissances acquises à la MDE en 2 semaines je pense.
-Pour mes tâches à faire cette semaine j'avance très peu également, vous allez comprendre en lisant la suite. Je n'accuse personne, je pense que l'approche a été maladroite des deux côtés avec un sentiment de ne pas avoir été intégré à l'équipe.
+Comme j'arrive à la fin de mon contrat je voulais vous indiquer pourquoi il m'a été difficile d'avancer sur les projets durant 1 an alors que d'habitude en autodidacte je suis beaucoup plus performant. Pour mes tâches à faire cette semaine j'avance très peu également, j'explique ici pourquoi. Je n'accuse personne, je pense que l'approche a été maladroite des deux côtés avec un sentiment de ne pas avoir été intégré et de pas m'être intégré à l'équipe.
+
+En bas j'explique pourquoi je souhaiterais effectuer mes deux dernières semaines en télétravail uniquement, car pour moi ce n'est plus supportable de venir à la MDE, ma santé est directement impactée.
 
 Sentiment profond de mise à l'écart
 -----------------------------------
@@ -14,7 +15,7 @@ Depuis mon arrivée j'ai eu le sentiment d'être mis à l'écart, de ne pas avoi
 Mise à l'écart relationnelle
 ++++++++++++++++++++++++++++
 
-Dès le départ lors des premiers appels téléphoniques Maud et Kevin échangeaient entre eux pendant parfois plus d'1h sans jamais m'adresser la parole. Au quotidien au téléphone, jamais ils ne m'avaient adressé la parole pendant 1 mois et demi. C'était un peu spécial, car nous ne nous étions jamais rencontrés, donc c'était peut-être normal qu'ils ne parlent pas à une nouvelle personne et encore moins sans m'avoir vu.
+Dès le départ lors des premiers appels téléphoniques Maud et Kevin échangeaient entre eux pendant parfois plus d'1h sans jamais m'adresser la parole. Au quotidien au téléphone, jamais ils ne m'avaient adressé la parole et cela avait duré pendant 1 mois et demi. C'était un peu spécial, car nous ne nous étions jamais rencontrés, donc c'était peut-être normal qu'ils ne parlent pas à une nouvelle personne et encore moins sans m'avoir vu. Je ne l'avais pas mal pris.
 
 Mais ça a perduré lorsque j'étais en présentiel. Pendant mes 11 mois, je venais et j'étais seul, j'étais comme un fantôme au bureau, les rares fois où on me parlait c'était pour me signaler ce que je faisais mal. Le seul moment où on s'apercevait plusieurs minutes de ma présence c'était à la réunion Kanban durant lesquels les haussements de tons et soupirs étaient quotidiens et devant tout le monde. Je n'arrivais plus à venir le matin, je n'arrivais plus à dormir, je ne pouvais plus profiter ni des week-ends et congés, car j'y pensais, en me remettant en question et me disant que je ne savais rien faire correctement. Ce moment de la journée me rendait malade. Une fois les réflexion faite je retournais pour rester invisible à mon bureau jusqu'à la fin de la journée. J'adresser la parole pour dire "Bon appétit" et "Au revoir".
 
@@ -35,8 +36,14 @@ Je pensais qu'il y aurait des ateliers avec un fil conducteur, un objectif pouss
 
 Les  réunions sur les décisions du Lab ont été faites sans moi. Puis il me fallait attendre plusieurs jours ou semaines les réunions-cadres afin de lire le compte rendu et savoir ce qui avait été décidé. Parfois après la prise des décisions et avant le compte rendu des réunions-cadres j'entendais par les bruits de couloirs et même venant de la part des visiteurs et de techniciens des informations. C'est en écoutant les techniciens qui réparaient la porte du garage que j'ai appris le lancement probable du lab dans les collèges, je ne l'aurais su que plus tard autrement.
 
+
+Motivation sur les tâches en cours
+----------------------------------
+
+Actuellement on me demande à partir de ce que je pense pourrait bien marcher en ateliers de proposer mes meilleures idées alors que je ne serais plus là et que les personnes qui m'ont donné le sentiment de me mettre à l'écart les reprennent. Pour moi il est difficile d'avancer en sachant que si mes idées marchent, je serais pendant ce temps à la recherche d'un emploi et peut être en grande difficulté avec la crise et j'aurais peut-être du mal à rebondir suite à mon expérience passée.
+
 Une ambiance qui ne cesse de se dégrader
-++++++++++++++++++++++++++++++++++++++++
+----------------------------------------
 
 Depuis mon arrivé un collègue dont je ne citerais pas le nom, m'a peu souhaité bonjour, au revoir, bon appétit, en retour et il fallait que je prenne l'initiative et répète.
 Depuis plus récemment il ne souhaite plus me le dire du tout ni même prendre la peine de lever la tête, je travaille pourtant avec cette personne tous les jours dans le même bureau. Deux collègues proches ont décidé de me supprimer en même temps de Facebook (j'avais leur contact pour les réunions). Et récemment, le mercredi 24 cette personne m'a même dit qu'elle n'attendait qu'une chose de moi et rien d'autre: que je parte.
